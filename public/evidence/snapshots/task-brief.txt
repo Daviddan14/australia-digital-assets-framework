@@ -1,0 +1,110 @@
+Skip to content
+Task Board
+Tasks
+Ledger
+Rules
+Sign in
+All tasks
+TASK-30
+Research
+Cycle 3
+Open
+Reviewed by Reviewer 4
+Australia's Digital Assets Framework Act: What It Means for Tokeniser
+
+Write a plain language explainer of Australia's Digital Assets Framework Act and what it means for issuers and for Tokeniser.
+
+Brief
+
+The Corporations Amendment (Digital Assets Framework) Act 2026 received Royal Assent on 8 April 2026 and commences on 9 April 2027. It brings digital asset platforms and tokenised custody platforms under ASIC licensing, in Redbelly's home market. Holders and issuers are asking what it changes. This explainer sets out the rules in plain language and shows where Redbelly's built in compliance fits.
+
+This is a general explainer, not legal advice. Shortlisted entries are sent to the Redbelly team for review before anything is published.
+
+Scope of work
+Explain what the Act is and why it was introduced.
+Set out who needs a licence and who does not.
+Give the timeline, including key dates before and after 9 April 2027.
+Explain what changes for issuers who tokenise assets through a platform like Tokeniser.
+Show where Redbelly's compliance design lines up with the new rules, and where it is unclear.
+Open with a clear statement that the piece is general information and not legal advice.
+Write a short plain language summary the DAO can share with the community.
+Deliverables
+All are required
+1.
+The explainer, as a Google Doc, Word file or PDF. Length is your call, but it should be readable in one sitting.
+2.
+A short community summary (an X thread or a few paragraphs).
+3.
+A source list with a link for every factual claim, using the Act itself and ASIC material wherever possible.
+Quality benchmarks
+Every factual claim has a working source link, with primary sources (the Act, ASIC) preferred over news coverage.
+Someone with no legal background understands who is affected and when.
+Clear separation between what the law says and the writer's analysis.
+Neutral tone, no claims that Redbelly or Tokeniser is already compliant unless a source says so.
+Failure criteria
+Any one fails the submission
+Missing the "not legal advice" statement.
+Any statement that Redbelly, Tokeniser or any issuer is licensed or compliant without a source.
+Wrong dates, thresholds or licence requirements.
+Any factual claim without a source, or with a source that does not support it.
+Price talk, investment advice or promises of returns.
+AI generated text submitted without checking, including made up facts or sources.
+Personal credit inside the deliverable (names, handles, signatures, watermarks or "made by" lines). Contributors are credited by the DAO once the work is accepted, not inside the work itself.
+Resources
+The Act, as made (C2026A00038): https://www.legislation.gov.au/C2026A00038/asmade/text
+ASIC implementation roadmap: https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation
+Tokeniser website (product, technology, why tokenise, knowledge hub): https://tokeniser.com
+Redbelly asset tokenisation: https://redbelly.network/asset-tokenisation
+Redbelly docs (Receptor, verifiable credentials, Eligibility SDK): https://docs.redbelly.network
+Individual KYC onboarding overview: https://docs.redbelly.network/pages/eligibility-sdk/onboarding/individual/overview/
+TASK-07 Project Acacia deep dive (winning entry): https://khalyd.substack.com/p/redbelly-network-and-the-rbas-project
+Redbelly Project Acacia page: https://redbelly.network/projectacacia
+How submissions are scored
+7 criteria, 1 to 5 each, 35 in total
+1.
+Deliverable completeness
+Does the submission include everything listed in Required Deliverables?
+2.
+Quality Benchmarks met
+Does the submission satisfy each benchmark defined in the task spec?
+3.
+Technical accuracy
+Is the code, analysis, or content factually correct and free of critical errors?
+4.
+Documentation quality
+Is the companion documentation clear, complete, and deployment-ready?
+5.
+Test coverage / verification
+Are all claims, functions, or outputs verifiable and tested?
+6.
+Failure Criteria
+Does the submission avoid every defined failure condition?
+7.
+Overall standard
+Does the submission meet the bar expected for a paid, published deliverable?
+
+The highest scoring shortlisted submission is selected when the task completes. Only the selected submission is paid.
+
+Reward
+
+37,808 RBNT
+about $58 today
+
+100% RBNT
+
+Slots
+0 of 5 open
+Submissions close
+2 Nov 2026, 9 days left
+Paid
+The selected submission only
+Sign in to take partCreate an account
+
+Paid community work for Redbelly, reviewed against a published rubric and recorded on a public ledger.
+
+Rulebook
+Terms and Conditions
+Public ledger
+Brand kit
+
+Redbelly DAO Community Task Board
