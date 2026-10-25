@@ -1,0 +1,441 @@
+# Exact passages the explainer relies on. Each `quote` must appear, word for
+# word, in the saved copy evidence/snapshots/<source>.txt (scripts/verify.py
+# checks this, ignoring line breaks and curly versus straight quote marks).
+# `at` says where in the source the passage sits.
+
+evidence:
+  # ---------------------------------------------------------------- the Act
+  - id: act-number
+    source: act
+    at: Title page
+    quote: "No. 38, 2026"
+  - id: act-assent
+    source: act
+    at: Long title
+    quote: "[Assented to 8 April 2026]"
+  - id: act-commence-rule
+    source: act
+    at: Section 2, commencement table
+    quote: "The day after the end of the period of 12 months beginning on the day this Act receives the Royal Assent."
+  - id: act-commence-date
+    source: act
+    at: Section 2, commencement table, column 3
+    quote: "8 April 2027"
+  - id: act-column3
+    source: act
+    at: Subsection 2(2)
+    quote: "Any information in column 3 of the table is not part of this Act."
+  - id: act-amends
+    source: act
+    at: Long title
+    quote: "An Act to amend the law relating to corporations and financial services, and for related purposes"
+  - id: act-asic-act
+    source: act
+    at: Schedule 1, Part 7
+    quote: "Part 7—Amendment of the ASIC Act"
+  - id: act-second-reading
+    source: act
+    at: End note
+    quote: "House of Representatives on 26 November 2025 Senate on 5 February 2026"
+  - id: act-token
+    source: act
+    at: New s 761GB(1) and (2)
+    quote: "the person can (whether alone or jointly with one or more other persons): (a) transfer the electronic record; and (b) exclude one or more other persons from transferring the electronic record; and (c) demonstrate that the person can do the things in paragraphs (a) and (b)."
+  - id: act-token-fact
+    source: act
+    at: New s 761GB(3)
+    quote: "it only matters what the person can do as a matter of fact rather than law"
+  - id: act-joint
+    source: act
+    at: New s 86(3)
+    quote: "the person needs the express cooperation of another person in order to be able to satisfy paragraph 761GB(2)(a), (b) or (c) for the electronic record; and (b) that other person can unilaterally satisfy that paragraph for the electronic record."
+  - id: act-dap
+    source: act
+    at: New s 761GC(1)
+    quote: "A digital asset platform is a facility under which: (a) a person (the operator) possesses one or more digital tokens (the underlying assets); and (b) the underlying assets are so possessed for or on behalf of another person"
+  - id: act-tcp
+    source: act
+    at: New s 761GD(1)
+    quote: "a person (the operator) identifies one or more assets other than money (the underlying assets); and (b) for each underlying asset: (i) the operator creates a single digital token; and (ii) possessing the digital token confers a right to redeem, or direct the delivery of, the underlying asset"
+  - id: act-tcp-not-dap
+    source: act
+    at: New s 761GC(4)
+    quote: "Despite subsection (1), a tokenised custody platform cannot be a digital asset platform."
+  - id: act-products
+    source: act
+    at: New s 764A(1)(la) and (lb)
+    quote: "(la) a digital asset platform, unless the platform is a managed investment scheme; (lb) a tokenised custody platform, unless the platform is a managed investment scheme;"
+  - id: act-tcp-mis-test
+    source: act
+    at: New para (md) of the definition of managed investment scheme, s 9
+    quote: "(iv) all of the underlying assets must belong to the same class of asset; and (v) the digital token created for an underlying asset can only be divisible to the same extent that the underlying asset is reasonably capable of being divisible in a way that each part can be physically delivered;"
+  - id: act-pdti
+    source: act
+    at: New s 9E(2)
+    quote: "(a) the protocols are a set of open source and publicly accessible standards for transmitting, processing and recording electronic records in a non-discretionary manner; (b) the protocols permit any person to contribute to the integrity, functionality and reliability of the infrastructure by conducting activities involving transmitting, processing and recording such electronic records; (c) the protocols are not reliant on any participant having a role so critical that the transmitting, processing, or recording of such electronic records cannot happen without the participant;"
+  - id: act-pdti-not-product
+    source: act
+    at: New s 765A(1)(xa)
+    quote: "(xa) public digital token infrastructure;"
+  - id: act-consensus-not-service
+    source: act
+    at: New s 766A(3)
+    quote: "None of the following is the provision of a financial service: (a) a person's conduct done in the course of work of a kind ordinarily done by clerks or cashiers; (b) conducting activities described in paragraph 9E(2)(b) (about consensus activities involving public digital token infrastructure)."
+  - id: act-low-value
+    source: act
+    at: New s 911A(2)(ja)
+    quote: "(i) no financial products are held under any digital asset platform (a relevant platform) issued by a member of the person's closely-related group; and (ii) the total value of transactions in the last 12 months through all relevant platforms does not exceed $10 million; and (iii) whenever a digital token begins to be an underlying asset of a relevant platform for a client (whether directly or through a nominee), the total of the entry values of all underlying assets of all relevant platforms for the client does not exceed $5,000; and (iv) the person has lodged with ASIC, in the prescribed form, notice that the person intends to rely on the exemption in this paragraph for digital asset platforms;"
+  - id: act-low-value-raise
+    source: act
+    at: New s 911A(4B)
+    quote: "An amount in the exemption under paragraph (2)(ja) is taken to be replaced by any higher amount prescribed in, or worked out using a method prescribed in, regulations made for the purposes of this subsection."
+  - id: act-arranging
+    source: act
+    at: New s 911A(2)(jb)
+    quote: "(i) advising another person about the existence of a digital asset platform or tokenised custody platform; (ii) arranging for another person to use a digital asset platform or tokenised custody platform; and when the person provides the service: (iii) the person does so in the ordinary course of the person's business; and (iv) such services are not a significant part of the person's business;"
+  - id: act-asset-standards
+    source: act
+    at: New s 912BE(1)
+    quote: "possessing and safeguarding the underlying assets of the platforms; or (ii) recordkeeping, reconciliation and reporting for the underlying assets of the platforms; or (iii) using the underlying assets of the platforms;"
+  - id: act-money-trust
+    source: act
+    at: New s 912BE(2)(b)
+    quote: "requires any money held under a digital asset platform or tokenised custody platform (that is not an underlying asset of the platform) to be held in trust for, or on behalf of, a client under the platform"
+  - id: act-one-wallet
+    source: act
+    at: New s 912BE(2)(e)
+    quote: "in one wallet; if the licensee's internal accounting system identifies the digital tokens as the client's"
+  - id: act-eligibility
+    source: act
+    at: New s 912BG(1)(a)
+    quote: "transparent and non-discriminatory eligibility criteria for identifying who can become a client under the platform"
+  - id: act-settlement-method
+    source: act
+    at: New s 912BG(1)(c)
+    quote: "the method (the settlement method) for executing client instructions to execute and settle transactions involving the acquisition or disposal of underlying assets of the platform"
+  - id: act-register
+    source: act
+    at: New s 912BG(1)(d)(v)
+    quote: "whether and how a client's acquisition of an underlying asset of the platform will be recorded in any legal or technical register"
+  - id: act-rules-contract
+    source: act
+    at: New s 912BG(2)
+    quote: "The platform rules of a digital asset platform or tokenised custody platform have effect as a contract under seal: (a) between the licensee and each client under the platform"
+  - id: act-guide
+    source: act
+    at: New s 1020AN(1)
+    quote: "The licensee must, before issuing a digital asset platform or tokenised custody platform to a person as a retail client under the platform, give the person a DAP/TCP Guide"
+  - id: act-guide-content
+    source: act
+    at: New s 1020AO(1)
+    quote: "understand the nature of the platform and any risks associated with participation in the platform"
+  - id: act-guide-charges
+    source: act
+    at: New s 1020AO(1)(c)
+    quote: "understand the method and extent of all charges associated with the platform"
+  - id: act-offer-notify
+    source: act
+    at: New s 741A(1)
+    quote: "must promptly notify the operator of the platform, and each custodian for the platform, if any of the following events happens"
+  - id: act-offer-no-platform-info
+    source: act
+    at: New s 741A(2)
+    quote: "Nothing in Part 6D.2 or 6D.3 requires a disclosure document for offers of securities under a digital asset platform or tokenised custody platform to include information about: (a) the platform"
+  - id: act-corps
+    source: act
+    at: Schedule 1, Part 1, Division 1
+    quote: "Division 1—Main amendments Corporations Act 2001"
+  - id: act-offer-events
+    source: act
+    at: New s 741A(1)(d) and (f)
+    quote: "a supplementary or replacement document is lodged with ASIC in relation to the disclosure document"
+  - id: act-transition
+    source: act
+    at: New s 1730
+    quote: "transition period means the 6-month period starting on commencement."
+  - id: act-apply-keep-going
+    source: act
+    at: New s 1732(3)
+    quote: "the DAP/TCP amendments do not apply in relation to the provision of the service until the day after the day ASIC makes a decision described in that paragraph in response to the application."
+  - id: act-no-apply
+    source: act
+    at: Note to new s 1732(3)
+    quote: "If the responsible person fails to apply during the transition period, then the DAP/TCP amendments will start to apply immediately after the transition period."
+
+  # ---------------------------------------------------------- Government
+  - id: tsy-introduced
+    source: treasury-mr
+    at: Opening paragraph
+    quote: "The Albanese Government has introduced new legislation to the Parliament to help unlock innovation and protect Australians investing in digital assets."
+  - id: tsy-gap
+    source: treasury-mr
+    at: Body
+    quote: "Currently, businesses can hold unlimited client digital assets without financial law safeguards. Recent collapses overseas have shown the consequences of inadequate oversight."
+  - id: tsy-obligations
+    source: treasury-mr
+    at: List of core obligations
+    quote: "Providing accessible dispute resolution and compensation if things go wrong."
+  - id: tsy-small
+    source: treasury-mr
+    at: Body
+    quote: "Smaller, low‑risk platforms – those holding less than $5,000 per customer and facilitating less than $10 million in transactions per year – will be exempt"
+
+  # ----------------------------------------------------------------- ASIC
+  - id: mr-commencing
+    source: asic-26-245mr
+    at: Opening paragraph
+    quote: "ASIC has today commenced consultation on guidance and standards to implement new laws for digital asset platforms and tokenised custody platforms commencing on 8 April 2027."
+  - id: mr-same-activity
+    source: asic-26-245mr
+    at: Quote from ASIC Commissioner Alan Kirkland
+    quote: "Our approach is based on the principle of “same activity, same risk, same regulatory outcome” to align Australia with the approach of comparable overseas jurisdictions."
+  - id: mr-firms-will-need
+    source: asic-26-245mr
+    at: Body
+    quote: "apply for (or vary) an Australian financial services licence, provide customer disclosure documents and platform rules, and comply with asset-holding standards, transactional and settlement standards, and net tangible asset requirements, where relevant."
+  - id: mr-closes
+    source: asic-26-245mr
+    at: Body
+    quote: "ASIC’s consultation is open until 5pm AEDT 27 November 2026."
+  - id: mr-roadmap-april
+    source: asic-26-245mr
+    at: Body
+    quote: "In April 2026, ASIC set out its roadmap for implementing the new regime to support industry."
+  - id: mr-no-action-extended
+    source: asic-26-245mr
+    at: Body
+    quote: "In June 2026, ASIC clarified and expanded the full scope and conditions of its no-action position and extended the deadline to 30 September 2026"
+  - id: mr-applications
+    source: asic-26-245mr
+    at: Body
+    quote: "ASIC has recorded over 140 applications from businesses seeking to provide digital asset-related financial services."
+  - id: cp-passed
+    source: asic-cp392
+    at: Paragraph 1
+    quote: "On 1 April 2026, Parliament passed the DAF Act. It received Royal Assent on 8 April 2026."
+  - id: cp-purpose
+    source: asic-cp392
+    at: Paragraph 3
+    quote: "The DAF Act addresses regulatory gaps and consequent uncertainty regarding digital assets, and some infrastructure and arrangements that support them. It aims to foster innovation, enhance competition and growth, and strengthen Australia’s position in the global digital asset ecosystem."
+  - id: cp-apply-by
+    source: asic-cp392
+    at: Background, key points
+    quote: "The DAF Act commences on 8 April 2027. If you are currently operating a platform that will be considered a DAP or TCP on 8 April 2027, you must apply for an Australian financial services (AFS) licence or variation by 7 October 2027. You can continue operating while we assess your application."
+  - id: cp-stage-released
+    source: asic-cp392
+    at: What will happen next, stage 1
+    quote: "15 October 2026 Consultation paper released"
+  - id: cp-stage-feedback
+    source: asic-cp392
+    at: What will happen next, stage 2
+    quote: "27 November 2026 Feedback due on the consultation paper"
+  - id: cp-stage-publish
+    source: asic-cp392
+    at: What will happen next, stage 4
+    quote: "March 2027 Publication of instruments and guidance"
+  - id: cp-stage-open
+    source: asic-cp392
+    at: What will happen next, stage 5
+    quote: "8 April 2027 The DAF Act commences and licence applications open"
+  - id: cp-stage-close
+    source: asic-cp392
+    at: What will happen next, stage 6
+    quote: "7 October 2027 Close of transition window for existing firms to make a licence application (new application or variation)"
+  - id: cp-from-8-october
+    source: asic-cp392
+    at: Paragraph 39
+    quote: "from 8 October 2027, DAP and TCP operators (and certain other financial services providers) will require an appropriate DAP or TCP-related licence authorisation to carry on a financial services business in Australia, unless covered by a licensing exemption"
+  - id: cp-related-services
+    source: asic-cp392
+    at: Paragraph 41
+    quote: "Related financial services will also require an AFS licence (e.g. to deal in other than issue, or provide advice about DAPs and TCPs)."
+  - id: cp-list
+    source: asic-cp392
+    at: Paragraph after proposal A3
+    quote: "we are considering publishing a list of firms that apply for or vary an AFS licence by 7 October 2027 (and can therefore continue operating until their application is decided)."
+  - id: cp-pdti-permissionless
+    source: asic-cp392
+    at: Proposed guidance on PDTI
+    quote: "This includes public permissionless blockchain networks as well as decentralised applications on those networks."
+  - id: cp-pdti-select
+    source: asic-cp392
+    at: Proposed guidance on PDTI
+    quote: "Infrastructure where ‘only select persons became able to conduct consensus activities’ is not PDTI (paragraph 1.340). This could include restrictions for KYC requirements, but is unlikely to include consideration of base hardware requirements or minimum staking thresholds if those apply universally"
+  - id: cp-pdti-point-in-time
+    source: asic-cp392
+    at: Proposed guidance on PDTI
+    quote: "an entity’s licensing requirements are assessed at a point in time, and not based on any future expected state."
+  - id: rg-disclaimer
+    source: asic-draft-rg
+    at: Disclaimer
+    quote: "This guide does not constitute legal advice."
+  - id: rg-unsure
+    source: asic-draft-rg
+    at: Figure 1, final step
+    quote: "If you are unsure, seek legal or regulatory advice."
+  - id: rg-two-guides
+    source: asic-draft-rg
+    at: RG 000.23
+    quote: "INFO 225 explains when a digital asset or related arrangement is itself a financial product and whether an exemption or exclusion applies."
+  - id: rg-separate-product
+    source: asic-draft-rg
+    at: RG 000.20
+    quote: "A DAP or TCP is a financial product, separate from any digital asset or underlying asset made available or held through the DAP or TCP."
+  - id: rg-not-every-tokenisation
+    source: asic-draft-rg
+    at: RG 000.35
+    quote: "Not every arrangement that tokenises or digitally represents an already existing asset is a TCP."
+  - id: rg-mixed-pool
+    source: asic-draft-rg
+    at: RG 000.35(a)
+    quote: "a token that represents a claim to 1 gram of gold and 1 kg of silver is not a TCP"
+  - id: rg-investment-decisions
+    source: asic-draft-rg
+    at: RG 000.35(b)
+    quote: "the operator makes investment decisions for the client"
+  - id: rg-native
+    source: asic-draft-rg
+    at: Note to RG 000.35
+    quote: "a ‘direct’ or ‘native’ tokenisation arrangement (where each token represents a unit in a unit trust using the blockchain as the primary unit-holder register) would generally be a managed investment scheme rather than a TCP."
+  - id: rg-tcp-financial-products
+    source: asic-draft-rg
+    at: RG 000.33
+    quote: "Underlying assets of a TCP can include financial products and can include digital tokens that are financial products."
+  - id: rg-merely-possessing
+    source: asic-draft-rg
+    at: RG 000.37
+    quote: "Merely possessing digital tokens does not make a facility a DAP—the operator must possess them for or on behalf of a client or their nominee."
+  - id: rg-cannot-direct
+    source: asic-draft-rg
+    at: RG 000.56
+    quote: "A facility may not be a DAP or TCP where the client cannot direct how the underlying assets are dealt with."
+  - id: rg-other-product
+    source: asic-draft-rg
+    at: RG 000.56
+    quote: "Depending on its terms, the facility may be a derivative, a facility for making a financial investment or another financial product."
+  - id: rg-exemption-still-dap
+    source: asic-draft-rg
+    at: RG 000.76
+    quote: "An exemption from the requirement to hold an AFS licence does not mean that the arrangement ceases to be a DAP or TCP."
+  - id: rg-anticipated-regs
+    source: asic-draft-rg
+    at: RG 000.75
+    quote: "The anticipated regulations (subject to Government processes) also extend specified licensing exemptions that apply to custodial or depository service arrangements to equivalent DAP and TCP arrangements."
+  - id: rg-inflation
+    source: asic-draft-rg
+    at: Table 3, low-value DAP exemption
+    quote: "The client value and transaction value tests increase over time with the rate of inflation."
+  - id: rg-who-needs
+    source: asic-draft-rg
+    at: RG 000.78
+    quote: "If a facility is a DAP or TCP, and an exemption does not apply, the operator must hold an AFS licence with relevant authorisations to issue that type of platform"
+  - id: roadmap-9-april
+    source: asic-roadmap
+    at: Opening paragraph
+    quote: "passed Parliament on 1 April 2026, received Royal Assent on 8 April 2026, and will commence on 9 April 2027. The DAF Act provides for an 18-month implementation timeline."
+  - id: deadline-30-june
+    source: asic-deadline
+    at: Opening paragraph
+    quote: "apply by 30 June 2026, before ASIC’s no-action position expires."
+  - id: deadline-9-april
+    source: asic-deadline
+    at: Closing paragraphs
+    quote: "will commence on 9 April 2027"
+
+  # ------------------------------------------------------------- Redbelly
+  - id: rb-must-prove
+    source: rb-identity
+    at: Identity and participation on the network
+    quote: "To ensure a baseline of accountability, all network participants MUST prove they are who they say they are before gaining access, a process facilitated by Receptor, Redbelly's native identity protocol."
+  - id: rb-business-verify
+    source: rb-identity
+    at: Identity and participation on the network
+    quote: "organisations can be verified to ensure that other network parties can be confident that they're interacting with licensed entities, official representatives and official smart contracts on chain."
+  - id: rb-passport
+    source: rb-user-access
+    at: User access
+    quote: "users must work with their chosen accredited issuer to prove they possess a valid photo identity document (passport) which is verified via biometric checks."
+  - id: rb-receptor-what
+    source: rb-receptor
+    at: Receptor overview
+    quote: "Receptor is Redbelly's native digital identity and verifiable credential protocol."
+  - id: rb-receptor-verifier
+    source: rb-receptor
+    at: Receptor modules
+    quote: "Verifier: Use to define eligibility criteria, surface requests of those criteria to users, and verify the authenticity and validity of the claims made by users based on their verifiable credentials."
+  - id: rb-receptor-only-eligible
+    source: rb-receptor
+    at: Receptor overview
+    quote: "ensuring that only eligible users can access particular products and services"
+  - id: rb-esdk
+    source: rb-eligibility-sdk
+    at: Eligibility SDK overview
+    quote: "This SDK enables developers to perform eligibility checks (e.g., age, KYC) with privacy-preserving proof submissions"
+  - id: rb-onboarding
+    source: rb-onboarding
+    at: Overview
+    quote: "It includes wallet authentication, KYC verification, and Redbelly on-chain permission setup."
+  - id: rb-node-selected
+    source: rb-node-operator
+    at: Submissions
+    quote: "Applicants will be selected based upon their previous experience, location and commitment to the Redbelly Project."
+  - id: rb-node-stake
+    source: rb-node-operator
+    at: Requirements
+    quote: "all nodes must stake 100,000 RBNT in order to participate."
+  - id: rb-node-closed
+    source: rb-node-operator
+    at: Submissions
+    quote: "Submissions currently closed"
+  - id: rb-claims-pdti
+    source: rb-tokenisation
+    at: Section heading
+    quote: "Redbelly is Digital Public Token Infrastructure"
+  - id: rb-finality
+    source: rb-tokenisation
+    at: Infrastructure features
+    quote: "Deterministic finality ensures transactions are confirmed once and cannot be reversed"
+  - id: rb-point-of-trade
+    source: rb-tokenisation
+    at: Asset issuers
+    quote: "verifiable credentials enable tokenised investment products with defined investor eligibility, enforced at the point of trade."
+  - id: rb-acacia
+    source: rb-acacia
+    at: Announcement
+    quote: "Redbelly Network has been selected for The Reserve Bank of Australia's (RBA) latest tokenization pilot, Project Acacia"
+
+  # ------------------------------------------------------------- Tokeniser
+  - id: tk-runs-on
+    source: tk-home
+    at: Home page
+    quote: "Tokeniser operates on Redbelly Network, Australia's public digital token infrastructure"
+  - id: tk-three-tests
+    source: tk-technology
+    at: Common questions
+    quote: "Redbelly is a public network designed to meet the three statutory tests for public digital token infrastructure under Australian law"
+  - id: tk-no-new-licence
+    source: tk-technology
+    at: Common questions
+    quote: "No. The protocol layer is designed to sit outside markets, clearing and settlement, and custody licensing."
+  - id: tk-tmd
+    source: tk-technology
+    at: Compliance built into the protocol
+    quote: "Eligibility, identity and your target market determination are enforced at the point of transfer, every time."
+  - id: tk-existing-licence
+    source: tk-compliance
+    at: Automated compliance
+    quote: "Engineered to align with Australia's Digital Assets Framework, operating under your existing licence."
+  - id: tk-checks
+    source: tk-compliance
+    at: Automated compliance
+    quote: "Trades that fail a check do not proceed, and every check is logged."
+  - id: tk-registry
+    source: tk-funds
+    at: Funds
+    quote: "Run your registry and investor lifecycle on Tokeniser today"
+
+  # ------------------------------------------------------------------ brief
+  - id: brief-9-april
+    source: task-brief
+    at: Brief
+    quote: "received Royal Assent on 8 April 2026 and commences on 9 April 2027"
