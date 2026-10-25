@@ -1,0 +1,126 @@
+# Every source the explainer relies on, in the order they are numbered.
+# kind: law | government | asic | redbelly | tokeniser | task
+# fetch: where the saved copy is taken from, when that differs from the public link.
+
+sources:
+  - id: act
+    kind: law
+    publisher: Federal Register of Legislation
+    title: Corporations Amendment (Digital Assets Framework) Act 2026 (No. 38, 2026), as made
+    url: https://www.legislation.gov.au/C2026A00038/asmade/text
+    fetch: https://www.legislation.gov.au/C2026A00038/asmade/2026-04-08/text/original/pdf
+
+  - id: treasury-mr
+    kind: government
+    publisher: Treasury Ministers
+    title: "New digital asset laws to unlock innovation and safeguard investment (media release, 26 November 2025)"
+    url: https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/new-digital-asset-laws-unlock-innovation-and-safeguard
+
+  - id: asic-26-245mr
+    kind: asic
+    publisher: ASIC
+    title: "26-245MR ASIC consults on implementation of new digital asset laws"
+    url: https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-245mr-asic-consults-on-implementation-of-new-digital-asset-laws
+
+  - id: asic-cp392
+    kind: asic
+    publisher: ASIC
+    title: "Consultation Paper 392, Digital asset law reform implementation: Proposed standards and guidance (15 October 2026)"
+    url: https://download.asic.gov.au/media/0pqj5lgc/cp392-published-15-october-2026.pdf
+
+  - id: asic-draft-rg
+    kind: asic
+    publisher: ASIC
+    title: "Attachment 1 to CP 392: draft Regulatory Guide 000, Digital asset platforms and tokenised custody platforms"
+    url: https://download.asic.gov.au/media/a3cpo5ds/attachment-1-to-cp392-published-15-october-2026.pdf
+
+  - id: asic-roadmap
+    kind: asic
+    publisher: ASIC
+    title: ASIC's roadmap for digital assets law reform implementation
+    url: https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation
+
+  - id: asic-deadline
+    kind: asic
+    publisher: ASIC
+    title: Deadline looms for digital asset businesses to apply for a licence
+    url: https://www.asic.gov.au/about-asic/news-centre/news-items/deadline-looms-for-digital-asset-businesses-to-apply-for-a-licence
+
+  - id: rb-identity
+    kind: redbelly
+    publisher: Redbelly Network developer portal
+    title: Identity and participation on the network
+    url: https://vine.redbelly.network/identity/
+
+  - id: rb-user-access
+    kind: redbelly
+    publisher: Redbelly Network developer portal
+    title: User access
+    url: https://vine.redbelly.network/identity/user-access/
+
+  - id: rb-receptor
+    kind: redbelly
+    publisher: Redbelly Network technical documentation
+    title: Receptor
+    url: https://docs.redbelly.network/pages/receptor/
+
+  - id: rb-eligibility-sdk
+    kind: redbelly
+    publisher: Redbelly Network technical documentation
+    title: Eligibility SDK for Redbelly Network
+    url: https://docs.redbelly.network/pages/eligibility-sdk/eligibility-sdk/
+
+  - id: rb-onboarding
+    kind: redbelly
+    publisher: Redbelly Network technical documentation
+    title: Individual onboarding, overview
+    url: https://docs.redbelly.network/pages/eligibility-sdk/onboarding/individual/overview/
+
+  - id: rb-node-operator
+    kind: redbelly
+    publisher: Redbelly Network developer portal
+    title: Become an operator
+    url: https://vine.redbelly.network/nodes/become-operator/
+
+  - id: rb-tokenisation
+    kind: redbelly
+    publisher: Redbelly Network
+    title: Asset tokenisation on Redbelly Network
+    url: https://redbelly.network/asset-tokenisation
+
+  - id: rb-acacia
+    kind: redbelly
+    publisher: Redbelly Network
+    title: Redbelly Network selected for the Reserve Bank of Australia's Project Acacia
+    url: https://redbelly.network/projectacacia
+
+  - id: tk-home
+    kind: tokeniser
+    publisher: Tokeniser
+    title: Tokeniser home page
+    url: https://tokeniser.com
+
+  - id: tk-technology
+    kind: tokeniser
+    publisher: Tokeniser
+    title: Our technology
+    url: https://tokeniser.com/technology
+
+  - id: tk-compliance
+    kind: tokeniser
+    publisher: Tokeniser
+    title: Automated compliance
+    url: https://tokeniser.com/product/superpowers/automated-compliance
+
+  - id: tk-funds
+    kind: tokeniser
+    publisher: Tokeniser
+    title: Tokeniser for funds
+    url: https://tokeniser.com/solutions/funds
+
+  - id: task-brief
+    kind: task
+    publisher: Redbelly DAO Community Task Board
+    title: "TASK-30 brief: Australia's Digital Assets Framework Act, what it means for Tokeniser"
+    url: https://taskboard.redbellydao.network/tasks/TASK-30
+    render: browser

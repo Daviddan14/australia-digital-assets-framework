@@ -1,0 +1,168 @@
+Overview - Redbelly Network Technical Documentation
+
+Skip to content
+
+Redbelly Network Technical Documentation
+
+Overview
+
+Initializing search
+
+Home
+
+Receptor
+
+Onboarding and Eligibility Kit
+
+Redbelly Network Technical Documentation
+
+Home
+
+Receptor
+
+Receptor
+
+Receptor
+
+Methods
+
+Methods
+
+Proof By Query
+
+Selective Disclosure
+
+Modules
+
+Modules
+
+Issuer
+
+Holder
+
+Verifier
+
+API
+
+API
+
+Proof By Query
+
+Selective Disclosure
+
+Reference
+
+Reference
+
+JSON-LD
+
+Iden3 Circuits
+
+Redbelly Environment
+
+Onboarding and Eligibility Kit
+
+Onboarding and Eligibility Kit
+
+Introduction
+
+Introduction
+
+Overview
+
+Getting Started
+
+Installation
+
+Choosing Your Proof Method
+
+EligibilitySdk
+
+EligibilitySdk
+
+Overivew
+
+Supported Wallets
+
+Configure Eligibility Criteria
+
+Example
+
+IndividualOnboardingSDK
+
+IndividualOnboardingSDK
+
+Overview
+
+Overview
+
+Table of contents
+
+🚀 Usage Example
+
+BusinessOnboardingSDK
+
+BusinessOnboardingSDK
+
+Overview
+
+API Reference
+
+API Reference
+
+EligibilitySdk
+
+IndividualOnboardingSDK
+
+BusinessOnboardingSDK
+
+Hooks
+
+Hooks
+
+useHasChainPermission
+
+useBusinessDetails
+
+Table of contents
+
+🚀 Usage Example
+
+Overview
+
+The IndividualOnboardingSDK component enables users to complete onboarding and gain access to the Redbelly Network. It includes wallet authentication, KYC verification, and Redbelly on-chain permission setup.
+
+🚀 Usage Example ¶
+
+To use the Onboarding SDK in your application, you need to wrap your root component with EligibilitySDKProvider and initialize wallet support via AppKit’s Wagmi adapter.
+
+You can also refer to the example at:
+👉 EligibilitySDKProvider
+
+import { IndividualOnboarding } from "@redbellynetwork/eligibility-sdk" ;
+
+const Onboarding = () => {
+const [ openSdk , setOpenSdk ] = useState ( false );
+
+return (
+<>
+< Button
+variant = "contained"
+onClick = {() => {
+setOpenSdk ( true );
+}}
+>
+Individual onboarding SDK
+< /Button>
+{ openSdk && < IndividualOnboarding /> }
+< />
+);
+};
+
+Back to top
+
+© Redbelly Network 2025
+
+Made with
+
+Material for MkDocs
