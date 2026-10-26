@@ -1,0 +1,205 @@
+{
+  "note": "Plain-text copies of every source, with SHA-256 of each file.",
+  "pages": [
+    {
+      "id": "act",
+      "number": 1,
+      "url": "https://www.legislation.gov.au/C2026A00038/asmade/text",
+      "fetched_from": "https://www.legislation.gov.au/C2026A00038/asmade/2026-04-08/text/original/pdf",
+      "file": "pages/01-act.txt",
+      "captured_utc": "2026-10-25T21:30:19Z",
+      "bytes": 113131,
+      "sha256": "e86564fd594dbcc1ca78604f3436213f1f6b79eaada73558e60419d7e0c4387f"
+    },
+    {
+      "id": "treasury-mr",
+      "number": 2,
+      "url": "https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/new-digital-asset-laws-unlock-innovation-and-safeguard",
+      "fetched_from": "https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/new-digital-asset-laws-unlock-innovation-and-safeguard",
+      "file": "pages/02-treasury-mr.txt",
+      "captured_utc": "2026-10-25T21:30:20Z",
+      "bytes": 4320,
+      "sha256": "807d8f7ccd5ec10f5bc60727763dd1a36503f6a7494b98d6e87f11d0839bdc70"
+    },
+    {
+      "id": "asic-26-245mr",
+      "number": 3,
+      "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-245mr-asic-consults-on-implementation-of-new-digital-asset-laws",
+      "fetched_from": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-245mr-asic-consults-on-implementation-of-new-digital-asset-laws",
+      "file": "pages/03-asic-26-245mr.txt",
+      "captured_utc": "2026-10-25T21:30:21Z",
+      "bytes": 8137,
+      "sha256": "6151a314f0f311a570bbca6770fbdc7e23969ccdf126cd65ca73539979946d9b"
+    },
+    {
+      "id": "asic-cp392",
+      "number": 4,
+      "url": "https://download.asic.gov.au/media/0pqj5lgc/cp392-published-15-october-2026.pdf",
+      "fetched_from": "https://download.asic.gov.au/media/0pqj5lgc/cp392-published-15-october-2026.pdf",
+      "file": "pages/04-asic-cp392.txt",
+      "captured_utc": "2026-10-25T21:30:22Z",
+      "bytes": 175797,
+      "sha256": "437138b6ba5665f0d2d8ebb68079ce20089eeeb9670c146504ccfada993580f0"
+    },
+    {
+      "id": "asic-draft-rg",
+      "number": 5,
+      "url": "https://download.asic.gov.au/media/a3cpo5ds/attachment-1-to-cp392-published-15-october-2026.pdf",
+      "fetched_from": "https://download.asic.gov.au/media/a3cpo5ds/attachment-1-to-cp392-published-15-october-2026.pdf",
+      "file": "pages/05-asic-draft-rg.txt",
+      "captured_utc": "2026-10-25T21:30:23Z",
+      "bytes": 101724,
+      "sha256": "4eaa301df3eb90e4a053cff4a5751d9b3d1d263c7eb937b2a6dc879e981b7498"
+    },
+    {
+      "id": "asic-roadmap",
+      "number": 6,
+      "url": "https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation",
+      "fetched_from": "https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation",
+      "file": "pages/06-asic-roadmap.txt",
+      "captured_utc": "2026-10-25T21:30:24Z",
+      "bytes": 9518,
+      "sha256": "0ca789c3894a426ef75c4d2e51bfe3d10384df42f98848d57343ffc606ab1fae"
+    },
+    {
+      "id": "asic-deadline",
+      "number": 7,
+      "url": "https://www.asic.gov.au/about-asic/news-centre/news-items/deadline-looms-for-digital-asset-businesses-to-apply-for-a-licence",
+      "fetched_from": "https://www.asic.gov.au/about-asic/news-centre/news-items/deadline-looms-for-digital-asset-businesses-to-apply-for-a-licence",
+      "file": "pages/07-asic-deadline.txt",
+      "captured_utc": "2026-10-25T21:30:25Z",
+      "bytes": 5057,
+      "sha256": "b699d6c7f060a2b771d6cf40dc8846d3b25c96b390c7b2cd9de8e5ecc4e41b14"
+    },
+    {
+      "id": "rb-identity",
+      "number": 8,
+      "url": "https://vine.redbelly.network/identity/",
+      "fetched_from": "https://vine.redbelly.network/identity/",
+      "file": "pages/08-rb-identity.txt",
+      "captured_utc": "2026-10-25T21:30:25Z",
+      "bytes": 3246,
+      "sha256": "f4485f80d7cb26bc4b8706a689da188597dfb5602dd50002be346b438c07f036"
+    },
+    {
+      "id": "rb-user-access",
+      "number": 9,
+      "url": "https://vine.redbelly.network/identity/user-access/",
+      "fetched_from": "https://vine.redbelly.network/identity/user-access/",
+      "file": "pages/09-rb-user-access.txt",
+      "captured_utc": "2026-10-25T21:30:25Z",
+      "bytes": 3134,
+      "sha256": "d3d0378776735c7469ece91c72f5e643dbbb3e986fa6d91248fe86b8b7e99b23"
+    },
+    {
+      "id": "rb-receptor",
+      "number": 10,
+      "url": "https://docs.redbelly.network/pages/receptor/",
+      "fetched_from": "https://docs.redbelly.network/pages/receptor/",
+      "file": "pages/10-rb-receptor.txt",
+      "captured_utc": "2026-10-25T21:30:25Z",
+      "bytes": 4426,
+      "sha256": "4c307d520053959652f273ae8a182a127dc847ed639b4e39ebea10ce1ee2ba4a"
+    },
+    {
+      "id": "rb-eligibility-sdk",
+      "number": 11,
+      "url": "https://docs.redbelly.network/pages/eligibility-sdk/eligibility-sdk/",
+      "fetched_from": "https://docs.redbelly.network/pages/eligibility-sdk/eligibility-sdk/",
+      "file": "pages/11-rb-eligibility-sdk.txt",
+      "captured_utc": "2026-10-25T21:30:26Z",
+      "bytes": 3288,
+      "sha256": "23631f85ef384deb66eddedf1e3ab9080b87b9d35952cbae2a9bac8e3af51e9e"
+    },
+    {
+      "id": "rb-onboarding",
+      "number": 12,
+      "url": "https://docs.redbelly.network/pages/eligibility-sdk/onboarding/individual/overview/",
+      "fetched_from": "https://docs.redbelly.network/pages/eligibility-sdk/onboarding/individual/overview/",
+      "file": "pages/12-rb-onboarding.txt",
+      "captured_utc": "2026-10-25T21:30:26Z",
+      "bytes": 2399,
+      "sha256": "7bc5463c1ebccac9a3f24cd354e907927cc0221aa1b021ceb653c877530ef8de"
+    },
+    {
+      "id": "rb-node-operator",
+      "number": 13,
+      "url": "https://vine.redbelly.network/nodes/become-operator/",
+      "fetched_from": "https://vine.redbelly.network/nodes/become-operator/",
+      "file": "pages/13-rb-node-operator.txt",
+      "captured_utc": "2026-10-25T21:30:26Z",
+      "bytes": 5554,
+      "sha256": "4d04dc630b5caef69c3f5aad1a9eddd386cbf8ce155559bfd9855f63cc733567"
+    },
+    {
+      "id": "rb-tokenisation",
+      "number": 14,
+      "url": "https://redbelly.network/asset-tokenisation",
+      "fetched_from": "https://redbelly.network/asset-tokenisation",
+      "file": "pages/14-rb-tokenisation.txt",
+      "captured_utc": "2026-10-25T21:30:26Z",
+      "bytes": 5639,
+      "sha256": "d0910c52ed5765ae6f9d580f6d5a28279448a51a3fc35a0bfca034de73f1efde"
+    },
+    {
+      "id": "rb-acacia",
+      "number": 15,
+      "url": "https://redbelly.network/projectacacia",
+      "fetched_from": "https://redbelly.network/projectacacia",
+      "file": "pages/15-rb-acacia.txt",
+      "captured_utc": "2026-10-25T21:30:27Z",
+      "bytes": 9756,
+      "sha256": "1b707c41794d6ad99c61a5cb0d9d952ca5e42a8ad75116b32cc812feb08a8cd6"
+    },
+    {
+      "id": "tk-home",
+      "number": 16,
+      "url": "https://tokeniser.com",
+      "fetched_from": "https://tokeniser.com",
+      "file": "pages/16-tk-home.txt",
+      "captured_utc": "2026-10-25T21:30:27Z",
+      "bytes": 6751,
+      "sha256": "828a85c75e780fc1fd38ec7b5c9ab15da0a316e769a91d24f9d499569b54ab0c"
+    },
+    {
+      "id": "tk-technology",
+      "number": 17,
+      "url": "https://tokeniser.com/technology",
+      "fetched_from": "https://tokeniser.com/technology",
+      "file": "pages/17-tk-technology.txt",
+      "captured_utc": "2026-10-25T21:30:27Z",
+      "bytes": 8318,
+      "sha256": "1113ddca132463265cbaa876b702287bf8aec4c964b5fe44c7f20361dc175124"
+    },
+    {
+      "id": "tk-compliance",
+      "number": 18,
+      "url": "https://tokeniser.com/product/superpowers/automated-compliance",
+      "fetched_from": "https://tokeniser.com/product/superpowers/automated-compliance",
+      "file": "pages/18-tk-compliance.txt",
+      "captured_utc": "2026-10-25T21:30:27Z",
+      "bytes": 3609,
+      "sha256": "a11f5b247a5d0c528d78d8fcb9e4118a7190e8d09d6e416084345d28e62daccf"
+    },
+    {
+      "id": "tk-funds",
+      "number": 19,
+      "url": "https://tokeniser.com/solutions/funds",
+      "fetched_from": "https://tokeniser.com/solutions/funds",
+      "file": "pages/19-tk-funds.txt",
+      "captured_utc": "2026-10-25T21:30:28Z",
+      "bytes": 8143,
+      "sha256": "d5963bbbddb5bba5fd6e3135cba19ee1b52e83cdd0a91fd9341c27ba11d96085"
+    },
+    {
+      "id": "task-brief",
+      "number": 20,
+      "url": "https://taskboard.redbellydao.network/tasks/TASK-30",
+      "fetched_from": "https://taskboard.redbellydao.network/tasks/TASK-30",
+      "file": "pages/20-task-brief.txt",
+      "captured_utc": "2026-10-25T21:30:32Z",
+      "bytes": 5143,
+      "sha256": "43b90becec921c3200cfdb0062bc2b53dff481b8c0d91d44ca7d765fcf7f99d7"
+    }
+  ]
+}

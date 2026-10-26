@@ -1,0 +1,256 @@
+Saved copy of source [6]: ASIC's roadmap for digital assets law reform implementation
+Publisher: ASIC
+Link: https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation
+Taken from: https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation
+Captured (UTC): 2026-10-25T21:30:24Z
+========================================================================
+
+ASIC's roadmap for digital assets law reform implementation | ASIC
+
+Menu
+
+Media releases
+
+Reports and Publications
+
+ASIC's views
+
+Bannings and Alerts
+
+Menu
+
+Media releases
+
+Reports and publications
+
+ASIC's views
+
+Bannings and alerts
+
+Search
+
+Search Newsroom
+
+Trending:
+
+Type:
+
+Topic:
+
+Date:
+
+Start date (text):
+
+Press Spacebar to open datepicker
+Start date (datepicker):
+
+Select
+start date
+
+End date (text):
+
+Press Spacebar to open datepicker
+End date (datepicker):
+
+Select end
+date
+
+Search
+Cancel
+
+Newsroom
+
+ASIC's roadmap for digital assets law reform implementation
+
+ASIC intends to issue new regulatory guidance and set out certain operational standards as part of implementing new laws that bring digital asset platforms (DAPs) and tokenised custody platforms (TCPs) under the financial services licensing regime from April 2027.
+
+The Corporations Amendment (Digital Assets Framework) Act 2026 ( DAF Act ) passed Parliament on 1 April 2026, received Royal Assent on 8 April 2026, and will commence on 9 April 2027. The DAF Act provides for an 18-month implementation timeline.
+
+Under the new regime, ASIC is tasked with licensing and supervising these platforms, and with enforcing the law as required.
+
+To assist the industry, ASIC has set out its roadmap for implementing the new regime. This includes our expected timeline and approach to consulting on the new standards and guidance, including early indications of the content that will be covered.
+
+ASIC’s roadmap for the next 18 months
+
+Figure 1: Roadmap implementation timeline
+
+Months 1 - 6
+
+Stakeholder roundtables and industry advisory group: Conduct stakeholder roundtables and discussions, including through our regular Fintech Liaison Meetings, and establish an industry advisory group, as announced in March 2026.
+
+Consultation on standards and guidance: Consult with industry on regulatory guidance and operational standards (to be set out in legislative instruments).
+
+Expiration of class no action position: Access to the INFO 225 class no-action position will expire in June. Entities will need to comply with existing licensing requirements throughout the implementation of the law reforms.
+
+Months 6 - 12
+
+New regulatory guidance: Release new Regulatory Guide for DAPs and TCPs, covering how the new law operates and who is likely to require a licence under the regime.
+
+Setting of standards: Make regulatory instruments setting standards for the operators of DAPs and TCPs, including asset-holding standards, transactional and settlement standards, and financial requirements.
+
+Months 12 - 18
+
+Applications open: DAP and TCP operators can lodge financial service licence applications and operate under regulatory relief until their applications are processed.
+
+Month 18 onwards
+
+Full implementation of the new regime, including ASIC supervision and enforcement.
+
+ASIC to consult on standards and guidance
+
+As part of the implementation process, ASIC intends to set certain standards for operators of DAPs and TCPs as contemplated by the DAF Act.
+
+ASIC will consult on standards, including:
+
+Asset-holding standards (s912BE)
+
+Transactional and settlement standards (s912BF) and
+
+Financial requirements, similar to how we already implement these in Regulatory Guide 166 AFS licensing: Financial requirements ( RG 166 ).
+
+ASIC also intends to produce some regulatory guidance about the new laws, standards and how we will license and supervise firms. While we do not intend to repeat any existing regulatory guidance, we are considering navigation aids (e.g. a catalogue or index) to help industry with the existing guidance.
+
+During the transition period we expect to seek views on a range of topics, including:
+
+the need for new regulatory guidance
+
+our approach to applying our discretion in the regime, where appropriate (e.g. in relation to responsible managers)
+
+standard conditions that apply to platform licensees
+
+a potential streamlining of the licence variation process for certain cohorts of firms (e.g. those who have only recently obtained a licence under Information Sheet 225: Digital assets: Financial products and services ( INFO 225 )).
+
+ASIC will develop any new standards and guidance in line with our broader regulatory simplification work. We expect the guidance will be principles-based, and additional guidance will only be provided where necessary. This may mean that not all issues can, or will be, addressed by our guidance.
+
+Table 1 sets out our early thinking on topics to be covered by our new standards and financial requirements.
+
+Table 1: Indicative topics covered in standard setting consultation
+
+Standards
+
+Initial indication of topics to be covered in standards
+
+Transactional and settlement standards
+
+A new standard under section 912BF—informed by the market integrity rules—covering topics such as:
+
+an obligation to operate the platform in a fair, orderly and transparent manner (for market or matched-principal style platforms),
+
+execution and trading practices (e.g. best execution)
+
+pre and post trade price transparency, and other trading related disclosures (e.g. method of execution of transaction and source of the digital assets)
+
+listing and admission criteria
+
+supervision of trading on, or through, the platform (e.g. monitoring for and dealing with users who undertake trading misconduct and market abuse on the platform, and making suspicious activity reports to ASIC)
+
+operational resilience and orderly markets (e.g. monitoring for abnormal prices, trading halts and suspensions, security and business continuity)
+
+appropriate record keeping
+
+fair and effective settlement arrangements (whether internal to the platform or not)
+
+appropriate contractual arrangements with market makers operating on the platform.
+
+The standards could cater for differing operating models (e.g. custody-only, brokers, market making DAPs, matched-principal and markets style platforms), corporate structures (e.g. vertically integrated or not) and whether assets offered through the DAP or TCP are financial products.
+
+Asset-holding standards
+
+A new standard under section 912BE—based on existing principles-based asset-holding standards (see Regulatory Guide 133 Funds management and custodial services: Holding assets ( RG 133 )—covering:
+
+holding assets on trust (or in other equivalent approaches for assets held outside this jurisdiction)
+
+segregation of client assets and money from the DAP or TCP operator’s assets and money
+
+use of the underlying assets in accordance with client instructions
+
+organisational structure, and adequate staffing and security arrangements
+
+record keeping, reconciliation and reporting
+
+client withdrawal rights and associated liquidity requirements (e.g. ability to transfer digital tokens off the platform)
+
+use and supervision of service providers.
+
+Financial requirements
+
+The components of these requirements will likely include a:
+
+cash needs (liquidity) requirement
+
+net tangible assets requirement
+
+requirement to have the financial requirements reviewed regularly by a registered company auditor.
+
+Table 2 sets out what we propose to consult on for our regulatory guidance.
+
+Table 2: Guidance document topics intended to be covered during consultation
+
+Potential Guidance documents
+
+Initial indication of topics to be considered
+
+DAP/TCP
+regulatory guide (new)
+
+A new regulatory guide covering:
+
+basics of the new law (e.g. definitions, perimeter)
+
+who is likely to require a licence to operate a DAP and/or a TCP and what other authorisations may be required
+
+how DAPs and TCPs interact with existing financial products and services, and the Australian Financial Market and CS Facility regimes
+
+the asset-holding and transactional and settlement standards (see above)
+
+directions to more information about the general obligations
+
+Applying for and varying an AFS licence (RG 1)
+
+Updated to include references to applying for authorisations to operate DAPs and TCPs, cross-reference to DAP/TCP regulatory guide for items specific to licensees in relation to those products.
+
+AFS licensing: Financial requirements (RG 166)
+
+Updates to RG 166 to include the financial requirements for DAPs and TCPs.
+
+Other RGs and INFO Sheets as required
+
+Minor updates to include references to DAPs and TCPs, and cross-references to the new DAP/TCP regulatory guide, as appropriate. This may occur over a period of time when those RGs and Information Sheets are next updated.
+
+Next steps
+
+Our next steps include:
+
+arranging stakeholder roundtables and discussions, including through our regular Fintech Liaison Meetings and establishing an industry advisory group as announced in March 2026: see Shaping a stronger future for the Asia Pacific .
+
+develop a consultation package on standards and guidance outlined above.
+
+Stakeholders are also able to contact us by email at fintech@asic.gov.au .
+
+Media inquiries:
+
+Contact ASIC Media Unit
+
+Media Assets
+
+Follow us on:
+
+X
+
+LinkedIn
+
+Facebook
+
+Information publication scheme
+
+Freedom of information
+
+Copyright
+
+Privacy
+
+Contact us
+
+Accessibility
+
+Site map

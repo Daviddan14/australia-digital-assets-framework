@@ -1,0 +1,5246 @@
+Saved copy of source [4]: Consultation Paper 392, Digital asset law reform implementation: Proposed standards and guidance (15 October 2026)
+Publisher: ASIC
+Link: https://download.asic.gov.au/media/0pqj5lgc/cp392-published-15-october-2026.pdf
+Taken from: https://download.asic.gov.au/media/0pqj5lgc/cp392-published-15-october-2026.pdf
+Captured (UTC): 2026-10-25T21:30:22Z
+========================================================================
+
+CONSULTATION PAPER 392
+
+Digital asset law reform
+implementation: Proposed
+standards and guidance
+October 2026
+
+About this paper
+This consultation paper seeks feedback on our implementation of the
+Corporations Amendment (Digital Assets Framework) Act 2026 (DAF Act)
+and anticipated regulations and amendments (subject to Government
+processes).
+It outlines our proposals on the preliminary draft standards, proposed
+modifications and relief under the Corporations Act, and draft regulatory
+guidance.
+Note 1: This consultation refers to regulatory design work that is being developed by
+Government in parallel to this process. This is intended to enable industry to see a
+complete picture of the future approach.
+Note 2: The preliminary draft standards and draft Regulatory Guide 000 Digital asset
+platforms and tokenised custody platforms (draft RG 000), which are attached to this
+paper, are available for download from the CP 392 landing page. These are attached for
+illustrative purposes only and the final form of the instruments may change considerably
+from the preliminary drafts.
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+About ASIC regulatory documents
+In administering legislation ASIC issues the following types of regulatory
+documents.
+Consultation papers: seek feedback from stakeholders on matters ASIC
+is considering, such as proposed relief or proposed regulatory guidance.
+Regulatory guides: give guidance to regulated entities by:
+
+
+explaining when and how ASIC will exercise specific powers under
+legislation (primarily the Corporations Act)
+
+
+
+explaining how ASIC interprets the law
+
+
+
+describing the principles underlying ASIC’s approach
+
+
+
+giving practical guidance (e.g. describing the steps of a process such
+as applying for a licence or giving practical examples of how
+regulated entities may decide to meet their obligations).
+
+Information sheets: provide concise guidance on a specific process or
+compliance issue or an overview of detailed guidance.
+Reports: describe ASIC compliance or relief activity or the results of a
+research project.
+
+Document history
+This paper was issued on 15 October 2026. It is based on the legislation as
+at the date of issue and on anticipated regulations and amendments (subject
+to Government processes).
+
+Disclaimer
+The proposals, explanations and examples in this paper do not constitute
+legal advice. They are also at a preliminary stage only. Our conclusions and
+views may change as a result of the comments we receive or as other
+circumstances change.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 2
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Contents
+The consultation process ....................................................................... 4
+Background to the proposals ................................................................ 6
+The Digital Assets Framework Act .................................................... 6
+ASIC’s role as regulator of DAPs and TCPs ..................................... 8
+ASIC’s implementation objectives ..................................................... 9
+Current state of play ........................................................................ 10
+PART 1
+
+Proposals relating to DAPs and TCPs .............................. 11
+
+A
+
+Regulatory guidance relating to DAPs and TCPs ...................... 13
+General approach to guidance ........................................................ 13
+Guidance on the regulatory perimeter for DAPs and TCPs ............ 15
+Licensing authorisation guidance .................................................... 16
+General obligations and requirements as a licensee ...................... 18
+DAP/TCP Guide and platform rules ................................................. 20
+Proposed relief to enable electronic disclosure of DAP/TCP guides ... 21
+Readability of regulatory guide ........................................................ 21
+
+B
+
+Asset-holding standards............................................................... 23
+Proposal to make asset-holding standards ..................................... 23
+Domestic custody of digital assets .................................................. 28
+Holding arrangements for underlying assets ................................... 29
+Interaction with client money and client property provisions ........... 30
+Reporting wallet and address information ....................................... 31
+
+C
+
+Transactional and settlement standards..................................... 33
+Proposed transactional and settlement standards .......................... 33
+Proposal to make transactional and settlement standards.............. 34
+Core obligations proposed in the standards .................................... 36
+Asset admission and conflicts management obligations ................. 39
+Disclosure and transparency obligations ......................................... 41
+Prohibition on trading misconduct ................................................... 44
+Carve-out for tokenised spot tangible property tokens .................... 46
+
+D
+
+Financial requirements for DAP and TCP licensees .................. 47
+AFS licence obligations and financial requirements ........................ 47
+Financial requirements for all DAP and TCP licensees ................... 48
+Financial requirements for DAP and TCP operators ....................... 49
+NTA requirements for DAP and TCP operators .............................. 50
+
+PART 2
+
+Other proposals ................................................................... 56
+
+E
+
+Guidance about various other amendments to the
+Corporations Act ........................................................................... 57
+Proposed update to INFO 225 ......................................................... 57
+
+F
+
+Stablecoins for use in meeting financial requirements by AFS
+licensees generally ........................................................................ 60
+Proposed exclusion of ‘restricted stablecoins’ ................................. 60
+
+G
+
+Regulatory and financial impact .................................................. 62
+
+Key terms ............................................................................................... 63
+List of proposals and questions .......................................................... 67
+
+© Australian Securities and Investments Commission October 2026
+
+Page 3
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+The consultation process
+You are invited to comment on the proposals in this paper, which are only an
+indication of the approach we may take and are not our final policy.
+As well as responding to the specific proposals and questions, we also ask
+you to describe any alternative approaches you think would achieve our
+objectives.
+We are keen to fully understand and assess the financial and other impacts
+of our proposals and any alternative approaches. Therefore, we ask you to
+comment on:
+
+
+the likely compliance costs;
+
+
+
+the likely effect on competition; and
+
+
+
+other impacts, costs and benefits.
+
+Where possible, we are seeking both quantitative and qualitative
+information. We are also keen to hear from you on any other issues you
+consider important.
+Your comments will help us develop our policy in relation to the final
+published standards. In particular, any information about compliance costs,
+impacts on competition and other impacts, costs and benefits will be taken
+into account if we prepare a Regulation Impact Statement: see Section G,
+‘Regulatory and financial impact’.
+
+Making a submission
+You may choose to remain anonymous or use an alias when making a
+submission. However, if you do remain anonymous we will not be able to
+contact you to discuss your submission should we need to.
+Please note we will not treat your submission as confidential unless you
+specifically request that we treat the whole or part of it (such as any personal
+or financial information) as confidential.
+Please refer to our privacy policy at www.asic.gov.au/privacy for more
+information on how we handle personal information, your rights to seek
+access to and correct personal information, and your right to complain about
+breaches of privacy by ASIC.
+Comments should be sent by 27 November 2026 to:
+Fintech Team
+Markets Group
+Australian Securities and Investments Commission
+GPO Box 9827
+Melbourne VIC 3001
+Email: fintech@asic.gov.au
+
+© Australian Securities and Investments Commission October 2026
+
+Page 4
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+What will happen next?
+Stage 1
+
+15 October 2026
+
+Consultation paper released
+
+Stage 2
+
+27 November 2026
+
+Feedback due on the consultation
+paper
+
+Stage 3
+
+November 2026 to
+March 2027
+
+ASIC reviews feedback and settles
+regulatory guidance
+Finalisation of instruments
+Potential further consultation(s) if
+required
+
+Stage 4
+
+March 2027
+
+Publication of instruments and
+guidance
+
+Stage 5
+
+8 April 2027
+
+The DAF Act commences and licence
+applications open
+
+Stage 6
+
+7 October 2027
+
+Close of transition window for existing
+firms to make a licence application
+(new application or variation)
+
+© Australian Securities and Investments Commission October 2026
+
+Page 5
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Background to the proposals
+
+Key points
+The Corporations Amendment (Digital Assets Framework) Act 2026 (DAF
+Act) introduces a legislative regime for the regulation of entities offering
+financial products called digital asset platforms (DAPs) and tokenised
+custody platforms (TCPs).
+The DAF Act commences on 8 April 2027. If you are currently operating a
+platform that will be considered a DAP or TCP on 8 April 2027, you must
+apply for an Australian financial services (AFS) licence or variation by
+7 October 2027. You can continue operating while we assess your
+application.
+We will implement these changes according to our roadmap, including
+transitional arrangements and standard making.
+We will publish regulatory guidance to support the implementation of the
+new regime, including guidance on licensing, conduct, custody, disclosure,
+and operational standards.
+This consultation paper describes and invites comment on our proposed
+approach to regulatory guidance, standards and financial requirements for
+DAPs and TCPs.
+
+The Digital Assets Framework Act
+1
+
+On 1 April 2026, Parliament passed the DAF Act. It received Royal Assent
+on 8 April 2026.
+
+Purpose of the DAF Act
+2
+
+The DAF Act implements the Government’s commitment to modernise
+Australia’s digital asset regulatory regime.
+
+3
+
+The DAF Act addresses regulatory gaps and consequent uncertainty
+regarding digital assets, and some infrastructure and arrangements that
+support them. It aims to foster innovation, enhance competition and growth,
+and strengthen Australia’s position in the global digital asset ecosystem.
+
+4
+
+The DAF Act amends the Corporations Act to:
+(a)
+
+regulate certain parts of the digital asset market by creating two new
+financial products—DAPs and TCPs;
+
+© Australian Securities and Investments Commission October 2026
+
+Page 6
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+5
+
+(b)
+
+set out the licensing regime for DAPs and TCPs, which will be
+administered by ASIC, including how these two products interact with
+other products and services subject to the Corporations Act;
+
+(c)
+
+set out the core obligations for entities providing financial services in
+relation to DAPs and TCPs;
+
+(d)
+
+provide ASIC with specific powers to set standards in relation to assetholding and transactional and settlement activities;
+
+(e)
+
+provide the Minister with powers to deem whether a facility is a DAP,
+financial market or a clearing and settlement facility; and
+
+(f)
+
+introduce some targeted carve-outs from the existing financial services
+laws for certain digital asset related arrangements.
+
+The DAF Act also amends the Australian Securities and Investments
+Commission Act 2001 (ASIC Act) to:
+(a)
+
+introduce DAPs and TCPs as financial products;
+
+(b)
+
+extend existing requirements, prohibitions and ASIC powers with
+respect to DAPs and TCPs; and
+
+(c)
+
+amend definitions to ensure that the regulatory treatment of new
+concepts is consistent with the amendments to the Corporations Act.
+
+Interactions with the payments reforms
+6
+
+The Government is also undertaking work to modernise the regulatory
+regime for payment services providers (payments reforms). Treasury
+consulted on draft legislation for Tranche 1 of the payments reforms in
+March and April 2026.
+
+7
+
+The payments reforms are designed to complement, but operate
+independently from, the DAF Act. There will be separate regulation of
+certain stablecoins as tokenised stored value facilities (tokenised SVFs). Any
+ASIC regulatory guidance on tokenised SVFs will be provided as part of
+guidance on the payments reforms in due course.
+
+International regulatory developments
+8
+
+Several overseas jurisdictions have already implemented comprehensive
+regulatory regimes for digital/crypto assets, including European Union
+members (through the Markets in Crypto-Assets Regulation (MiCA)),
+Singapore and Hong Kong. Some others, including the United Kingdom, are
+in the process of implementing significant reform packages and developing
+further reform measures. The DAF Act supports Australia’s alignment with
+global approaches.
+
+9
+
+These international regulatory developments followed the 2023
+recommendations from the International Organization of Securities
+
+© Australian Securities and Investments Commission October 2026
+
+Page 7
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Commissions (IOSCO) for the regulation and oversight of crypto-assets and
+global stablecoins in its final report, Policy recommendations for crypto and
+digital asset markets (IOSCO FR11/2023) (PDF 696 KB). The report
+included recommendations in relation to market integrity and investor
+protection. More recently, in October 2025, IOSCO published a thematic
+review report, Thematic review assessing the implementation of IOSCO
+recommendations for crypto and digital asset markets (IOSCO FR/13/25)
+(PDF 834 KB). The review concluded that participating jurisdictions have
+made significant progress towards implementing the recommendations.
+10
+
+ASIC has considered approaches in comparable jurisdictions when
+developing our proposed approach to implementing the DAF Act.
+
+ASIC’s role as regulator of DAPs and TCPs
+11
+
+Under the new regime, ASIC is responsible for administering the regulatory
+requirements for DAPs and TCPs under the Corporations Act.
+
+12
+
+Our role includes:
+(a)
+
+assessing applications for, and granting, AFS licences authorising the
+operation of DAPs and TCPs;
+
+(b)
+
+monitoring compliance with the obligations that apply to AFS licensees,
+including operators of DAPs and TCPs;
+
+(c)
+
+making legislative instruments and setting standards that apply to DAPs
+and TCPs, including asset-holding standards and transactional and
+settlement standards; and
+
+(d)
+
+taking enforcement action where there are breaches of the law.
+
+13
+
+Our aim is to promote confident and informed participation by consumers,
+maintain fair and orderly markets, and reduce risks associated with the
+custody, transfer and use of digital assets.
+
+14
+
+The new regime cannot (and is not seeking to) remove all risks associated
+with buying and selling digital assets. Many digital assets are high-risk
+speculative investments and will remain high-risk under this regime (even
+once DAPs and TCPs are regulated). As with other high-risk investments,
+consumers should be aware that they could lose the entire value of their
+investment.
+
+15
+
+We are developing regulatory guidance to help industry understand and
+comply with the new obligations (see Part 1 below). This guidance will
+cover licensing, general obligations, custody, market integrity, disclosure,
+token governance, operational resilience and other areas where digital asset
+activities introduce novel risks.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 8
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+ASIC’s implementation objectives
+16
+
+We are taking a principles-based approach that focuses on regulatory
+outcomes rather than prescriptive operational requirements, where possible.
+
+17
+
+The guidance, standards, modifications and relief we propose to make, as
+outlined in this consultation paper, are anchored in the following objectives:
+(a)
+
+the globally adopted ‘same activity, same risk, same
+regulation/regulatory outcome’ approach that mirrors other IOSCO
+members and supports international consistency in the digital asset
+space;
+
+(b)
+
+standards and obligations should be principles-based, proportional, riskbased and technology neutral; and
+
+(c)
+
+avoiding potential regulatory arbitrage while also recognising the
+unique arrangements, benefits and risks of the digital assets and the
+underlying technology.
+
+18
+
+This approach provides industry with clarity on expectations while
+preserving flexibility and avoiding unnecessarily prescriptive rules that may
+quickly become outdated in the rapidly evolving digital asset environment.
+
+19
+
+This approach also provides consistency between digital assets and
+traditional financial products and services, which is important as traditional
+financial services firms begin to offer both new and existing products in
+digital asset form, and as digital asset firms increasingly look to provide
+traditional financial products and services.
+
+20
+
+A principles-based and risk-based approach means that not all questions can,
+or should, be answered in our guidance or standards. Firms will need to
+determine how they will apply the standards and guidance. In some cases,
+this may mean working with industry bodies to determine appropriate ways
+to apply the principles (e.g. as good practice emerges). This is consistent
+with our approach to traditional financial products and services.
+
+21
+
+Importantly, the ‘same activity, same risk, same regulation/regulatory
+outcome’ does not mean identical application of regulation in all cases. We
+expect that we will implement different regulatory requirements, and firms
+could employ differing compliance arrangements, to achieve the same
+regulatory outcome where it can be demonstrated that:
+
+22
+
+(a)
+
+the risk profile differs;
+
+(b)
+
+the activity is materially different; or
+
+(c)
+
+there are specific features of the product, service or support technology
+that require a bespoke approach.
+
+We continue to seek feedback from stakeholders on where the risks in
+relation to DAPs and TCPs differ from traditional financial products and
+
+© Australian Securities and Investments Commission October 2026
+
+Page 9
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+services. For example, in many areas the Corporations Act uses disclosure
+and data provision as important regulatory tools to help consumers navigate
+information asymmetries. Some blockchain-based products are characterised
+by greater transparency of the on-chain activities when compared to
+traditional financial products. This inherent transparency could mean
+disclosure and data provision could occur differently from traditional
+finance.
+
+Current state of play
+23
+
+In April 2026 we released our roadmap for digital assets law reform
+implementation. It set out the timeline for the items we need to deliver to
+ensure firms can appropriately provide their services under the regime and
+support effective consumer outcomes. The roadmap was intended to provide
+industry with clarity, certainty and sufficient time to adapt systems, controls
+and governance to meet the new requirements.
+
+24
+
+This consultation paper seeks feedback on proposals to create:
+
+25
+
+(a)
+
+new regulatory guidance relating to DAPs and TCPs—see Attachment 1
+to this paper;
+
+(b)
+
+asset-holding standards under s912BE of the Corporations Act—see
+Attachment 2 to this paper;
+
+(c)
+
+transactional and settlement standards under s912BF of the
+Corporations Act—see Attachment 3 to this paper; and
+
+(d)
+
+new financial requirements for operators of DAPs and TCPs—see
+Attachment 4 to this paper.
+
+We welcome any feedback or suggestions on ways we can further simplify
+what we are proposing.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 10
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+PART 1
+26
+
+Table 1:
+
+Proposals relating to DAPs
+and TCPs
+Part 1 of this consultation paper outlines our proposals for financial services
+providers in relation to DAPs and TCPs (including DAP and TCP operators).
+We have developed these proposals following regular discussions with a
+range of industry members (including through our industry reference group
+specifically set up to support implementation of this law reform).
+
+Overview of our proposals for DAP and TCP operators
+
+Topic
+
+Proposals
+
+Rationale
+
+Section A: Regulatory
+guidance relating to
+DAPs and TCPs
+
+Develop a new regulatory guide for firms
+that includes guidance on:
+
+Provide a single source of guidance to
+support consistent understanding of the
+new concepts introduced by the DAF
+Act, clarifying how the new regime
+interacts with existing financial services,
+financial market and clearing and
+settlement facility regimes, and the new
+obligations applying to service providers
+in relation to DAPs and TCPs.
+
+ when the regime applies;
+ the AFS licence authorisations required
+in relation to DAPs and TCPs;
+ compliance with general AFS licence
+obligations; and
+ requirements specific to DAP and TCP
+operators.
+
+Section B: Asset-holding
+standards
+
+Establish minimum requirements for
+DAPs and TCPs in the holding,
+safeguarding and administration of client
+assets and money, including standards
+concerning governance, holding
+arrangements, segregation, reconciliation,
+third-party custodians, the use of
+underlying assets and data provision to
+ASIC.
+
+Leverage the existing technologyneutral custody regime that addresses
+risks associated with holding client
+assets and money, while supporting
+consistent consumer protection
+outcomes across comparable assetholding activities. This also recognises
+some of the differing operational
+requirements for holding digital tokens
+for, or on behalf of, clients.
+
+Section C: Transactional
+and settlement
+standards
+
+Establish minimum requirements for
+DAPs in the execution, settlement and
+monitoring of transactions, including
+requirements relating to trading, best
+execution, transparency, disclosure,
+conflicts management and trading
+misconduct.
+
+Address risks arising from digital asset
+trading, execution and settlement
+activities by applying technology-neutral
+standards that promote fair, orderly and
+transparent behaviour and support
+consistent regulatory outcomes across
+comparable activities.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 11
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Topic
+
+Proposals
+
+Rationale
+
+Section D: Financial
+requirements for DAP
+and TCP licensees
+
+Apply tailored financial requirements for
+DAP and TCP operators, including
+capital, liquidity, cashflow forecasting and
+audit obligations, and a net tangible
+assets (NTA) requirement through one of
+three proposed models.
+
+Ensures that DAP and TCP operators
+maintain adequate financial resources
+to provide their financial services,
+manage risk and support an orderly
+wind-up. Requirements have been
+adapted from comparable existing AFS
+licence regime to avoid regulatory
+arbitrage.
+
+Apply the standard base requirements
+and additional requirements (as relevant)
+for all other licensees providing financial
+services relating to DAPs and TCPs.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 12
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+A
+
+Regulatory guidance relating to DAPs and
+TCPs
+
+Key points
+We propose to provide regulatory guidance on key concepts and
+obligations introduced by the new legislation for DAPs and TCPs across
+both the primary law and the anticipated regulations (subject to
+Government processes): see draft Regulatory Guide 000 Digital asset
+platforms and tokenised custody platforms (draft RG 000) at Attachment 1
+to this paper.
+We propose to provide licensing guidance tailored to digital asset business
+models, including on new authorisations, new licensing exemptions, and
+how general licensing obligations apply to DAPs and TCPs.
+We propose to provide specific guidance on disclosure, including the
+DAP/TCP Guide and platform rules.
+The DAF Act, and anticipated regulations (subject to Government
+processes), also makes amendments to the Corporations Act that do not
+relate only to DAPs and TCPs. We intend to provide guidance on these
+new parts of the Corporations Act in Information Sheet 225 Digital assets:
+Financial products and services (INFO 225): see proposal E1.
+
+General approach to guidance
+27
+
+Consistent with ASIC’s broader regulatory simplification initiatives, we will
+adopt a principles-based and outcomes-focused approach to guidance
+regarding the DAP and TCP regime, supported by targeted guidance where
+additional clarity is needed.
+
+28
+
+Guidance for operators of DAPs and TCPs will sit alongside and refer to
+existing ASIC guidance on AFS licensing obligations. In other words, the
+new regulatory guide will explain how we administer the DAP and TCP
+regime without displacing or making significant changes to our existing
+guidance.
+Proposal
+A1
+
+We propose to:
+(a)
+
+produce one new regulatory guide relating to DAPs and TCPs.
+This will contain most of the guidance about the DAP and TCP
+regime (including how to apply for a licence and specific
+obligations for operators), and then will refer to existing regulatory
+guides for information about existing AFS licence obligations—see
+draft RG 000 at Attachment 1 to this paper;
+
+© Australian Securities and Investments Commission October 2026
+
+Page 13
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+(b)
+
+provide guidance on financial requirements for DAP and TCP
+licensees as a new appendix to Regulatory Guide 166 AFS
+licensing: Financial requirements (RG 166);
+Note: See Section D for our proposed financial requirements.
+
+(c)
+
+make some minor updates to the AFS licensing guidance,
+including Regulatory Guide 1 Applying for and varying an AFS
+licence (RG 1), in relation to the new authorisations, the licence
+application process and the AFS licensing application form; and
+
+(d)
+
+retain INFO 225 as the primary guidance on when digital assets
+themselves are or are not financial products, and add guidance
+about certain broader aspects of the DAF Act to INFO 225 (e.g.
+public digital token infrastructure (PDTI) and related exemptions in
+the anticipated regulations (subject to Government processes)).
+Your feedback
+A1Q1
+
+Do you agree with our proposal for a DAP/TCP-specific
+regulatory guide and our approach of referring to existing
+regulatory guidance where relevant to DAP and TCP
+licensees? If not, please give reasons.
+
+A1Q2
+
+Do you agree that INFO 225 should remain the primary
+guidance on when digital assets are financial products?
+Please give reasons, including any improvements ASIC
+should consider when reviewing INFO 225.
+
+Rationale
+Dedicated regulatory guide for DAPs and TCPs
+29
+
+Digital asset markets develop rapidly. Embedding all guidance within
+existing regulatory guides would require frequent amendments to
+foundational documents that apply across the entire financial services
+industry. By issuing a dedicated regulatory guide for DAPs and TCPs, we
+can provide targeted updates, respond more quickly to emerging risks, and
+avoid unnecessary disruption to long-standing guidance relied upon by other
+sectors.
+
+30
+
+Our proposed guidance covers new concepts introduced by the DAF Act and
+anticipated accompanying regulations (which are subject to Government
+processes). Our guidance also comments on where these new laws may
+result in material changes to the existing regulatory perimeter. We propose
+this initial guidance as a starting point to support the industry, given the new
+concepts introduced by the DAF Act. We also acknowledge that more
+guidance may be needed over time as the industry and ASIC engage with
+these concepts in practice.
+
+31
+
+Where established financial services principles continue to apply without
+modification, we consider that existing ASIC guidance remains appropriate.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 14
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Retaining INFO 225 as primary guidance on when digital assets are
+financial products
+32
+
+Retaining INFO 225 as the primary source of guidance on when digital
+assets are, or are not, financial products supports continuity and consistency.
+Industry is already familiar with INFO 225, and consolidating classification
+guidance into a single location reduces fragmentation and the risk of
+conflicting interpretations. This approach also ensures that any new guidance
+specific to DAPs and TCPs can focus on operational, conduct, and licensing
+issues without duplicating or re-writing existing classification principles.
+
+Guidance on the regulatory perimeter for DAPs and TCPs
+33
+
+The proposed guidance covers when a facility may be a DAP or TCP and
+other new definitions under the DAF Act, as well as anticipated
+accompanying regulations (subject to Government processes). It addresses
+the key concepts relevant to determining whether an entity is operating a
+DAP or TCP and how those concepts interact with other parts of the
+financial services regime.
+Proposal
+A2
+
+We propose to explain how the law defines DAPs and TCPs, identifying
+the components that make a DAP or TCP, the extended meaning of
+dealing introduced by the DAF Act and anticipated accompanying
+regulations (subject to Government processes), as set out in Section B
+of draft RG 000 at Attachment 1 to this paper.
+Your feedback
+A2Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+A2Q2
+
+Does the proposed guidance adequately cover the relevant
+aspects of the new regime and its interaction with other
+financial products and services? If not, what elements
+require clarification? Please give reasons and suggested
+guidance.
+
+A2Q3
+
+In addition to the examples provided in the Explanatory
+Memorandum to the Corporations Amendment (Digital
+Assets Framework) Bill 2025 (Explanatory Memorandum),
+which are referenced throughout the proposed regulatory
+guide, are there any other example scenarios that would be
+useful to include in the regulatory guide for DAPs and TCPs?
+
+Rationale
+34
+
+The DAF Act introduces new concepts, powers and obligations. Guidance
+that explains our approach to administering the law and promotes regulatory
+certainty where it supports industry’s implementation of the regime, is helpful
+for both the industry and ASIC for the ongoing administration of the regime.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 15
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+35
+
+Draft RG 000 includes guidance on the important definitions supporting the
+regime. These include, but are not limited to, digital tokens, DAPs and
+TCPs, the extended meaning of dealing, exemptions, and framing within the
+broader financial services regime.
+
+36
+
+Our proposed guidance explains the different financial services that can be
+conducted in relation to DAPs and TCPs, including some exclusions for
+certain DAPs and TCPs classified as other financial products or services. It
+can be complex to navigate the various combinations of products and
+services offered; although we cannot be comprehensive, the guidance sets
+out the most common combinations we have observed.
+
+37
+
+The complexity also extends beyond the AFS licensing regime and into how
+the DAP and TCP regime interacts with the financial markets and clearing
+and settlement facility regimes. Again, while these provisions are new, we
+consider it important to set out our understanding of how the regimes
+interact, and how the Minister’s deeming powers apply. For example, a
+facility cannot be both a DAP (as a financial product) and a financial market
+or clearing and settlement (CS) facility simultaneously: see draft RG
+000.60–RG 000.62.
+
+38
+
+The DAF Act and anticipated accompanying regulations (subject to
+Government processes) introduce several exemptions for DAPs and TCPs,
+and the general exemptions that apply to AFS licensees continue to apply to
+AFS licensees with DAP or TCP authorisations. These exemptions are
+important to outline as they go to considerations for when a licence is
+required. New licensing exemptions listed in draft RG 000 include a:
+(a)
+
+licensing exemption for low value DAPs;
+
+(b)
+
+limited advice and arranging exemption;
+
+(c)
+
+third-party asset-holding arrangements exemption;
+
+(d)
+
+overseas issuer and client exemption;
+
+(e)
+
+overseas related body corporate or joint venture exemption; and
+
+(f)
+
+nominee company exemption.
+Note: See draft RG 000.75–RG 000.77.
+
+Licensing authorisation guidance
+39
+
+The DAF Act introduces two new financial products—DAPs and TCPs. As a
+result, from 8 October 2027, DAP and TCP operators (and certain other
+financial services providers) will require an appropriate DAP or TCP-related
+licence authorisation to carry on a financial services business in Australia,
+unless covered by a licensing exemption (including those in anticipated
+accompanying regulations, subject to Government processes). Different
+authorisations will be required depending on a person’s business model.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 16
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+40
+
+Some firms that have taken steps to obtain one or more licences following
+publication of INFO 225 will likely also require variations to their AFS
+licence authorisations to issue (i.e. operate) a DAP or TCP. Others did not
+require a licence variation following INFO 225, but have been offering
+financial services in relation to digital assets that are financial products.
+
+41
+
+Related financial services will also require an AFS licence (e.g. to deal in
+other than issue, or provide advice about DAPs and TCPs). This will be
+implemented by ASIC through introducing new AFS licence authorisations
+for services relating to DAPs and TCPs.
+Proposal
+A3
+
+We propose to introduce guidance on licence authorisations and the
+process for applying for or varying a licence, including:
+(a)
+
+new licence authorisations for DAPs and TCPs, and proposed
+business models applicable to DAP and TCP operators—see draft
+RG 000.90 (these authorisations will also be included in an
+updated RG 1);
+
+(b)
+
+the interaction with the Australian markets licensing regime and
+clearing and settlement facility regime—see draft RG 000.60; and
+
+(c)
+
+separate guidance to industry participants who need to make a
+licence variation to add relevant DAP or TCP authorisations to an
+existing licence (we intend this to be presented in separate
+communications outside of draft RG 000, given it will be temporary
+for initial applications during the April 2027 to October 2027
+transition period).
+Your feedback
+
+A4
+
+A3Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+A3Q2
+
+Does the proposal adequately address the issues that
+require ASIC guidance in relation to DAP and TCP licence
+authorisations? If not, what other licensing authorisation
+issues should ASIC address in guidance?
+
+A3Q3
+
+What more could we do to support operators who did not
+have to adjust their AFS licence in light of INFO 225
+(because they were already authorised to offer trading in
+digital assets that are financial products) but will now need
+to add DAPs to their AFS licence?
+
+To help consumers and industry participants know who is entitled to
+operate in the industry, we are considering publishing a list of firms that
+apply for or vary an AFS licence by 7 October 2027 (and can therefore
+continue operating until their application is decided).
+Your feedback
+A4Q1
+
+Do you agree? If not, please give reasons.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 17
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Rationale
+42
+
+Providing guidance on the new licence authorisations will help applicants to
+understand the authorisations they need to apply for. Some aspects of the
+regime can be complex to navigate. For example, where firms may need
+licence authorisations for DAP and TCP products, as well as licence
+authorisations for the services in relation to any underlying digital assets that
+are financial products.
+
+43
+
+Applicants also need to understand how the markets licensing regime and
+clearing and settlement facility regime interact with the DAP/TCP regime.
+Without guidance on how these regimes fit together, applicants may have
+difficulty identifying the authorisations they need, or apply for the incorrect
+authorisations.
+
+44
+
+Providing guidance aligned with our implementation objectives will also
+support consistent and efficient licensing outcomes while accommodating
+the range of business models used in the digital asset sector and allowing
+those models to evolve. It will also assist applicants to identify when
+overlapping regulatory regimes or statutory limitations affect the obligations
+that apply, without prescribing particular business structures or unnecessarily
+duplicating established licensing guidance.
+
+45
+
+Applications for DAP and TCP authorisations commence on 8 April 2027. If
+you are currently operating a platform that will be considered a DAP or
+TCP, you must apply for an AFS licence or variation by 7 October 2027. If
+you apply by the deadline, you can continue operating while ASIC assesses
+your application.
+
+General obligations and requirements as a licensee
+46
+
+DAP and TCP operators must comply with the obligations that apply to all
+AFS licensees, including the general obligations under s912A of the
+Corporations Act.
+
+47
+
+While ASIC has published existing guidance on meeting these obligations,
+and in general this guidance remains appropriate for DAP and TCP
+operators, some aspects of how operators of DAPs and TCPs comply with
+general obligations may differ from traditional financial services.
+Proposal
+A5
+
+We propose to provide a catalogue in draft RG 000 which directs firms
+to existing ASIC guidance on the obligations for AFS licensees, and
+provides further guidance (where required) on unique aspects of DAPs
+and TCPs (see Section D of draft RG 000).
+
+© Australian Securities and Investments Commission October 2026
+
+Page 18
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Your feedback
+A5Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+A5Q2
+
+Does the proposed guidance adequately address how the
+AFS licence obligations apply to digital asset business
+models? Please give reasons and suggested guidance.
+
+A5Q3
+
+What specific risks may arise for DAPs and TCPs that we
+have not considered?
+
+A5Q4
+
+What additional conflicts of interest should DAP and TCP
+operators be required to disclose beyond the existing
+requirements that apply to AFS licensees? See also
+Table 4 for conflicts in relation to transactional and
+settlement functions.
+
+A5Q5
+
+What additional guidance if any, is needed on responsible
+manager requirements for DAPs and TCPs, noting the
+challenges reported in meeting these requirements?
+
+A5Q6
+
+What additional guidance, if any, is needed about
+professional indemnity insurance and compensation
+requirements for DAPs and TCPs?
+
+Rationale
+48
+
+The existing AFS licensing regime provides an established and accepted
+basis for regulating licensee conduct. Maintaining reliance on that regime
+promotes consistent regulatory expectations across the financial services
+sector, avoids unnecessary duplication and enables timely introduction of
+licensing for DAP and TCP operators. This is also important where firms are
+increasingly looking to offer both traditional financial products and digital
+assets to clients in one offering.
+
+49
+
+However, the structure and operation of digital asset businesses may affect
+how existing obligations apply in practice. Technology dependencies, assetholding arrangements, multiple functions performed within a single
+business, and the evolving nature of digital asset markets may give rise to
+distinct operational, competence, disclosure and conflict-management
+considerations. Targeted guidance may be necessary where the application
+of an existing obligation may not be readily apparent or where digital-assetspecific risks warrant further explanation.
+
+50
+
+Our proposed catalogue will assist licensees to identify the guidance relevant
+to their activities while preserving the flexibility of the regime. This
+approach supports consistent compliance outcomes without prescribing
+particular technologies, business models or risk-management processes, and
+allows licensees to adopt arrangements proportionate to the nature, scale and
+complexity of their business.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 19
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+DAP/TCP Guide and platform rules
+51
+
+Disclosure documents provide retail clients with essential information about
+a financial product. Traditional financial products require an issuer to
+provide a Product Disclosure Statement (PDS). The DAF Act introduces a
+bespoke requirement for DAP and TCP operators to provide clients with a
+DAP/TCP Guide.
+Proposal
+A6
+
+We propose to provide guidance on the DAP/TCP Guide and platform
+rules as set out in Section E of draft RG 000.
+Your feedback
+A6Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+A6Q2
+
+Does the proposed guidance address practical disclosure
+challenges for DAPs and TCPs? If not, what disclosure
+challenges should we provide guidance on for DAPs and
+TCPs? Please give reasons and suggested guidance.
+
+Rationale
+52
+
+Digital asset products and services often involve complex, technology‑driven
+risks that may not be well understood by retail clients. Clear disclosure
+expectations will support informed decision making, reduce information
+asymmetry, and ensure consistency with existing financial product
+disclosure principles.
+
+53
+
+Important for a retail client’s understanding is the legal and regulatory
+treatment of the regulated platform (e.g. the DAP) and the digital tokens
+made available through it. The platform is a financial product, while the
+digital assets made available through the platform may or may not be. Clear
+disclosure about the difference in legal protections is important to reduce the
+risk that clients misunderstand the regulatory status or protections applying
+to particular assets or activities.
+
+54
+
+Transparency is also important where an operator may exercise rights or
+make decisions on behalf of clients that affect digital tokens held through the
+platform. Appropriate disclosure through platform rules will help clients
+understand the arrangements governing participation in and operation of the
+DAP or TCP, as well as any voting rights attached to assets held through the
+platform.
+
+55
+
+We view the proposed guidance in Section E of draft RG 000 as appropriate,
+given the details described in the DAF Act and the Explanatory
+Memorandum.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 20
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposed relief to enable electronic disclosure of DAP/TCP guides
+56
+
+ASIC has amended the law to allow firms to deliver certain disclosure
+documents electronically: see ASIC Corporations (Electronic Disclosure)
+Instrument 2025/447. As the DAP/TCP Guide is a new type of disclosure
+document, the existing law and relief does not currently allow for electronic
+delivery of that document in similar circumstances.
+Proposal
+A7
+
+We propose to extend our existing relief in ASIC Instrument 2025/447 to
+enable electronic disclosure of DAP/TCP Guides.
+Your feedback
+A7Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+A7Q2
+
+Should we extend any other generally available financial
+services relief to cover DAPs and TCPs? Where you
+identify such relief, please give reasons and explain the
+implications of not having the relief extended.
+
+Rationale
+57
+
+DAP/TCP Guides fulfil a similar role to other financial services disclosures,
+and we believe that the same regulatory treatment is justified to allow DAP
+and TCP operators to provide DAP/TCP Guides to retail clients
+electronically. Allowing for electronic delivery of disclosure documents is
+an important simplification of regulatory requirements that supports efficient
+delivery of information about financial services, and will support consumers’
+understanding of those services.
+
+58
+
+We understand that this issue was also raised by stakeholders during the
+consultation on the exposure draft of the Corporations Amendment (Digital
+Assets Framework) Bill 2025, and during the targeted consultation in early
+2026 on the anticipated regulations (which are still subject to Government
+processes).
+
+Readability of regulatory guide
+Proposal
+A8
+
+We would like to obtain feedback on the readability of draft RG 000.
+Your feedback
+A8Q1
+
+How easy was the guide to read, understand and navigate?
+Please provide reasons for your response.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 21
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Rationale
+59
+
+ASIC is committed to explaining our guidance clearly so that our regulatory
+population can understand their obligations. Your feedback will help us to
+refine draft RG 000.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 22
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+B
+
+Asset-holding standards
+
+Key points
+We propose to make asset-holding standards that establish minimum
+requirements for how underlying assets and money are held by DAP or
+TCP operators.
+The aim of the proposed standards is to ensure the appropriate
+safeguarding, identification and administration of underlying assets and
+money. The standards apply principles-based obligations informed by
+existing regulatory models to DAP and TCP operators performing assetholding functions.
+The proposed asset-holding standards include requirements regarding:
+• governance and organisational arrangements
+• arrangements for holding underlying assets and money
+• identification, safeguarding, segregation and pooling
+• receiving and acting on client instructions
+• redemption and delivery rights and controls
+• use of underlying assets
+• wallet and address information
+• digital token identifiers, and
+• arrangements with custodians.
+
+Proposal to make asset-holding standards
+60
+
+Under s912BE of the Corporations Act, ASIC has the power to make assetholding standards that deal with specific matters relating to DAPs and TCPs.
+The purpose of these standards, as stated in paragraph 1.170 of the
+Explanatory Memorandum, is to establish minimum requirements for assetholding functions of these platforms.
+
+61
+
+Section 912BE of the Corporations Act sets out the matters that may be
+addressed by the standards, and the matters that ASIC must be reasonably
+satisfied of before making a standard. The Government has indicated that
+these requirements are modelled on existing regimes for comparable assetholding arrangements, with additional considerations for holding money and
+de-banking risks.
+Note: See paragraphs 1.170 and 1.175 of the Explanatory Memorandum.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 23
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+B1
+
+We propose to exercise ASIC’s powers to make asset-holding
+standards under s912BE. The proposed standards are described in
+Table 2 and set out in draft ASIC Corporations (Digital Asset Platforms
+and Tokenised Custody Platforms—Asset-Holding Standards)
+Instrument 2027/XX (draft asset-holding standards instrument), which is
+at Attachment 2.
+Note: The draft asset-holding standards instrument will change following
+consultation feedback and our finalisation process for the instrument. We attach a
+draft to give stakeholders an earlier indication of the likely form of the standards.
+
+Your feedback
+B1Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+B1Q2
+
+Do the proposed standards sufficiently address the risks
+arising from asset-holding activities and apply appropriately
+to diverse DAP and TCP business models? If not, what
+additional standards do you recommend? Please give
+reasons.
+
+B1Q3
+
+Are the proposed standards appropriately clear, sufficiently
+detailed and capable of being complied with in practice? If
+not, which standards raise concerns and why (e.g. due to
+practical, legal or technical barriers to implementation)?
+Please give reasons.
+
+B1Q4
+
+All obligations within the proposed asset-holding standards
+are planned to come into effect on the same date. Are
+there any obligations where an additional transition period
+is required? If so, identify the obligations, recommended
+additional transitional period, and estimated impact or cost
+savings.
+
+B1Q5
+
+For existing DAP and TCP operators and custodial or
+depository service providers, how will these proposed
+obligations affect your business?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 24
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Table 2:
+
+Description of proposed asset-holding standards
+
+Proposal
+
+Proposed standard
+
+B1.1
+
+Platform governance and arrangements to ensure compliance
+DAP and TCP operators must:
+ give clients the platform rules relevant to asset-holding functions before first holding underlying
+assets or money for them, and notify clients of material changes;
+ publicly disclose any material financial or non-financial benefits received in connection with
+asset-holding functions;
+ make and retain records that demonstrate compliance with the standards, and ensure they are
+readily accessible and capable of being produced in legible form, including during an insolvency
+event;
+ maintain adequate arrangements to ensure compliance with the standards. This includes
+arrangements for ensuring that asset-holding functions and functions relating to money are
+performed in accordance with the standards, identifying and managing conflicts of interest,
+minimising and responding to inappropriate influence of platform staff members, and maintaining
+appropriate reporting lines for platform staff members; and
+ ensure platform staff members have the knowledge, skills, ongoing training, time, authority and
+resources necessary to perform their duties properly.
+
+B1.2
+
+Permitted holding arrangements for underlying assets and money
+DAP and TCP operators must ensure that each underlying asset that is held for a client is held:
+ on trust for the client; or
+ under an arrangement that complies with certain requirements in the standards (see
+proposal B1.4); or
+ in accordance with Div 3 of Pt 7.8 of the Corporations Act, if that Div applies to the underlying
+asset.
+Money that is not an underlying asset of the platform and is held for a client under the platform
+must be held in accordance with Div 2 of Pt 7.8 if that Div applies to the money or, otherwise in
+trust for the client through an appropriate account or facility under an arrangement governed by
+Australian law.
+The operator must keep records of the legal arrangements under which underlying assets and
+money are held and, where relevant, the account or facility through which money is held and how
+the applicable requirements are satisfied.
+
+B1.3
+
+Disclosure of holding arrangements
+Before first holding an underlying asset or money for a client, the operator must clearly disclose
+the holding arrangements that may apply and when each arrangement applies.
+For underlying assets, the disclosure must address the client’s proprietary interests or contractual
+rights, material insolvency consequences and other material limitations or risks.
+For money, it must address the arrangement under which, and the kinds of accounts or facilities
+through which, the money may be held and material risks affecting the client’s interests and rights
+in relation to the money.
+The operator must also disclose any material change to those matters.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 25
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Proposed standard
+
+B1.4
+
+Other holding arrangements for underlying assets
+Where an underlying asset is held under an arrangement other than on trust or under Div 3 of Pt
+7.8 (see proposal B1.2), the operator must ensure that:
+ the arrangement is legally effective;
+ the operator takes all necessary steps to establish, maintain and protect the client’s interests
+and rights (including any requirement for registration);
+ the arrangement provides reasonably effective protection in an insolvency event; and
+ the arrangement does not prevent the operator from complying with the standards.
+
+B1.5
+
+Foreign law holding arrangements
+Where foreign law governs or materially affects a holding arrangement or a client’s interests or
+rights under it, the operator must assess and record the effect of that law, comply with any
+applicable registration or other protective requirements, and consider the protection of those
+interests or rights in an insolvency event.
+If an underlying asset is tangible property, the operator must also make a record of the place in
+which the underlying asset is held.
+
+B1.6
+
+Identification, safeguarding, segregation and pooling of underlying assets and money
+DAP and TCP operators must maintain accurate records identifying underlying assets and money,
+the clients for whom they are held, their interests and rights and their attributable holdings.
+Operators must safeguard and appropriately segregate underlying assets and money. Where
+underlying assets or money is pooled, additional record-keeping, reconciliation and deficiencycorrection requirements apply.
+
+B1.7
+
+Receiving and acting on client instructions
+DAP and TCP operators must have reasonable procedures for receiving, verifying and acting on
+properly authorised instructions about underlying assets or money. Operators must not act on an
+instruction unless they have taken reasonable steps to verify that it is properly authorised and
+must keep records of instructions received and action taken.
+
+B1.8
+
+Redemption and delivery rights and controls
+DAP and TCP operators must take reasonable steps to facilitate the exercise of a client’s right
+under the platform to redeem, or direct the delivery of, an underlying asset. Any fees, restrictions,
+delays, suspensions or refusals must comply with the standards, and operators must have
+adequate arrangements to prevent, detect and respond to unauthorised or erroneous transfers.
+
+B1.9
+
+Use of underlying assets
+DAP and TCP operators must not use, permit the use of, or arrange for the use of an underlying
+asset, unless the use is consistent with the applicable holding arrangement and the client’s
+interests and rights, the operator has provided clear disclosure and obtained the client’s express
+authorisation, and the use does not materially impair redemption or delivery rights.
+Operators must also manage conflicts of interest, make relevant disclosures and the terms of use
+publicly available, keep appropriate records and, in relevant circumstances, indemnify clients for
+losses arising from the use.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 26
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Proposed standard
+
+B1.10
+
+Wallet and address information
+Where an underlying asset is a digital token, DAP and TCP operators must:
+ maintain records of the arrangements through which digital tokens are held, including relevant
+wallet structures, wallet addresses and other locations, and information needed to trace and
+reconcile the digital tokens;
+ report the relevant wallet arrangements, addresses and other locations to ASIC quarterly; and
+ notify ASIC of material changes affecting how the digital tokens are held, possessed or
+safeguarded.
+
+B1.11
+
+Digital token identifiers
+DAP and TCP operators must:
+ record and use a unique digital token identifier for each class of digital tokens that may be held
+as an underlying asset under the platform;
+ use a generally recognised identifier where one exists and it is reasonably practicable to do so;
+ use the identifier consistently in records, disclosures and reports required under the standards;
+and
+ maintain and make publicly available an accurate and up-to-date list of those classes of digital
+tokens and their identifiers.
+Note: The definition of digital token in s761GB of the Corporations Act contemplates each digital token to be
+an individual record (e.g. each ETH is its own digital token), therefore for the asset-holding and transactional
+and settlement standards we have defined a class of digital tokens to be the collection of digital tokens that
+are fungible and the same (e.g. ETH, ERC-20 ETH, ETH on a layer 2 blockchain would each be a separate
+class of digital tokens).
+
+B1.12
+
+Arrangements with custodians
+If a DAP or TCP operator engages a third-party custodian to hold underlying assets, the operator
+remains responsible for compliance with the standards in relation to the third-party custodian and
+any sub-custodian directly or indirectly engaged by the third-party custodian, and must:
+ assess the custodian’s capability before appointment;
+ monitor the custodian, and address material risks or deficiencies;
+ periodically review its monitoring arrangements and agreements; and
+ have a legally enforceable written agreement with the third-party custodian addressing the
+holding and safeguarding of underlying assets, access to information, incidents, remediation,
+termination and any engagement of a sub-custodian to hold underlying assets.
+
+Rationale
+62
+
+Asset holding is a key risk of operating a DAP and TCP, and is a primary
+reason for the regulatory approach taken in the DAF Act: see paragraph 1.18
+of the Explanatory Memorandum. Clients are exposed to a range of custody
+risks that can affect or compromise recoverability of assets or money,
+identification of client entitlements, and broader consumer protection
+outcomes. The Corporations Act gives ASIC the role of setting asset-holding
+standards (within specific parameters) to address these risks.
+
+63
+
+The core custody risks that arise for DAP and TCP operators are similar to
+the risks of other custodial arrangements. Existing custodial arrangements
+
+© Australian Securities and Investments Commission October 2026
+
+Page 27
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+are already regulated in a similar way to that proposed for DAPs and TCPs.
+These existing arrangements are set out in:
+(a)
+
+ASIC Corporations (Platforms—IDPSs and IDPS-like Schemes)
+Instrument 2026/395;
+
+(b)
+
+ASIC Corporations (Custody Standards for Providers of Custodial and
+Depository Services) Instrument 2024/17;
+
+(c)
+
+ASIC Corporations (Asset Holding Standards for Responsible Entities)
+Instrument 2024/16; and
+
+(d)
+
+ASIC Corporations (Managed Discretionary Account Services)
+Instrument 2026/720.
+
+64
+
+The proposed asset-holding standards are intended to maintain broad
+alignment with the requirements in these instruments, while adapting them in
+line with ASIC’s implementation objectives and limitations imposed by the
+DAF Act, where necessary. This approach seeks to provide a consistent
+regulatory regime with traditional custodial arrangements while remaining
+sufficiently flexible to accommodate different DAP and TCP business
+models, trust and non-trust holding arrangements, and arrangements
+involving third-party custodians.
+
+65
+
+This reflects amendments to s766E(3) where the operation of a DAP or TCP
+does not amount to providing a custodial or depository service. In practice
+this means that some providers of custodial or depository services would no
+longer be providing that service when done in relation to digital assets that
+are financial products, but would instead be issuing a DAP or TCP.
+
+66
+
+Some overseas jurisdictions have adopted more detailed approaches to some
+aspects of asset-holding requirements (e.g. hot/cold wallet allocations,
+detailed key management processes). Our current view is that this style of
+more detailed requirements would be inconsistent with our principles-based
+and technology-neutral approach. We note that some of these are already the
+subject of good practice guidance in Section F of RG 133.
+
+Domestic custody of digital assets
+Proposal
+B2
+
+We propose to not require domestic custody of underlying assets held
+by DAP and TCP operators.
+Your feedback
+B2Q1
+
+Do you agree? If not, please give reasons.
+
+B2Q2
+
+If ASIC does not require domestic custody, are fallback
+arrangements for dealing with emergency situations
+necessary? If so, what arrangements would balance
+consumer protection, cost and operational risk?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 28
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Rationale
+67
+
+Our proposal to not mandate domestic custody is consistent with ASIC’s
+existing approach for other similar products and services (see paragraph 63).
+This is important for consistency, and the existing approach provides firms
+with added flexibility to manage their asset holding in the best way to protect
+consumers and provide efficient services.
+
+68
+
+We intend to provide guidance in draft RG 000 clarifying that the manner
+and location of custody are material product features and risks that require
+disclosure, including custody locations and cross-border risk management
+arrangements. This material will be drafted when we progress to finalising
+the asset-holding standards more generally.
+
+69
+
+We have also considered a fallback arrangement where the domestic DAP
+and TCP operators can have emergency access to private keys in certain
+situations. While this could be beneficial in the case of failure of an overseas
+parent or related corporate entity, this would likely introduce operational
+complexities, risks for the domestic responsible managers. We are seeking
+consultation feedback on this issue.
+
+Holding arrangements for underlying assets
+Proposal
+B3
+
+We propose to make standards related to holding arrangements for
+underlying assets, as outlined at proposals B1.2–B1.5 in Table 2.
+Your feedback
+B3Q1
+
+Do you agree with the proposal? If not, please give reasons.
+
+B3Q2
+
+Do the proposed standards sufficiently ensure equivalent
+consumer protection outcomes where underlying assets
+are held under legal arrangements other than trust,
+including during insolvency events or where arrangements
+are governed or materially affected by foreign law? Please
+give reasons.
+
+B3Q3
+
+Does the proposed principles-based approach
+accommodate different holding models and types of
+underlying assets while maintaining appropriate consumer
+protection outcomes? If not, what practical, legal or
+operational difficulties do you foresee? Please give
+reasons.
+
+B3Q4
+
+Are there circumstances where trust arrangements are not
+practical or appropriate for particular types of underlying
+assets? If yes, please give reasons.
+
+B3Q5
+
+Is the standard in proposal B1.4 in Table 2 (for the operator
+to ensure that other holding arrangements provide reasonably
+
+© Australian Securities and Investments Commission October 2026
+
+Page 29
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+effective protection in an insolvency event) sufficiently clear
+and able to be complied with? If not, what other protections
+might be imposed to ensure client’s assets are protected in
+an insolvency event? Please give reasons.
+
+Rationale
+70
+
+The definitions of DAPs and TCPs contemplate that underlying assets may
+be held through a range of legal arrangements. While trust arrangements
+remain an important mechanism for protecting client interests, there may be
+circumstances where an alternative arrangement is used that is consistent
+with the operator’s obligation to hold the relevant underlying asset and
+provides sufficient consumer protection outcomes.
+
+71
+
+The focus of the proposed standards is not the legal form of the arrangement
+itself, but whether the arrangement provides appropriate safeguards,
+including identification and segregation of client assets, protection against
+misuse or unauthorised encumbrance, appropriate record-keeping, oversight
+arrangements and recoverability of assets.
+
+72
+
+Where an operator relies on a non-trust arrangement (e.g. bailment), the
+operator should be able to demonstrate how the arrangement adequately
+protects clients’ interests and rights, including in circumstances involving
+the insolvency of the operator or another relevant person.
+
+Interaction with client money and client property provisions
+Proposal
+B4
+
+We propose that the asset-holding standards and the client money and
+client property provisions should operate concurrently (see
+proposal B1.2 in Table 2).
+Your feedback
+B4Q1
+
+Do you agree with our proposal? If not, please give reasons.
+
+B4Q2
+
+Do the proposed asset-holding standards, client money
+provisions and client property provisions collectively
+provide appropriate protection for clients? If not, are there
+any gaps, inconsistencies, uncertainties or impractical
+outcomes? Please give reasons and examples.
+
+B4Q3
+
+Are there circumstances where compliance with the client
+money provisions may be impracticable because an
+operator is unable to obtain or maintain an account that
+satisfies s981B? If yes, what relief, modifications or
+alternative arrangements should ASIC consider, and what
+safeguards would be necessary to ensure equivalent
+consumer protection outcomes?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 30
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Rationale
+73
+
+Broadly, the client money and client property provisions under Pt 7.8 of the
+Corporations Act apply to money paid, or property (other than money)
+given, by a client to an AFS licensee in connection with a financial product
+or service that has been, or may be, provided: see s981A and s984A. Pt 7.8
+will apply to DAP and TCP operators once they obtain an AFS licence, and
+they will need to comply with it to the extent it applies to them. However,
+not all money or underlying assets held by a DAP or TCP will constitute
+‘client money’ or ‘client property’ as defined in Pt 7.8.
+
+74
+
+The proposed asset-holding standards set out requirements relating to
+holding arrangements for underlying assets and money. Under proposal B1.2
+in Table 2, money and underlying assets must be held:
+(a)
+
+under Pt 7.8 of the Corporations Act, where they constitute ‘client
+money’ or ‘client property’ as defined under Pt 7.8; or
+
+(b)
+
+otherwise, in accordance with the relevant requirements for holding
+arrangements as set out in the standards.
+
+75
+
+This ensures that important consumer protections under Pt 7.8 relating to
+client money and client property continue to apply to relevant money and
+underlying assets of the platform. This includes, for example, that client
+money is taken to be held by the licensee on trust and that the licensee must
+hold client property on trust: see s981H and 984B of the Corporations Act
+and reg 7.8.07 of the Corporations Regulations 2001.
+
+76
+
+ASIC is not proposing to grant broad relief from, or to make modifications
+to, Pt 7.8 of the Corporations Act, for DAP or TCP operators.
+
+77
+
+We recognise that practical issues may arise where an operator cannot
+readily determine whether money relates to a particular client or financial
+service, or where debanking prevents the operator from maintaining the
+account required under the client money provisions. We are considering
+giving guidance about how the existing provisions apply for mixed and
+unidentified money, and alternative holding arrangements.
+
+Reporting wallet and address information
+Proposal
+B5
+
+We propose to require DAP and TCP operators to maintain records of
+wallet structures, wallet addresses and other information relating to the
+control of underlying assets (that are digital tokens) for at least seven
+years, and to report quarterly to ASIC a list of wallets and addresses
+holding underlying assets for clients (see proposal B1.10 in Table 2).
+
+© Australian Securities and Investments Commission October 2026
+
+Page 31
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Your feedback
+B5Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+B5Q2
+
+What risks are involved with reporting wallet and address
+information to ASIC?
+
+B5Q3
+
+How can reporting wallet and address information be
+streamlined to minimise impact on licensees? For example,
+is there a way to effectively collect information only
+pertaining to storage addresses, and not deposit
+addresses?
+
+Rationale
+78
+
+Wallet addresses are a key source of information regarding the identification,
+tracing and reconciliation of digital assets and can be used to monitor
+transactions on public blockchains.
+
+79
+
+Business models may vary significantly between different DAP and TCP
+operators. Records of holding structures will allow ASIC to understand how
+assets are held, and use the address information for monitoring.
+
+80
+
+A structured reporting process will support DAP and TCP operators to
+automate the collection and reporting of this information. Regular, rather
+than ad hoc, reporting will also support ASIC and other regulatory agencies
+in ongoing monitoring and supervision of the sector.
+
+81
+
+The proposed requirement would not require operators to give ASIC private
+keys, seed phrases, authentication credentials or other information capable of
+authorising a transfer. We do not seek this type of information.
+
+82
+
+Reporting of the list of wallets and addresses is also intended to be periodic
+to account for the fact that wallet structures, custody arrangements and
+wallet addresses may change over time. Periodic reporting seeks to ensure
+ASIC receives current information while avoiding the operational burden
+associated with continuous reporting.
+
+83
+
+AUSTRAC currently collects wallet information from virtual asset service
+providers (VASPs) as part of registration: see Registration questions for
+virtual asset service provider on AUSTRAC’s website. ASIC will consider
+broader regulatory burden when evaluating whether to proceed with this
+proposal.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 32
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+C
+
+Transactional and settlement standards
+
+Key points
+We propose to make transactional and settlement standards to establish
+minimum requirements for how client transactions are executed and settled
+on, or through, a DAP.
+The aim of the proposed standards is to provide clients with confidence and
+certainty, by applying principles-based obligations from existing regulatory
+models, in a proportionate way, to DAP operators engaging in transactional
+activities.
+The proposed transactional and settlement standards include requirements
+relating to:
+• platform governance
+• asset admission and conflicts management
+• trade controls, monitoring and intervention
+• order matching and settlement arrangements
+• execution platforms
+• trade transparency
+• client instructions
+• trade confirmations
+• overarching adequacy of arrangements to comply with the standards,
+and
+• overarching disclosure obligations.
+
+Proposed transactional and settlement standards
+84
+
+Under s912BF of the Corporations Act, ASIC has the power to make
+transactional and settlement standards. The purpose of these standards, as
+stated in paragraph 1.178 of the Explanatory Memorandum, is to establish
+minimum requirements for how client transactions are executed and settled
+on, or through, a DAP.
+
+85
+
+Our assessment of the market is that most DAP operators will be required to
+comply with the transactional and settlement standards, and some standards
+may also apply to TCPs (see s912BB of the Corporations Act). Complying
+with the transactional and settlement standards will be a core obligation for
+DAP and TCP operators (see s912D(3) of the Corporations Act) for the
+purposes of breach reporting. ASIC will be responsible for supervising the
+compliance of DAP (and relevant TCP) operators with the standards.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 33
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal to make transactional and settlement standards
+Proposal
+C1
+
+We propose to exercise ASIC’s powers to make transactional and
+settlement standards under s912BF. The proposed standards are set
+out in draft ASIC Corporations (Digital Asset Platforms—Transactional
+and Settlement Standards) Instrument 2027/XX (draft transactional and
+settlement standards instrument), which is at Attachment 3.
+Note: The draft transactional and settlement standards instrument will change
+following consultation feedback and our finalisation process for the instrument. We
+attach a draft to give stakeholders an earlier indication of the likely form of the
+standards.
+
+Your feedback
+C1Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+C1Q2
+
+Do the proposed standards adequately address the
+relevant transactional and settlement activities? If not,
+please give reasons.
+
+C1Q3
+
+Do the proposed standards apply appropriately to diverse
+business models in the sector? Please give reasons.
+
+C1Q4
+
+Are there any proposed standards that a DAP operator
+cannot comply with (e.g. due to practical, legal or technical
+barriers to implementation)? Please give reasons.
+
+C1Q5
+
+Are the proposed standards appropriately clear and
+detailed? In your response, please give reasons (e.g. are
+the standards too high-level or too granular).
+
+C1Q6
+
+All obligations within the proposed standards are planned
+to come into effect on the same date. Are there any
+obligations where an additional transition period is
+required? If so, identify the obligations, preferred transition
+period and estimated impact or cost savings.
+
+C1Q7
+
+For existing DAP operators, how will these proposed
+obligations affect your business? Please provide an
+estimate of the time and costs you will incur to implement
+the proposed rules.
+
+Rationale
+86
+
+DAP operators often combine different roles that are typically filled by
+separate entities in traditional finance. To address risks arising from vertical
+integration, the standards have taken inspiration from existing regulatory
+obligations where appropriate. The proposed standards are intended to be
+flexible and are also tailored to different types of DAP operators, taking into
+account the varying nature, size, scale and complexity of such businesses.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 34
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+87
+
+The transactional and settlement standards have been designed to apply
+proportionately to different business models, based on the services provided,
+including:
+(a)
+
+acting on behalf of clients;
+
+(b)
+
+acting as principal counterparty to each trade with clients, which may or
+may not involve order matching;
+
+(c)
+
+providing a neutral trading venue that enables a client to request quotes
+for proposed trades; and
+
+(d)
+
+providing a neutral trading venue where buyers and sellers meet to trade
+(e.g. by order matching, or other multilateral trading approaches).
+
+88
+
+This approach aligns with existing regulatory models for financial services
+that are similar to the transactional and settlement functions (e.g. dealing by
+acting on behalf of clients, making-a-market by acting as principal, and
+operating a financial market by providing the neutral trading venue), and the
+proposed standards are broadly aligned with requirements in peer
+jurisdictions (see paragraphs 8–10).
+
+89
+
+The proposed transactional and settlement standards will not apply to:
+
+90
+
+91
+
+(a)
+
+DAP operators that do not undertake transaction or settlement functions
+(i.e. custody-only DAPs);
+
+(b)
+
+transactions in spot tokenised tangible property tokens or exempt
+derivatives through any DAP (see proposal C6); and
+
+(c)
+
+most of a TCP’s operations.
+
+The standards have been designed to allow for different execution methods,
+with specific standards applying to each method to achieve appropriate
+regulatory outcomes. Specific standards apply to:
+(a)
+
+trading venue DAPs (including those that use an order book, or other
+multilateral trading approaches such as a request for quote);
+
+(b)
+
+order matching DAPs—trading venue DAPs that use an order book or
+DAPs trading as principal that undertake matched principal trading by
+matching client orders;
+
+(c)
+
+DAPs that act as agent for client orders;
+
+(d)
+
+DAPs that are a tied broker or dealer, where all orders are routed to
+another related trading facility (i.e. a market in another jurisdiction
+operated by the parent company of the DAP); and
+
+(e)
+
+DAPs that act as the principal counterparty to all orders.
+
+The objective of the proposed transactional and settlement standards is to:
+(a)
+
+promote fair, orderly and transparent trading of digital assets;
+
+(b)
+
+ensure fair and effective settlement of transactions;
+
+© Australian Securities and Investments Commission October 2026
+
+Page 35
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+92
+
+(c)
+
+reduce settlement, counterparty and operational risk for clients;
+
+(d)
+
+mitigate conflicts arising from vertically integrated business models;
+and
+
+(e)
+
+support ASIC’s supervision and enforcement of market integrity in the
+digital asset space.
+
+For each of the transactional and settlement standards that we are proposing,
+ASIC must be satisfied that the standard:
+(a)
+
+is adequate, effective and appropriate for the full range of DAP business
+models;
+
+(b)
+
+is reasonably proportionate for differences in the size, scale and nature
+of all DAP operators;
+
+(c)
+
+does not infringe on the rights of clients; and
+
+(d)
+
+does not prevent DAP operators from sourcing liquidity from outside of
+Australia, but requires DAP operators to have an enforceable written
+agreement with anyone providing liquidity or market making on their
+platform: s912BF(3)(b)(i).
+
+Core obligations proposed in the standards
+Proposal
+C2
+
+We propose to make some broad transactional and settlement
+standards, which we view as ‘core obligations’ applying to all operators
+subject to the standards. These are set out in Table 3.
+Your feedback
+C2Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+C2Q2
+
+Are the proposed core obligations sufficient in addressing
+the risks that arise from digital asset execution and
+settlement activities? Please give reasons.
+
+C2Q3
+
+Does the proposed level of granularity in the core
+obligations support the ability of DAP operators to comply?
+Should specific obligations be more, or less prescriptive?
+Please give reasons.
+
+C2Q4
+
+Through the structure of the transactional and settlement
+standards, there is a separation between trading as
+principal and agent. Does this pose operational issues for
+existing DAP operators? Please give reasons.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 36
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+C2Q5
+
+Exceptions to Best Execution are proposed for Tied
+Brokers, Tied Dealers and where a DAP is acting as
+principal counterparty to all transactions; this requires the
+separation of agency trading to ensure compliance (see
+proposal C2.6 in Table 3). Does this pose operational
+issues for existing DAP operators? Please give reasons.
+
+C2Q6
+
+For existing DAP operators, how will these proposed
+obligations affect your business? Please provide an
+estimate of the time and costs you will incur to implement
+the proposed rules.
+
+Table 3:
+
+Core obligations proposed in the standards
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C2.1
+
+Record-keeping
+
+All DAPs
+
+A DAP operator must keep records for a period of seven years of:
+ client instructions;
+ all trading messages, including the timestamp of each stage of processing;
+ the use of the operator’s intervention rights (see paragraph 112) in connection
+with any transaction and settlement function; and
+ documentation that demonstrates that the operator has complied with the
+standards.
+C2.2
+
+Client instructions
+DAPs and TCPs must have adequate arrangements to accept instructions from
+clients to direct the exercise of rights provided under the platform or in relation to
+an underlying asset of the platform.
+
+C2.3
+
+Efficiency and integrity of transactional and settlement functions
+Order matching DAPs must ensure the efficiency and integrity of the transactional
+and settlement functions on their platforms, with sufficient resources and controls
+to ensure they can reliably deliver that outcome.
+
+C2.4
+
+Fair, orderly and transparent order matching
+If the DAP operator is order matching, it must:
+ do all things necessary to ensure that the DAP is operated in a fair, orderly and
+transparent manner; and
+
+All DAPs and
+TCPs
+
+Order
+matching
+DAPs
+
+Order
+matching
+DAPs
+
+ have transparent, non-discretionary and consistently applied order matching
+arrangements and processes.
+C2.5
+
+Fair and effective settlement arrangements
+When settling transactions resulting from order matching, the operator must:
+ maintain fair and effective arrangements for the settlement of transactions in
+underlying assets through the platform; and
+
+Order
+matching
+DAPs
+
+ publish information on their website about their settlement arrangements
+(including model used, timing, finality, timing and potential for later adjustments).
+
+© Australian Securities and Investments Commission October 2026
+
+Page 37
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C2.6
+
+Best execution
+
+Agent DAPs
+
+If the DAP operator executes a client order on another DAP or trading venue, it
+must take all reasonable steps to obtain the best outcome for the client, execute
+comparable orders sequentially, and maintain access to at least two adequate
+liquidity sources for the execution of client orders.
+
+Matched
+principal
+trading DAPs
+
+Exemptions apply including if the operator clearly discloses that they exclusively
+route all trades to a trading venue operated by a related company (Tied Brokers
+and Dealers) or act as principal counterparty to all client orders.
+
+Rationale
+93
+
+Proposal C2 builds on the general AFS licensee obligations that will apply to
+all DAP operators, to set out more specific obligations within the standards.
+The aim of the standards is to ensure that DAP operators have adequate
+arrangements to provide their services.
+
+94
+
+These ‘core obligations’ for the transactional and settlement standards are
+aligned with our implementation objectives and central to supporting client
+confidence. The combination of custody and trading in a DAP means that
+clients will not have certainty in trading positions if the fair and effective
+settlement of a transaction on a DAP does not take place in an accurate and
+timely manner.
+
+95
+
+Where DAP operators are order matching, they must ensure trading on their
+platform is fair, orderly and transparent, and ensure that they have the
+resources to ensure that trading messages do not interfere with the platform
+efficiency and integrity. This standard adapts the foundational regulatory
+requirement of a ‘fair, orderly and transparent market’ from s792A of the
+Corporations Act. It acts as an anchoring obligation to ensure consistency
+between markets licensees and DAPs with very similar business models.
+
+96
+
+Where DAP operators are executing client orders other than by order
+matching on their own platform, best execution obligations ensure that
+intermediaries provide their clients with the best outcome possible. We have
+proposed a principles-based best execution obligation that aligns client
+outcomes with the agency trading model in traditional finance, while
+accommodating the differences in technology, operation, number of venues
+and client mobility that is inherent to the trading of digital assets.
+
+97
+
+Sufficient record-keeping is critical to promoting consumer confidence by
+ensuring clients will be able to access important information about their
+activities, such as the details of their orders, instructions, matching of their
+orders, transactions, withdrawal and deposit history. Detailed records are
+essential in supporting the operator’s ability to supervise its platform, and
+respond to regulatory enquiries.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 38
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+98
+
+Where TCPs create a token over an underlying asset that has additional
+rights that the holder of the token can direct the TCP operator in relation to,
+the TCPs will be required to comply with the client instructions obligation
+under the standards.
+
+Asset admission and conflicts management obligations
+Proposal
+C3
+
+We propose to make transactional and settlement standards on asset
+admission and conflicts management as set out in Table 4.
+Your feedback
+
+Table 4:
+
+C3Q1
+
+Do you agree with the proposal to prohibit principal trading
+except in the exception described in proposal C3.4 in
+Table 4? Are these exceptions appropriate and sufficient?
+If not, give reasons about what you think should be
+changed and your views about how the same objective can
+be achieved.
+
+C3Q2
+
+Do the proposed asset admission and conflicts obligations
+sufficiently address the structural conflict of interest risks
+that are commonly present in platforms? Please give
+reasons.
+
+C3Q3
+
+Is the proposed restriction on operators trading as principal
+in proposal C3.3 in Table 4 appropriate to manage the risks
+of conflicts of interest, or is it overly restrictive? Please give
+reasons.
+
+C3Q4
+
+Are there any circumstances where it would be appropriate
+for an operator to trade as principal through their platform
+and so would require an exemption? Please give reasons.
+
+C3Q5
+
+For existing DAP operators, how will these proposed
+obligations affect your business? Please provide an
+estimate of the time and costs you will incur to implement
+the proposed rules.
+
+Asset admission and conflicts management obligations proposed in the standards
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C3.1
+
+Asset admission and onboarding controls
+
+All DAPs
+
+The DAP operator must:
+ maintain adequate arrangements for assessing which classes of digital tokens
+can be admitted on the platform, regardless of whether they are financial
+products; and
+ monitor admitted classes of digital tokens to ensure they remain suitable and
+suspend or remove any that cease to be suitable in a timely and orderly
+manner.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 39
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C3.2
+
+Separation arrangements for token issuance businesses
+
+Order
+matching
+DAPs
+
+DAP operators must have adequate arrangements to manage conflicts of interest
+in connection to admitted digital tokens that the operator (or any related body
+corporate) has created or has a financial interest in.
+C3.3
+
+Prohibition on principal trading
+Subject to proposal C3.4, DAP operators must not trade as principal on their own
+or related body corporate DAPs and must ensure that related body corporates do
+not trade as principal through the operator’s DAP.
+
+C3.4
+
+Exception to the prohibition on principal trading
+DAPs that are tied brokers, tied dealers, acting as agent, or in certain
+arrangements where they are the principal counterparty to all transactions, are
+exempt from the prohibition in proposal C3.3.
+
+C3.5
+
+Operator must not accept shelf space fees
+
+Order
+matching
+DAPs
+
+Certain
+DAPs
+
+All DAPs
+
+DAP operators must not accept any financial or non-financial benefit to
+preference a digital token admitted on the platform over others in any manner
+(including admission, removal, trading and marketing).
+
+Rationale
+99
+
+These proposed standards are to address the complex potential conflicts of
+interest that arise from the structure of digital asset markets. ASIC is
+proposing to introduce standards to promote the protection of clients in how
+digital tokens are admitted and address the many capacities that a DAP can
+act in when providing their services (see Table 4).
+
+100
+
+We are not proposing to include any new continuous disclosure obligations
+under the standards with respect to the underlying assets of a DAP.
+Section 1020AR of the Corporations Act requires DAP and TCP operators to
+pass on communications to clients. This may include continuous disclosure
+information if the underlying asset is a financial product, and the issuer of
+that financial product is required to comply with the existing continuous
+disclosure obligations under the Corporations Act.
+Note: where the digital asset is a financial product, continuous disclosure obligations
+may apply.
+
+101
+
+The standards proposed require arrangements, including controls, for the
+admission and onboarding of underlying assets. By selecting which tokens to
+offer on their platforms, DAP operators largely determine the risks their
+clients are exposed to beyond each token’s market risk profile. This standard
+imposes a principles-based minimum requirement that supports appropriate
+token offerings consistent with the platform’s business model and the needs
+of their clients.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 40
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+102
+
+We have proposed conflicts management standards to limit potential
+conflicts of interest where a DAP operator or related party issues or has an
+interest in digital tokens offered on the DAP. These standards address
+potential conflicts of interest in cross-selling products and services,
+prioritising trades in certain tokens, and consideration of a competitor’s
+tokens.
+
+103
+
+The prohibition on DAP operators trading as principal on their own or on a
+DAP of related body corporate, and vice versa, limits conflicts of interest.
+Where DAP operators trade as principal against clients, there can be
+substantive conflicts of interest and clients may have difficulty determining
+the execution method and role that an intermediary is acting in.
+
+104
+
+We have proposed a trading as principal exemption for DAP operators when
+acting as a tied broker, a tied dealer, agent on behalf of the client, or as
+principal counterparty to the client (for a matched principal trade), where
+specified in the platform rules. The intended effect is that trading as principal
+is limited to certain DAP models, and that transactions where the operator is
+acting in a principal capacity is disclosed to a client that consents to the
+trade. In practice, we expect that DAP operators using a model that acts on
+behalf of clients will need to disclose or gain consent in relation to specific
+transactions. DAPs that act as principal counterparty to each trade with the
+client have this disclosure and consent embedded in the operating model. A
+DAP operator may also breach other obligations if it, or a related party,
+trades against clients in a way that benefits the operator at the client’s
+expense.
+
+Disclosure and transparency obligations
+105
+
+To ensure clients can make informed trading decisions, ASIC is proposing to
+introduce standards that promote public disclosure of key information about
+a DAP operator’s platform: see Table 5.
+Proposal
+C4
+
+We propose to make transactional and settlement standards on
+disclosure and transparency as set out in Table 5.
+Your feedback
+C4Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+C4Q2
+
+Do the proposed disclosure requirements adequately
+address information asymmetry and allow clients to make
+informed decisions? If not, what is missing or what should
+change?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 41
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+C4Q3
+
+Are the proposed minimum content requirements for pretrade disclosures sufficient? Please give reasons.
+
+C4Q4
+
+Are the proposed minimum content requirements for posttrade disclosures sufficient? Please give reasons.
+
+C4Q5
+
+For existing DAP operators, how will these proposed
+obligations affect your business? Please provide an
+estimate of the time and costs you will incur to implement
+the proposed rules.
+
+Table 5:
+
+Disclosure and transparency obligations proposed in the standards
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C4.1
+
+Disclosures and notification of material changes to platform rules
+
+All DAPs
+
+A DAP operator must give clients the platform rules related to transactional and
+settlement functions and notify clients of material changes.
+C4.2
+
+Fee disclosures
+
+All DAPs
+
+The DAP operator must disclose on a website that is publicly accessible, any
+material financial and non-financial benefits received or paid by the operator in
+connection with the transactional and settlement functions of the platform (e.g. fees
+that vary by volume or value of transactions and/or settlements made through the
+platform).
+C4.3
+
+Third-party market making
+
+All DAPs
+
+If the DAP operator has entered into a liquidity support arrangement, the operator
+must monitor the performance of the liquidity support provider to ensure the person
+is providing the services covered by the arrangement effectively and has the ability
+to continue to provide those services effectively.
+Where a liquidity support arrangement involves submitting trading messages to a
+DAP that uses an order book, the DAP operator must ensure that the arrangement
+provides the operator with the right to:
+ request reasonable assistance from the other person to manage abnormal pricing
+and trading, including in relation to withdrawal of liquidity, widening of spreads and
+escalation of pricing or liquidity disruptions; and
+ exercise the operator’s intervention rights without limitation.
+The operator must publicly disclose on its website the identity of any person with
+which it has a liquidity support arrangement.
+C4.4
+
+Pre-trade transparency
+If a DAP operator operates an order book, then it must make pre-trade information
+(order date and time, digital token identification, volume, order side, price, and
+currency or settlement asset) publicly available in real time and free of charge.
+
+C4.5
+
+Post-trade transparency
+If a DAP operator is order matching, it must make post-trade information (execution
+date and time, digital token identification, volume, price, currency or settlement
+asset, and trade cancellation indicator) publicly available in real time and free of
+charge.
+
+© Australian Securities and Investments Commission October 2026
+
+DAPs that
+operate an
+order book
+
+Order
+matching
+DAPs
+
+Page 42
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C4.6
+
+Requirement to publicly provide trading information
+
+Order
+matching
+DAPs
+
+If a DAP operator is order matching, it must make trading information (digital token
+identification, last traded price, currency or settlement asset, bid, offer, high, low,
+volume and asset trading operational status) available free of charge on a website
+that is publicly accessible, as soon as reasonably practicable.
+
+Rationale
+106
+
+When clients first interact with a DAP, it may appear similar to a traditional
+financial market. However, DAPs may operate differently and the rights and
+protections available to clients may also differ. There may also be substantial
+differences between the business models of DAP operators. These
+differences may not be readily apparent to clients and may affect their ability
+to understand the nature of the service provided by the DAP operator and its
+associated risks. We therefore propose that DAP operators are required to
+provide clients with clear, concise and accessible information about these
+matters before they first use the platform and on an ongoing basis thereafter.
+This is intended to help clients make informed decisions about whether, and
+how, to use the platform.
+
+107
+
+Disclosure of changes to platform rules, fees and third-party market making
+arrangements supports the ability of investors to make informed decisions on
+whether to continue using a platform. Given the industry’s fast pace of
+innovation, it is likely that some DAP operators will implement material
+changes to services more frequently than other traditional financial
+equivalents.
+
+108
+
+Market makers and liquidity providers play an important role in providing
+liquidity to a DAP, so that clients of the DAP can trade in the products that
+are offered with less friction and tighter margins. Because of the importance
+of this role, s912BF(3)(d) of the DAF Act requires a DAP operator to enter
+an enforceable arrangement with any liquidity providers. Monitoring
+obligations and public disclosure of a DAP’s arrangements with liquidity
+providers supports transparency and helps address potential conflicts of
+interest.
+
+109
+
+Pre- and post-trade transparency are generally regarded as central to both the
+fairness and efficiency of a trading platform, and in particular to its liquidity
+and quality of price formation. Making this information publicly available,
+free of charge supports the ability of investors to make informed decisions
+on choice of DAP.
+
+110
+
+For DAP operators that operate an order book, pre-trade information is how
+price formation occurs as it enables investors to identify trading
+opportunities, contributing to an investor’s confidence in executing a
+
+© Australian Securities and Investments Commission October 2026
+
+Page 43
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+transaction. Investor confidence can give other investors an incentive to
+participate, contributing to liquidity and stimulating more competitive
+pricing. It also contributes to a platform’s ability to achieve and evidence
+best execution. The equivalent market integrity rule in traditional financial
+markets requires trades to be pre-trade transparent unless a valid exception
+can be relied upon.
+111
+
+The post-trade transparency obligations apply to a broader range of order
+matching DAP operators and provide disclosure of volumes and prices about
+completed transactions. This supports price formation and allows investors
+to assess execution quality and conduct transaction cost analysis. The
+obligations are drawn from the equivalent market integrity rules, but due to
+the many possible ways that a DAP operator’s trades can be executed, we
+have not carried over the requirement to report or validate off-market
+transactions.
+
+112
+
+The requirement to publicly provide trading information for free as soon as
+reasonably practicable is intended to be broadly analogous with existing
+market integrity rules. Information should be made available on the DAP
+operator’s website using a constant, stable deep link where the web address
+does not change even when the information on the website changes.
+
+Prohibition on trading misconduct
+Proposal
+C5
+
+We propose to include standards requiring operators to mitigate trading
+misconduct (see Table 6).
+Your feedback
+C5Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+C5Q2
+
+Will a requirement to notify ASIC where a DAP suspends or
+terminates a client’s access to the platform due to
+suspected misconduct have unintended consequences? If
+so, please give reasons and suggestions on how it could
+be improved. For example, would the requirement to notify
+ASIC of clients removed by the operator from the platform
+discourage DAPs from suspending or terminating clients
+engaged in misconduct on their platforms?
+
+C5Q3
+
+For existing DAP operators, how will these proposed
+standards affect your business? Please provide an
+estimate of the time and costs you will incur to implement
+the proposed standards.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 44
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Table 6:
+
+Obligations to mitigate misconduct proposed in the standards
+
+Proposal
+
+Proposed standard
+
+Applies to
+
+C5.1
+
+Prohibition on trading misconduct
+
+All DAPs
+
+DAPs must include in their platform rules a prohibition on any practices that may
+interfere with the efficiency and integrity of the platform’s transactional and
+settlement functions.
+C5.2
+
+Adequate controls and monitoring
+
+All DAPs
+
+DAPs must have adequate arrangements to prevent, detect and respond in a timely
+way to misconduct on their platforms (including the ability to restrict, suspend or
+terminate a client account, cancel orders and reverse transactions).
+If a DAP operator suspends or terminates a client’s access to the platform due to
+suspected misconduct, it must notify ASIC as soon as reasonably practicable.
+
+Rationale
+113
+
+Market integrity is fundamental to the financial wellbeing of Australians and
+an efficient economy. The future success of Australia’s digital asset
+ecosystem will depend on clients having confidence that DAPs are
+trustworthy venues in which to transact. Clients should be protected from
+trading misconduct on DAPs, including attempts to manipulate token prices
+or create a false or misleading appearance of trading activity. DAP operators
+should therefore:
+(a)
+
+prohibit all forms of misconduct on their platforms; and
+
+(b)
+
+maintain effective governance, controls and monitoring arrangements to
+prevent, detect and appropriately respond to misconduct on their
+platforms.
+
+This proposal considers the market misconduct rules in the Corporations Act
+and market integrity rules that apply to traditional financial markets.
+114
+
+DAP operators should make the details on their intervention rights publicly
+accessible and provide the details to clients before providing services to a
+client. This includes a description of the rights, circumstances in which they
+can be used, the process, oversight and decision documentation, how clients
+are notified, any dispute process, record-keeping and interactions between
+the rights and order matching, liquidity and liquidity support arrangements.
+We would expect DAP operators to keep records of any suspected
+misconduct that they detected and what steps they took in response. We also
+would expect DAP operators to properly resource their monitoring function
+to ensure that they are able to respond to any suspected misconduct in a
+timely manner.
+
+115
+
+We have also proposed that the DAP operator will be required to report any
+disciplinary action it takes against a client that results in the client being
+
+© Australian Securities and Investments Commission October 2026
+
+Page 45
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+suspended or banned from the platform. This will allow ASIC to receive
+targeted and defined information related to misconduct, without requiring
+implementation of a bespoke trade reporting regime or trading misconduct
+regime. This approach is intended to facilitate a practical outcome for
+consumers in light of the legal and resource constraints on both ASIC and
+industry.
+
+Carve-out for tokenised spot tangible property tokens
+Proposal
+C6
+
+We propose that the transactional and settlement standards do not
+apply to transactions involving:
+(a)
+
+tokenised tangible property, or
+
+(b)
+
+tokenised derivatives that are not financial products (see
+s761D(3)(a)).
+Your feedback
+C6Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+C6Q2
+
+Are there any other products that should also be exempt
+from the transactional and settlement standards? For
+example, tokenised spot foreign exchange transactions
+(see carve-out in s765A(1)(m)).
+
+Rationale
+116
+
+Trading, market making and dealing in tangible assets (e.g. gold, wheat,
+metals), or certain physically settled derivatives are regulated by a
+combination of other government and industry bodies. They are not
+considered financial products under the Corporations Act. This proposal
+avoids regulatory overlap, retains the established rules and legal frameworks
+for each individual asset class, and preserves technology neutrality through
+consistency with existing financial services laws. We will monitor this
+position and may introduce transactional and settlement standards for such
+asset classes in the future.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 46
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+D
+
+Financial requirements for DAP and TCP
+licensees
+
+Key points
+We propose to apply solvency and positive net assets requirements, and as
+relevant, surplus liquid funds (SLF) and adjusted SLF (ASLF) requirements,
+to all DAP and TCP licensees. This includes operators and other licensees
+authorised to provide financial services relating to DAPs and TCPs.
+In addition to this, for DAP and TCP operators we also propose a tailored
+cash needs, audit and an NTA requirement. We are consulting on three
+alternative approaches to the NTA requirement.
+
+AFS licence obligations and financial requirements
+117
+
+AFS licensees that are authorised to provide financial services in relation to
+DAPs and TCPs will be subject to certain obligations under the Corporations
+Act, including:
+(a)
+
+having available adequate financial resources to provide the financial
+services covered by the AFS licence (s912A(1)(d));
+
+(b)
+
+doing all things necessary to ensure that the financial services covered
+by the AFS licence are provided efficiently, honestly and fairly
+(s912A(1)(a));
+
+(c)
+
+having adequate risk management systems (s912A(1)(h)); and
+
+(d)
+
+complying with the conditions of their AFS licence (s912A(1)(b)).
+
+118
+
+To help licensees understand what we consider to be ‘adequate financial
+resources’, we set specific financial requirements for AFS licensees in
+addition to the general requirement in s912A(1)(d). The requirements that
+apply to all licensees—the ‘base requirements’—are comprised of a
+solvency and net positive assets requirement, a cash needs requirement and
+an audit requirement: see Table 1 of RG 166. These requirements are
+imposed through licensee conditions: see Pro Forma 209 Australian
+financial services licence conditions (PF 209).
+
+119
+
+Licensees who hold client money or property or transact with their clients as
+principal are subject to further requirements—the ‘additional requirements’
+—in the form of an SLF and ASLF requirement: see Table 1 of RG 166.
+These requirements are also imposed through licence conditions (see PF 209).
+
+120
+
+Licensees operating in certain sub-sectors may be subject to modified base
+requirements—‘tailored’ base requirements—and an additional NTA
+
+© Australian Securities and Investments Commission October 2026
+
+Page 47
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+requirement, because of the heightened risks and complexity associated with
+the financial services provided in that sub-sector. These requirements are
+imposed by ASIC legislative instruments.
+121
+
+Licensees may be subject to more than one set of financial requirements,
+depending on the licence authorisations they hold. If this is the case, generally
+they must meet all applicable requirements but can count the same assets to
+meet multiple requirements, except where provided otherwise: see RG 166.26.
+
+Financial requirements for all DAP and TCP licensees
+Proposal
+D1
+
+For all licensees that are authorised to provide financial services in
+relation to DAPs and TCPs (including operators, advisers and licensees
+that are authorised to deal under s766C(1)(ca)), we propose to apply
+the following financial requirements:
+(a)
+
+solvency and positive net assets requirements (see RG 166.32–
+RG 166.34);
+
+(b)
+
+if the licensee holds client money in excess of $100,000—a
+requirement to hold $50,000 in SLF; and
+
+(c)
+
+if the licensee transacts with clients as principal—an adjusted SLF in
+the sum of $50,000, 5% of adjusted liabilities between $1 million and
+$100 million, and 0.5% of adjusted liabilities exceeding $100 million.
+
+These requirements will be imposed through licence conditions (see PF 209).
+Your feedback
+D1Q1
+
+Do you agree with this proposal? If not, please give reasons.
+
+D1Q2
+
+Does our proposal adequately support the objectives of the
+financial requirements? If not, what should change?
+
+D1Q3
+
+For existing DAP and TCP operators, how will these
+proposed obligations affect your business? Please provide
+an estimate of the time and costs you will incur to
+implement the proposed rules.
+
+Rationale
+122
+
+The overarching rationale of the financial requirements described in
+RG 166.13 is to:
+(a)
+
+ensure AFS licensees have sufficient resources to conduct their business
+in compliance with the Corporations Act (including carrying out
+supervisory arrangements);
+
+(b)
+
+maintain a financial buffer that decreases the risk of a disorderly or noncompliant wind-up if the business fails; and
+
+© Australian Securities and Investments Commission October 2026
+
+Page 48
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+(c)
+
+provide adequate incentive for the licensee’s owners to ensure the
+licensee is operated compliantly.
+
+123
+
+The solvency and positive net asset requirements outlined within RG 166 are
+a foundational obligation applicable to all AFS licensees, reflecting the
+expectation that all licensees maintain adequate financial resources to
+provide financial services.
+
+124
+
+Applying this requirement to all DAP and TCP licensees without
+modification maintains regulatory simplicity and consistency, and avoids the
+risk of regulatory arbitrage by ensuring entities cannot restructure into digital
+asset models to avoid fundamental solvency expectations that apply across
+the broader financial services regime.
+
+125
+
+ASIC considers that the SLF and ASLF requirements should also apply to
+DAP and TCP licensees where they engage in the activities that usually
+trigger those requirements in providing other financial services—that is,
+holding client money or transacting with clients as principal, respectively.
+
+Financial requirements for DAP and TCP operators
+Proposal
+D2
+
+For licensees that operate (i.e. issue) a DAP or TCP, we propose to
+apply the following financial requirements in addition to those proposed
+above in proposal D1:
+(a)
+
+(b)
+
+tailored cash needs requirements—operators must:
+(i)
+
+prepare quarterly projections of their cashflows over at least
+the next 12 months, based on reasonable expectations of
+what is likely to occur, and
+
+(ii)
+
+document certain assumptions and conclusions (see
+RG 166.35–RG 166.37).
+
+tailored audit requirements—the audit reports the licensees file
+under s989B(3) of the Corporations Act must attest to compliance
+(on both a positive and negative assurance basis) with the tailored
+cash needs requirement and the proposed NTA requirement (see
+proposal D3).
+
+These requirements will be imposed by legislative instrument—see draft
+ASIC Corporations (Financial Requirements for Digital Asset Platforms
+and Tokenised Custody Platforms) Instrument 2027/XX (draft financial
+requirements instrument) at Attachment 4. All other licensees will be
+subject to the standard cash needs and audit requirements set out in
+licence conditions (see PF 209), unless other requirements apply to
+them because of other licence authorisations they hold.
+Note: The draft financial requirements instrument will change following consultation
+feedback and our finalisation process for the instrument. We attach a draft to give
+
+© Australian Securities and Investments Commission October 2026
+
+Page 49
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+stakeholders an earlier indication of the likely form of the financial requirements
+(including the three alternate options we are consulting on below).
+
+Your feedback
+D2Q1
+
+Do you agree with this proposal? If not, please give
+reasons.
+
+D2Q2
+
+Does this proposal adequately support the objectives of the
+financial requirements? If not, what should change? Please
+give reasons.
+
+D2Q3
+
+For existing DAP and TCP operators, how will these
+proposed obligations affect your business? Please provide
+an estimate of the time and costs you will incur to
+implement the proposed rules.
+
+Rationale
+126
+
+ASIC intends to impose the same tailored cash needs and audit requirements
+as those applying to investor directed portfolio service (IDPS) operators
+under sections 5(3) and 5(9) of ASIC Corporations (Financial Requirements
+for Responsible Entities, IDPS Operators and Corporate Directors of Retail
+CCIVs) Instrument 2023/647 to DAP and TCP operators.
+
+127
+
+Applying the same requirements to DAP and TCP operators as IDPS
+operators is consistent with the general policy intent of DAF Act, which is
+based on DAP and TCPs being regulated like IDPSs as a platform-based
+custodial product with similar liquidity and operational risks that the tailored
+cash needs and audit requirements address.
+
+NTA requirements for DAP and TCP operators
+Proposal
+D3
+
+For licensees that operate a DAP or TCP, we propose to apply an NTA
+requirement in the form of one of the models set out in Table 7. We also
+propose to apply annual indexation (by reference to the consumer price
+index (CPI)) to thresholds in the proposed NTA models to ensure they
+remain current. This NTA requirement will apply in addition to the
+requirements in proposals D1 and D2.
+This requirement will be imposed by the draft financial requirements
+instrument—see Attachment 4.
+Your feedback
+D3Q1
+
+Do you agree with our proposed approach to the NTA
+requirement? If not, what alternative approach would better
+achieve the objectives?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 50
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+D3Q2
+
+Which proposed NTA model best supports the objectives of
+the NTA requirement? Please give reasons.
+
+D3Q3
+
+What effect would each model have on competition? Would
+any model create practical difficulties? Please give
+examples.
+
+D3Q4
+
+Are the proposed amounts and thresholds appropriate?
+
+D3Q5
+
+Should the NTA requirements differentiate between the
+methods of asset holding discussed in proposal D3 to
+reflect the different risks and costs of these methods?
+
+D3Q6
+
+Should any particular assets or liabilities be included in, or
+excluded from, the proposed definitions?
+
+D3Q7
+
+For existing DAP and TCP operators, how will these
+proposed obligations affect your business? Please provide
+an estimate of the time and costs you will incur to
+implement the proposed rules.
+
+Table 7:
+
+Options for NTA requirements
+
+Options
+
+NTA requirements
+
+Model 1
+
+DAP and TCP operators will be required to hold NTA in the amount of at least:
+1) where the operator has met the third-party custody conditions:
+a) $200,000 (indexed annually, by reference to CPI);
+b) 0.5% of the average value of underlying assets possessed or held up to $7,000,000
+(indexed annually, by reference to CPI); or
+c) 10% of average revenue; or
+2) otherwise, the greater of:
+a) $14,000,000 (indexed annually, by reference to CPI); or
+b) 10% of average revenue.
+
+Model 2
+
+DAP and TCP operators will be required to hold NTA in the amount of at least:
+1) where the operator has met the third-party custody conditions:
+a) $200,000 (indexed annually, by reference to CPI);
+b) 0.5% of the average value of underlying assets possessed or held up to $7,000,000
+(indexed annually, by reference to CPI); or
+c) 10% of average revenue;
+2) where the operator does not, at any time, possess or hold an underlying asset that is a
+financial product, the greater of:
+a) $7,000,000 (indexed annually, by reference to CPI); or
+b) 10% of average revenue; or
+3) otherwise, the greater of:
+a) $14,000,000 (indexed annually, by reference to CPI); or
+b) 10% of average revenue.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 51
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Options
+
+NTA requirements
+
+Model 3
+
+DAP and TCP operators will be required to hold NTA in the amount of at least:
+1) where the operator has met the third-party custody conditions:
+a) $200,000 (indexed annually, by reference to CPI);
+b) 0.5% of the average value of underlying assets possessed or held up to $7,000,000;
+(indexed annually, by reference to CPI); or
+c) 10% of average revenue.
+2) otherwise, at least the sum of:
+a) the amount that is the greatest of:
+i)
+
+$2,000,000 (indexed annually, by reference to CPI);
+
+ii) 0.5% of the average value of underlying assets possessed or held up to $14,000,000
+(indexed annually, by reference to CPI);
+iii) 10% of average revenue; and
+b) the amount (if any) that is the sum of the following:
+i)
+
+$500,000 (indexed annually, by reference to CPI)—where the operator is a DAP
+operator that acts as an agent;
+
+ii) $750,000 (indexed annually, by reference to CPI)—where the operator is a DAP
+operator that operates a neutral trading venue; or
+iii) $1,000,000 (indexed annually, by reference to CPI)—where the operator is a DAP
+operator that trades as principal with its clients.
+In this model:
+ ‘acts as an agent’ refers to DAP operators who acquire or dispose of digital tokens on their
+clients’ behalf and arrange or execute those transactions through another DAP, trading venue or
+liquidity source, analogous to a traditional finance broker;
+ ‘operates a neutral trading venue’ refers to DAP operators who facilitate the acquisition or
+disposal of digital tokens by providing a trading venue for offers of acquisition and disposal to be
+regularly made, analogous to a traditional finance market operator; and
+ ‘trades as principal with its clients’ refers to DAP operators who regularly offer to acquire and
+dispose of digital tokens either on their own behalf, analogous to a traditional finance market
+maker, or in the course of facilitating matched principal trading.
+
+Rationale
+128
+
+Consistent with the general principles of financial requirements, NTA
+requirements aim to:
+(a)
+
+ensure the licensee has adequate financial resources to meet operating
+costs (e.g. the costs of ensuring compliance with the Corporations Act);
+
+(b)
+
+align the licensees’ interests with the interests of its clients—in the case
+of DAPs and TCPs, persons on behalf of whom the operator is
+possessing or holding underlying assets—by ensuring the licensee is an
+entity of substance and its shareholders are sufficiently invested in the
+success of the licensee and propriety of its operations; and
+
+(c)
+
+provide some level of assurance that, if the licensee does fail, there is
+sufficient money available for an orderly wind down of the licensee.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 52
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+129
+
+The ‘core’ activity of DAPs and TCPs is custody of underlying assets. We
+have therefore designed three proposals for the NTA requirement based on
+the requirements that apply to IDPS operators given the similar nature, risk
+and complexity of those business models and in consideration of the DAP
+and TCP regime being based on the regulation of IDPSs, registered managed
+investment schemes and managed discretionary accounts: see the
+Explanatory Memorandum at paragraph 1.23. These proposed options would
+operate as described in Table 7.
+
+130
+
+Each model includes an identical NTA concession for a DAP/TCP operator
+who engages a third-party custodian to possess or hold all the underlying
+assets of the facility. To access this concession, an operator must obtain
+written assurance and (with some limited exceptions) audit reports from the
+custodian attesting that the custodian holds the amount and form of NTA
+that the operator would otherwise be required to hold but for the outsourced
+custody arrangement. The conditions are detailed in sections (4) to (6) of the
+draft financial requirements instrument—see Attachment 4.
+
+131
+
+The rationale for each model is as follows:
+
+132
+
+(a)
+
+Model 1 applies substantially the same requirements that apply to IDPS
+operators on the basis of the ‘same activity, same risk, same
+regulation/regulatory outcome’ principle. This includes a concessional
+NTA amount where the operator uses a third-party custodian and meets
+certain requirements. Model 1 therefore eliminates the risk of regulatory
+arbitrage by aligning financial requirements for DAP and TCP operators
+with those of traditional finance custodians.
+
+(b)
+
+Model 2 adds an additional concession for DAP and TCP operators who
+have custody of exclusively non-financial products. This provides a
+lower base requirement (compared to Model 1) to be more
+accommodating of smaller DAPs and TCPs, while mitigating the
+regulatory arbitrage risk noted above (as it only applies to non-financial
+product underlying assets).
+
+(c)
+
+Model 3 stipulates a base requirement with activity-based add-ons to
+provide a more scalable option for smaller DAPs and TCPs. This
+scalability and accommodation of smaller DAPs and TCPs comes in the
+form of a comparatively lower base requirement than the other
+proposals, and fixed sum add-ons for different activities. Once DAPs
+and TCPs are of a certain size however, the requirements are aligned
+with those applied to IDPSs. Consistent with Models 1 and 2, this
+Model includes a concessional NTA amount where the operator uses a
+third-party custodian and meets certain requirements.
+
+The NTA requirements proposed above will only apply to licensees that are
+authorised to issue (i.e. operate) DAPs or TCPs.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 53
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+133
+
+We also propose to apply annual indexation (by reference to CPI) to
+thresholds in the proposed NTA models to ensure they remain current.
+
+134
+
+The definitions of adjusted assets and adjusted liabilities differ in material
+respects to those found in other instruments. In particular, all guarantees,
+without qualification, are included in the definition of adjusted liabilities. In
+contrast, receivables in the form of trustee rights of indemnity out of clients’
+assets and rights of set-off against obligations owed to clients are not
+included in the definition of adjusted assets.
+
+135
+
+We are unaware of any guarantees given by DAP or TCP operators that
+merit exclusion from adjusted liabilities, and do not expect rights of set-off
+and indemnity to be significant receivables warranting their inclusion in
+adjusted assets.
+International comparison
+
+136
+
+We have compared the proposed models with somewhat similar capital
+requirements imposed in other jurisdictions. While the proposed models
+appear to set higher minimum requirements, we found other jurisdictions’
+requirements differed materially in form and purpose. We therefore do not
+consider the proposed NTA models to be comparatively disproportionate or
+burdensome.
+
+137
+
+Jurisdictions such as the United Kingdom, European Union, Singapore and
+Hong Kong impose ‘minimum capital requirements’ on DAPs. These
+requirements vary between approximately AU$80,000 and AU$5.4 million
+in magnitude, depending on the platform’s activities and authorisations.
+However, they scale up markedly using a range of calculation
+methodologies. The object of those requirements is prudential, intending to
+ensure the stability and financial soundness of the DAP, and supported by a
+more prudential approach to ongoing supervision and assessment by the
+regulators. ASIC’s financial requirements are not prudential in nature (see
+RG 166.15 and RG 166.19) and we do not directly undertake ongoing
+monitoring of these requirements. In this sense too, the overseas
+requirements impose a higher burden in ongoing management and
+calculation of the NTA requirements through complexity of the calculations.
+In addition, some overseas jurisdictions have a different allocation of
+responsibilities between prudential regulators and securities regulators for
+regulating custodians.
+
+138
+
+A key difference between foreign requirements and NTA is that foreign
+requirements typically require satisfaction with a narrower class of assets,
+such as ‘common equity tier 1 capital’, which generally encompasses only
+retained earnings and paid-up share capital. NTA requirements, by contrast,
+can be met with a range of liquid tangible assets (subject to 50% being held
+in the form of cash and cash equivalents). The absolute difference between
+
+© Australian Securities and Investments Commission October 2026
+
+Page 54
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+NTA and foreign requirements is therefore not an accurate measure of their
+comparative burden, considering the higher cost of capital required to satisfy
+the foreign requirements.
+139
+
+Some jurisdictions also impose an additional requirement to hold a measure
+of operating expenses or fixed overheads, which is typically 3–12 months’
+worth. Several jurisdictions align their requirements with obligations
+equivalent to those imposed on traditional financial firms.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 55
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+PART 2
+140
+
+Table 8:
+
+Other proposals
+Part 2 of this consultation paper outlines proposals related to matters that
+apply beyond DAPs and TCPs. These reflect some broader updates to the
+Corporations Act introduced by the DAF Act, and issues identified in ASIC
+guidance that require attention due to the increasing interplay of digital
+assets with traditional financial firms.
+
+Proposals related to other updates introduced by the DAF Act
+
+Section of this paper
+
+Proposals
+
+Rationale
+
+Section E: Guidance
+about various other
+amendments to the
+Corporations Act
+
+Provide guidance about certain additional
+changes introduced by the DAF Act that
+are not specifically about DAPs and
+TCPs. This includes public digital token
+infrastructure (PDTI) and related digital
+assets (see anticipated regulations,
+subject to Government processes),
+treatment of certain wrapped tokens, and
+custodial staking arrangements
+
+Ensure that guidance on new concepts
+inserted by the DAF Act is provided,
+especially where application is unclear
+
+Section F: Stablecoins
+for use in meeting
+financial requirements
+by AFS licensees
+generally
+
+Restrict the use by AFS licensees of
+certain stablecoins to satisfy their NTA
+requirements to those that are:
+
+Certain stablecoins are likely to already
+meet the definition of cash and cash
+equivalents for the purposes of satisfying
+NTA requirements that apply to many
+licensees already. These proposals will
+ensure that all licensees maintain
+appropriate financial resources, while
+mitigating risks that may arise where
+stablecoins used to satisfy NTA
+requirements may lack sufficient
+independence or liquidity.
+
+ not self-issued; and
+ held by an independent third-party.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 56
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+E
+
+Guidance about various other amendments to
+the Corporations Act
+
+Key points
+We propose to update INFO 225 with additional guidance regarding
+exemptions for certain arrangements introduced by the DAF Act.
+
+Proposed update to INFO 225
+141
+
+The DAF Act, and anticipated regulations (subject to Government
+processes), introduces a small number of amendments to how the
+Corporations Act applies to certain arrangements in the digital assets
+ecosystem beyond the introduction of DAPs and TCPs as financial products.
+These changes include exemptions from regulation under the Corporations
+Act for:
+(a)
+
+PDTI and certain related digital assets (see anticipated regulations,
+subject to Government processes);
+
+(b)
+
+wrapped tokens in certain circumstances; and
+
+(c)
+
+custodial staking arrangements.
+
+Proposal
+E1
+
+We propose to update INFO 225 with the additional guidance
+summarised in Table 9. The guidance relates to:
+(a)
+
+PDTI and certain related digital assets (see anticipated regulations,
+subject to Government processes);
+
+(b)
+
+certain wrapped tokens; and
+
+(c)
+
+custodial staking arrangements.
+Your feedback
+E1Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+E1Q2
+
+Does the proposed guidance provide enough detail to
+identify when the PDTI exemption applies? If not, what
+additional details are needed?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 57
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Table 9: Additional guidance proposed for INFO 225
+Topic
+
+Outline of proposed updates to INFO 225
+
+PDTI and related digital
+assets
+
+PDTI is defined in s9E of the Corporations Act. PDTI is used for transmitting,
+processing or recording electronic records that are, or relate to, digital tokens.
+PDTI may include software, hardware, or a combination of both. This includes
+public permissionless blockchain networks as well as decentralised applications
+on those networks.
+Guidance will likely be a new section in Part A of INFO 225 to outline that where
+infrastructure meets the definition of PDTI it will not be a financial product, financial
+market or clearing and settlement facility, and the exemption extends to persons
+conducting consensus or validation activities. It will also outline that digital assets
+issued in relation to PDTI are not financial products (see anticipated regulations,
+subject to Government processes). This would also lead to minor adjustments to
+Part D of INFO 225, Example 3 and Example 11.
+Guidance would indicate the key components of the PDTI exemption, including
+specific content from the Explanatory Memorandum. The key points will include:
+ the exemption does not change the regulatory nature of ‘the conduct of making
+promises or settling obligations through that infrastructure’ (see paragraph 1.339
+of the Explanatory Memorandum);
+ the Explanatory Memorandum emphasises that ‘any’ person in a
+‘permissionless’ protocol (see paragraphs 1.345 and 1.347) can rely on the
+exemption. Infrastructure where ‘only select persons became able to conduct
+consensus activities’ is not PDTI (paragraph 1.340). This could include
+restrictions for KYC requirements, but is unlikely to include consideration of base
+hardware requirements or minimum staking thresholds if those apply universally;
+and
+ this exemption is in the context of the financial services regime generally, an
+entity’s licensing requirements are assessed at a point in time, and not based on
+any future expected state. It could be possible that an arrangement may not
+meet PDTI now, but might in the future—in those circumstances, the licensing
+requirements still apply now for current conduct.
+
+Wrapped tokens in
+certain circumstances
+(s765E)
+
+A wrapped token is a digital token with a right to redeem or direct the delivery of
+another asset (related asset). The related asset may be an underlying asset of a
+TCP, or a digital token held through decentralised wrapping software or a PDTI.
+The redemption right of the wrapped token is ignored when determining if the
+wrapped token is a financial product: see s765E. Instead, the financial product
+status is determined by any other rights or features associated with the wrapped
+token, including those related to the underlying asset that accrue to the holder of
+the wrapped token.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 58
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Topic
+
+Outline of proposed updates to INFO 225
+
+Custodial staking
+arrangements
+
+Custodial staking arrangements are defined in s9F of the Corporations Act. It is an
+arrangement by which a person (the operator) is allowed to use one or more of the
+underlying assets possessed under the platform for the beneficiary (whether
+directly or through a nominee) in consensus activities (which only are in relation to
+PDTI in s9E(2)(b)) where the benefits from participating in the consensus activities
+are passed through to their client. The provider of a custodial staking arrangement
+is an intermediary between a client and the provision of consensus activities.
+A custodial staking arrangement can, but does not have to, include changes in
+rights for the end clients. Some of these changes in rights can include pooling
+client assets to meet minimum protocol thresholds or reducing protocol-imposed
+waiting periods.
+Where a DAP or TCP operator provides a custodial staking arrangement, that
+arrangement is not regulated as a separate financial product.
+
+Rationale
+142
+
+These particular definitions can be quite technical in nature, so additional
+guidance from ASIC can support industry and consumers in understanding
+the application of the regime.
+
+143
+
+The topics in proposal E1 apply beyond the operation of DAPs and TCPs.
+Therefore, we think it is preferable to provide this guidance outside of the
+new regulatory guide.
+
+144
+
+The guidance in relation to PDTI and wrapped tokens has important
+implications for broader trends in tokenisation of financial markets, beyond
+DAPs and TCPs. Understanding these particular sections of the law, and
+ASIC’s interpretation of those positions, will help financial service
+providers, and operators of financial markets and CS facilities, to progress
+those tokenisation initiatives.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 59
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+F
+
+Stablecoins for use in meeting financial
+requirements by AFS licensees generally
+
+Key points
+Stablecoins that meet certain criteria may be used to meet a licensee’s
+financial requirements. However, we propose to restrict licensees from
+using a subset of stablecoins that may otherwise be eligible for use in
+meeting financial requirements. We refer to this subset as ‘restricted
+stablecoins’.
+‘Restricted stablecoins’ will include stablecoins issued, held or possessed
+by the licensee, an associated entity of the licensee, or someone controlled
+by, or under common control of, the licensee or an associated entity.
+
+Proposed exclusion of ‘restricted stablecoins’
+145
+
+Certain stablecoins may satisfy the existing definition of ‘cash or cash
+equivalents’ for the purposes of ASIC’s financial requirements instruments.
+For example, a stablecoin may satisfy the general ‘cash or cash equivalent’
+definition if it is redeemable at par, on demand with negligible risk of
+material price fluctuation and supported by high‑quality underlying reserves
+(e.g. cash or cash equivalents, or high-quality liquid assets).
+
+146
+
+Importantly, not all digital assets that are called a ‘stablecoin’ would satisfy
+the definition for being cash or cash equivalent, or liquid assets. Stablecoins
+would likely satisfy those definitions if they:
+
+147
+
+(a)
+
+are non-cash payment facilities under the current law and would be
+subject to the ‘eligible stablecoin’ relief (ASIC Corporations
+(Stablecoin and Wrapped Token Relief) Instrument 2025/867); or
+
+(b)
+
+would meet the proposed definition of tokenised stored value facilities
+(see proposed s761EC in the Exposure Draft for Treasury’s consultation
+Regulation of Payment Service Providers—Tranche 1a draft legislation).
+
+However, stablecoins that are derivatives, debentures or managed investment
+schemes, or issued by unregulated parties, may not meet that definition
+depending on their specific circumstances and arrangements.
+Proposal
+F1
+
+We propose to exclude ‘restricted stablecoins’ from being able to satisfy
+NTA requirements. A restricted stablecoin would include a stablecoin
+that meets the definition of cash or cash equivalents, and is issued,
+possessed or held by:
+(a)
+
+the licensee
+
+© Australian Securities and Investments Commission October 2026
+
+Page 60
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+(b)
+
+an associated entity of the licensee, or
+
+(c)
+
+a person that is controlled by, or under common control with, the
+licensee or an associated entity of the licensee.
+
+Stablecoins that are not issued by any associate of the operator, and
+are held on the operator’s behalf by a third-party custodian will not be
+restricted stablecoins, and can otherwise be used for the purposes of
+meeting the NTA requirement if they meet the requisite definitions.
+Your feedback
+F1Q1
+
+Do you agree with our proposal? If not, please give
+reasons.
+
+F1Q2
+
+Does the proposed definition of a restricted stablecoin
+appropriately capture stablecoins that should not count
+towards NTA? If not, how should the concept be defined?
+
+F1Q3
+
+Should any exceptions apply? If so, what safeguards would
+be necessary?
+
+Rationale
+148
+
+This proposal aims to mitigate risks that arise where a licensee relies on a
+stablecoin that it issues, that is issued by an associated entity, or that remains
+under its custody or control. The value, liquidity and redeemability of the
+stablecoin may depend on the financial position or operational resilience of
+the licensee or its corporate group.
+
+149
+
+In these circumstances, the stablecoin’s effectiveness as an adequate
+financial buffer may be affected by issues with the stablecoin’s value,
+liquidity and redeemability due to the stablecoin’s lack of independence.
+
+150
+
+We therefore consider that additional safeguards are necessary where
+stablecoins are used to satisfy NTA requirements. Prohibiting reliance on
+‘restricted stablecoins’ will preserve the integrity of the financial
+requirement regime by ensuring that recognised stablecoins operate as
+independent liquidity resources.
+
+151
+
+This proposal only affects which stablecoins can be used as part of NTA
+calculations. It does not affect when licensees can use ‘restricted stablecoins’
+more generally in their business.
+
+152
+
+This proposal will apply to all AFS licensees, whether that requirement is
+imposed by licence condition, legislative instrument or guidance. It is not
+limited to licensees active in the digital asset industry. The proposal will
+therefore apply to relevant instruments recently consulted on in Proposed
+extension of financial services, credit and markets legislative instruments
+(CS 62), notwithstanding that consultation’s proposal to only amend the selfrepeal date of each instrument.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 61
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+G
+
+Regulatory and financial impact
+
+153
+
+154
+
+In developing the proposals in this paper, we have carefully considered their
+regulatory and financial impact. On the information currently available to us
+we think they will strike an appropriate balance between:
+(a)
+
+promoting confident and informed participation by consumers,
+maintaining fair and orderly markets, and reducing risks associated with
+custody, transfer and use of digital assets; and
+
+(b)
+
+fostering innovation, enhancing competition and growth, and
+strengthening Australia’s standing in the global digital asset ecosystem.
+
+Before settling on a final policy, we will comply with the Australian
+Government’s Policy Impact Analysis (PIA) requirements by:
+(a)
+
+considering all feasible options, including examining the likely impacts
+of the range of alternative options that could meet our policy objectives;
+
+(b)
+
+if regulatory options are under consideration, notifying the Office of
+Impact Analysis (OIA); and
+
+(c)
+
+if our proposed option has more than a minor or machinery impact on
+business or on the not-for-profit sector, preparing an Impact Analysis
+(IA) or an IA equivalent (Independent Review).
+
+155
+
+All IAs are submitted to the OIA for approval before we make any final
+decision, or if an IA equivalent—to the OIA for agreement. Without an
+approved IA or agreed IA equivalent, ASIC is unable to give relief or make
+any other form of regulation, including issuing a regulatory guide that
+contains regulation.
+
+156
+
+To ensure that we are in a position to properly complete any required IA or
+IA equivalent, please give us as much information as you can about our
+proposals or any alternative approaches, including:
+(a)
+
+the likely compliance costs;
+
+(b)
+
+the likely effect on competition; and
+
+(c)
+
+other impacts, costs and benefits.
+
+See ‘The consultation process’, p. 4.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 62
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Key terms
+Term
+
+Meaning in this document
+
+AFS licence
+
+An Australian financial services licence under s913B of
+the Corporations Act that authorises a person who carries
+on a financial services business to provide financial
+services
+Note: This is a definition in s9.
+
+AFS licensee
+
+A person who holds an AFS licence under s913B of the
+Corporations Act
+
+ASIC Instrument
+2025/447 (for
+example)
+
+An ASIC instrument (in this example numbered
+2025/447)
+
+class of digital token
+
+A collection of digital tokens that are fungible and the
+same (e.g. ETH, ERC-20 ETH, ETH on a layer 2
+blockchain would each be a separate class of digital
+tokens)
+
+Corporations Act
+
+Corporations Act 2001, including regulations made for the
+purposes of that Act
+
+CPI
+
+Consumer price index
+
+CS facility
+
+A clearing and settlement facility as defined in s768A of
+the Corporations Act
+
+custody
+
+The holding, safeguarding, or control of digital assets on
+behalf of clients, including through hot, warm, or cold
+wallets, multi-signatory arrangements, or an arrangement
+under which a DAP or TCP operator appoints another
+person to perform asset-holding functions in relation to
+underlying assets or money
+
+DAF Act
+
+Corporations Amendment (Digital Assets Framework) Act
+2026
+
+DAP
+
+Digital asset platform—has the meaning given in s761GC
+of the Corporations Act
+
+DAP/TCP Guide
+
+A disclosure document provided by a DAP or TCP
+outlining key information about platform operations, risks,
+fees, governance, and client rights
+
+digital asset
+
+The value, rights or interests associated with a digital
+token, which may arise from the digital token itself, or
+from rights, interests or assets represented by, or
+connected with, the digital token
+
+digital token
+
+Has the meaning given in s761GB of the Corporations
+Act
+
+© Australian Securities and Investments Commission October 2026
+
+Page 63
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Term
+
+Meaning in this document
+
+digital token identifier
+
+An identifier used to uniquely identify a class of digital
+token on a particular distributed ledger or blockchain
+
+draft asset-holding
+standards instrument
+
+ASIC Corporations (Digital Asset Platforms and
+Tokenised Custody Platforms—Asset-Holding Standards)
+Instrument 2027/XX at Attachment 2 to this paper
+
+draft financial
+requirements
+instrument
+
+ASIC Corporations (Financial Requirements for Digital
+Asset Platforms and Tokenised Custody Platforms)
+Instrument 2027/XX at Attachment 4 to this paper
+
+draft RG 000
+
+Draft Regulatory Guide 000 Digital asset platforms and
+tokenised custody platforms at Attachment 1 to this paper
+
+draft transactional
+and settlement
+standards instrument
+
+ASIC Corporations (Digital Asset Platforms—
+Transactional and Settlement Standards) Instrument
+2027/XX at Attachment 3 to this paper
+
+Explanatory
+Memorandum
+
+Explanatory Memorandum for the Corporations
+Amendment (Digital Assets Framework) Bill 2025
+
+IDPS
+
+An investor directed portfolio service as defined in ASIC
+Corporations (Platforms—IDPSs and IDPS-like Schemes)
+Instrument 2026/395 or any instrument that amends or
+replaces that instrument
+
+INFO 225 (for
+example)
+
+An ASIC information sheet (in this example numbered
+225)
+
+liquidity support
+arrangement
+
+An enforceable written arrangement between the
+operator of a DAP and another person (liquidity support
+provider), under which the person provides liquidity to, or
+pursues market-making strategies through, the platform
+or with the operator as principal
+
+NTA
+
+Net tangible assets
+
+operational resilience
+
+The ability of a DAP/TCP to maintain critical services
+during disruptions, including cyber incidents, key
+compromise, or blockchain-level events such as forks
+
+order
+
+An instruction from a client under the platform to buy or
+sell an underlying asset on the platform, or amend or
+cancel a prior instruction to buy or sell an underlying
+asset on the platform
+
+order book
+
+An electronic list of orders maintained by or on behalf of a
+DAP operator, on which those orders are matched with
+other orders in the same list
+
+order matching
+
+In relation to the operator of a DAP, executing orders
+from clients by matching an order from a client with an
+order from another client on the same DAP through an
+order book or a matched principal trade
+
+PDTI
+
+Public digital token infrastructure
+
+© Australian Securities and Investments Commission October 2026
+
+Page 64
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Term
+
+Meaning in this document
+
+PF 209 (for example)
+
+An ASIC pro forma (in this example numbered 209)
+
+platform rules
+
+The rules established by a DAP or TCP governing listing,
+delisting, trading, settlement, staking, and other
+platform-level activities
+
+Pt 7.8 (for example)
+
+A Part of the Corporations Act (in this example numbered
+7.8)
+
+responsible manager
+
+An individual nominated by a DAP/TCP applicant to
+demonstrate organisational competence under the AFS
+licensing regime
+
+RG 166 (for example)
+
+An ASIC regulatory guide (in this example numbered
+166)
+
+s912BE (for example)
+
+A section of the Corporations Act (in this example
+numbered 912BE), unless otherwise specified
+
+smart contract
+
+Software code deployed on a blockchain that automates
+functions, rights, or obligations associated with a digital
+token or platform activity
+
+stablecoin
+
+A digital asset that has the purpose of maintaining a
+stable value that is equal to an amount of an Australian or
+foreign currency
+
+staking
+
+The process of locking digital tokens to support
+blockchain network operations (e.g. validation) in
+exchange for rewards, whether custodial or non-custodial
+
+TCP
+
+Tokenised custody platform—has the meaning given in
+761GD of the Corporations Act
+
+third-party assetholding arrangements
+
+An arrangement under which a DAP or TCP operator
+appoints another person to perform asset-holding
+functions in relation to underlying assets or money
+
+tied broker/tied dealer
+
+A DAP operator that executes each order from a client on
+behalf of the client as agent, by transmitting and
+executing the order through a facility that is operated by a
+related body corporate named in the platform standards.
+Only this facility may be used by the operator for the
+transmission and execution of orders
+
+tokenisation
+
+The process of creating a digital token that represents
+rights or interests in an underlying asset, product, or
+service
+
+trading information
+
+Includes digital token identification, last traded price,
+currency or settlement asset, bid, offer, high, low, volume
+and asset trading operational status
+
+© Australian Securities and Investments Commission October 2026
+
+Page 65
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Term
+
+Meaning in this document
+
+transaction and
+settlement functions
+
+The functions of the DAP that facilitate the buying and
+selling of underlying assets through the platform in
+accordance with the instructions of the client of the
+operator, including:
+ facilitating the buying and selling of the underlying
+asset of the platform;
+ facilitating the settlement of such transactions;
+ matched principal trading and other execution models
+that involve the intermediary facilitation of such
+transactions; and
+ handling, prioritising and executing the instructions of a
+client under the platform (including across different
+business models such as market operation, market
+making, liquidity provision, brokerage, or dealing)
+
+underlying assets (of
+a DAP)
+
+The underlying assets of a DAP are digital tokens held for
+clients under a trust arrangement or another arrangement
+that complies with the asset-holding standards
+
+underlying assets (of
+a TCP)
+
+The underlying assets of a TCP can be any asset
+(including digital tokens) except money, where the TCP
+has created a digital token that confers the right to
+redeem the token for the underlying asset or to direct
+delivery of the underlying asset
+
+vertically integrated
+business model
+
+The business model of combining activities at two (or
+more) different stages of production
+
+© Australian Securities and Investments Commission October 2026
+
+Page 66
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+List of proposals and questions
+Proposal
+
+Your feedback
+
+A1
+
+A1Q1 Do you agree with our proposal for a
+DAP/TCP-specific regulatory guide and our
+approach of referring to existing regulatory
+guidance where relevant to DAP and TCP
+licensees? If not, please give reasons.
+
+We propose to:
+(a)
+
+(b)
+
+produce one new regulatory guide relating
+to DAPs and TCPs. This will contain most
+of the guidance about the DAP and TCP
+regime (including how to apply for a
+licence and specific obligations for
+operators), and then will refer to existing
+regulatory guides for information about
+existing AFS licence obligations—see draft
+RG 000 at Attachment 1 to this paper;
+
+A1Q2 Do you agree that INFO 225 should remain
+the primary guidance on when digital assets
+are financial products? Please give reasons,
+including any improvements ASIC should
+consider when reviewing INFO 225.
+
+provide guidance on financial requirements
+for DAP and TCP licensees as a new
+appendix to RG 166;
+Note: See Section D for our proposed financial
+requirements.
+
+A2
+
+(c)
+
+make some minor updates to the AFS
+licensing guidance, including RG 1, in
+relation to the new authorisations, the
+licence application process and the AFS
+licensing application form; and
+
+(d)
+
+retain INFO 225 as the primary guidance
+on when digital assets themselves are or
+are not financial products, and add
+guidance about certain broader aspects of
+the DAF Act to INFO 225 (e.g. PDTI and
+related exemptions in the anticipated
+regulations (subject to Government
+processes)).
+
+We propose to explain how the law defines
+DAPs and TCPs, identifying the components
+that make a DAP or TCP, the extended meaning
+of dealing introduced by the DAF Act and
+anticipated accompanying regulations (subject to
+Government processes), as set out in Section B
+of draft RG 000 at Attachment 1 to this paper.
+
+A2Q1 Do you agree with our proposal? If not, please
+give reasons.
+A2Q2 Does the proposed guidance adequately
+cover the relevant aspects of the new regime
+and its interaction with other financial products
+and services? If not, what elements require
+clarification? Please give reasons and
+suggested guidance.
+A2Q3 In addition to the examples provided in the
+Explanatory Memorandum to the Corporations
+Amendment (Digital Assets Framework) Bill
+2025 (Explanatory Memorandum), which are
+referenced throughout the proposed
+regulatory guide, are there any other example
+scenarios that would be useful to include in
+the regulatory guide for DAPs and TCPs?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 67
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+A3
+
+A3Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+A4
+
+We propose to introduce guidance on licence
+authorisations and the process for applying for
+or varying a licence, including:
+(a)
+
+new licence authorisations for DAPs and
+TCPs, and proposed business models
+applicable to DAP and TCP operators—
+see draft RG 000.90 (these authorisations
+will also be included in an updated RG 1);
+
+(b)
+
+the interaction with the Australian markets
+licensing regime and clearing and
+settlement facility regime—see draft
+RG 000.60; and
+
+(c)
+
+separate guidance to industry participants
+who need to make a licence variation to
+add relevant DAP or TCP authorisations to
+an existing licence (we intend this to be
+presented in separate communications
+outside of draft RG 000, given it will be
+temporary for initial applications during the
+April 2027 to October 2027 transition
+period).
+
+To help consumers and industry participants
+know who is entitled to operate in the industry,
+we are considering publishing a list of firms that
+apply for or vary an AFS licence by 7 October
+2027 (and can therefore continue operating until
+their application is decided).
+
+A3Q2 Does the proposal adequately address the
+issues that require ASIC guidance in relation
+to DAP and TCP licence authorisations? If
+not, what other licensing authorisation issues
+should ASIC address in guidance?
+A3Q3 What more could we do to support operators
+who did not have to adjust their AFS licence in
+light of INFO 225 (because they were already
+authorised to offer trading in digital assets that
+are financial products) but will now need to
+add DAPs to their AFS licence?
+
+A4Q1 Do you agree? If not, please give reasons.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 68
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+A5
+
+A5Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We propose to provide a catalogue in draft
+RG 000 which directs firms to existing ASIC
+guidance on the obligations for AFS licensees,
+and provides further guidance (where required)
+on unique aspects of DAPs and TCPs (see
+Section D of draft RG 000).
+
+A5Q2 Does the proposed guidance adequately
+address how the AFS licence obligations
+apply to digital asset business models?
+Please give reasons and suggested guidance.
+A5Q3 What specific risks may arise for DAPs and
+TCPs that we have not considered?
+A5Q4 What additional conflicts of interest should
+DAP and TCP operators be required to
+disclose beyond the existing requirements
+that apply to AFS licensees? See also Table 4
+for conflicts in relation to transactional and
+settlement functions.
+A5Q5 What additional guidance if any, is needed on
+responsible manager requirements for DAPs
+and TCPs, noting the challenges reported in
+meeting these requirements?
+A5Q6 What additional guidance, if any, is needed
+about professional indemnity insurance and
+compensation requirements for DAPs and
+TCPs?
+
+A6
+
+A7
+
+A8
+
+We propose to provide guidance on the
+DAP/TCP Guide and platform rules as set out in
+Section E of draft RG 000.
+
+A6Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We propose to extend our existing relief in ASIC
+Instrument 2025/447 to enable electronic
+disclosure of DAP/TCP Guides.
+
+A7Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We would like to obtain feedback on the
+readability of draft RG 000.
+
+A8Q1 How easy was the guide to read, understand
+and navigate? Please provide reasons for
+your response.
+
+A6Q2 Does the proposed guidance address
+practical disclosure challenges for DAPs and
+TCPs? If not, what disclosure challenges
+should we provide guidance on for DAPs and
+TCPs? Please give reasons and suggested
+guidance.
+
+A7Q2 Should we extend any other generally
+available financial services relief to cover
+DAPs and TCPs? Where you identify such
+relief, please give reasons and explain the
+implications of not having the relief extended.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 69
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+B1
+
+B1Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We propose to exercise ASIC’s powers to make
+asset-holding standards under s912BE. The
+proposed standards are described in Table 2
+and set out in the draft asset-holding standards
+instrument, which is at Attachment 2.
+Note: The draft asset-holding standards
+instrument will change following
+consultation feedback and our finalisation
+process for the instrument. We attach a
+draft to give stakeholders an earlier
+indication of the likely form of the
+standards.
+
+B1Q2 Do the proposed standards sufficiently
+address the risks arising from asset-holding
+activities and apply appropriately to diverse
+DAP and TCP business models? If not, what
+additional standards do you recommend?
+Please give reasons.
+B1Q3 Are the proposed standards appropriately
+clear, sufficiently detailed and capable of
+being complied with in practice? If not, which
+standards raise concerns and why (e.g. due to
+practical, legal or technical barriers to
+implementation)? Please give reasons.
+B1Q4 All obligations within the proposed assetholding standards are planned to come into
+effect on the same date. Are there any
+obligations where an additional transition
+period is required? If so, identify the
+obligations, recommended additional
+transitional period, and estimated impact or
+cost savings.
+B1Q5 For existing DAP and TCP operators and
+custodial or depository service providers, how
+will these proposed obligations affect your
+business?
+
+B2
+
+We propose to not require domestic custody of
+underlying assets held by DAP and TCP
+operators.
+
+B2Q1 Do you agree? If not, please give reasons.
+B2Q2 If ASIC does not require domestic custody,
+are fallback arrangements for dealing with
+emergency situations necessary? If so, what
+arrangements would balance consumer
+protection, cost and operational risk?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 70
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+B3
+
+B3Q1 Do you agree with the proposal? If not, please
+give reasons.
+
+We propose to make standards related to
+holding arrangements for underlying assets, as
+outlined at proposals B1.2–B1.5 in Table 2.
+
+B3Q2 Do the proposed standards sufficiently ensure
+equivalent consumer protection outcomes
+where underlying assets are held under legal
+arrangements other than trust, including
+during insolvency events or where
+arrangements are governed or materially
+affected by foreign law? Please give reasons.
+B3Q3 Does the proposed principles-based approach
+accommodate different holding models and
+types of underlying assets while maintaining
+appropriate consumer protection outcomes?
+If not, what practical, legal or operational
+difficulties do you foresee? Please give
+reasons.
+B3Q4 Are there circumstances where trust
+arrangements are not practical or appropriate
+for particular types of underlying assets?
+If yes, please give reasons.
+B3Q5 Is the standard in proposal B1.4 in Table 2
+(for the operator to ensure that other holding
+arrangements provide reasonably effective
+protection in an insolvency event) sufficiently
+clear and able to be complied with? If not,
+what other protections might be imposed to
+ensure client’s assets are protected in an
+insolvency event? Please give reasons.
+
+B4
+
+We propose that the asset-holding standards
+and the client money and client property
+provisions should operate concurrently (see
+proposal B1.2 in Table 2).
+
+B4Q1 Do you agree with our proposal? If not, please
+give reasons.
+B4Q2 Do the proposed asset-holding standards,
+client money provisions and client property
+provisions collectively provide appropriate
+protection for clients? If not, are there any
+gaps, inconsistencies, uncertainties or
+impractical outcomes? Please give reasons
+and examples.
+B4Q3 Are there circumstances where compliance
+with the client money provisions may be
+impracticable because an operator is unable
+to obtain or maintain an account that satisfies
+s981B? If yes, what relief, modifications or
+alternative arrangements should ASIC
+consider, and what safeguards would be
+necessary to ensure equivalent consumer
+protection outcomes?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 71
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+B5
+
+We propose to require DAP and TCP operators
+to maintain records of wallet structures, wallet
+addresses and other information relating to the
+control of underlying assets (that are digital
+tokens) for at least seven years, and to report
+quarterly to ASIC a list of wallets and addresses
+holding underlying assets for clients (see
+proposal B1.10 in Table 2).
+
+B5Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We propose to exercise ASIC’s powers to make
+transactional and settlement standards under
+s912BF. The proposed standards are set out in
+the draft transactional and settlement standards
+instrument, which is at Attachment 3.
+
+C1Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+C1
+
+Note: The draft transactional and settlement
+standards instrument will change following
+consultation feedback and our finalisation
+process for the instrument. We attach a
+draft to give stakeholders an earlier
+indication of the likely form of the
+standards.
+
+B5Q2 What risks are involved with reporting wallet
+and address information to ASIC?
+B5Q3 How can reporting wallet and address
+information be streamlined to minimise impact
+on licensees? For example, is there a way to
+effectively collect information only pertaining
+to storage addresses, and not deposit
+addresses?
+
+C1Q2 Do the proposed standards adequately
+address the relevant transactional and
+settlement activities? If not, please give
+reasons.
+C1Q3 Do the proposed standards apply
+appropriately to diverse business models in
+the sector? Please give reasons.
+C1Q4 Are there any proposed standards that a DAP
+operator cannot comply with (e.g. due to
+practical, legal or technical barriers to
+implementation)? Please give reasons.
+C1Q5 Are the proposed standards appropriately
+clear and detailed? In your response, please
+give reasons (e.g. are the standards too highlevel or too granular).
+C1Q6 All obligations within the proposed standards
+are planned to come into effect on the same
+date. Are there any obligations where an
+additional transition period is required? If so,
+identify the obligations, preferred transition
+period and estimated impact or cost savings.
+C1Q7 For existing DAP operators, how will these
+proposed obligations affect your business?
+Please provide an estimate of the time and
+costs you will incur to implement the proposed
+rules.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 72
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+C2
+
+C2Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We propose to make some broad transactional
+and settlement standards, which we view as
+‘core obligations’ applying to all operators
+subject to the standards. These are set out in
+Table 3.
+
+C2Q2 Are the proposed core obligations sufficient in
+addressing the risks that arise from digital
+asset execution and settlement activities?
+Please give reasons.
+C2Q3 Does the proposed level of granularity in the
+core obligations support the ability of DAP
+operators to comply? Should specific
+obligations be more, or less prescriptive?
+Please give reasons.
+C2Q4 Through the structure of the transactional and
+settlement standards, there is a separation
+between trading as principal and agent. Does
+this pose operational issues for existing DAP
+operators? Please give reasons.
+C2Q5 Exceptions to Best Execution are proposed
+for Tied Brokers, Tied Dealers and where a
+DAP is acting as principal counterparty to all
+transactions; this requires the separation of
+agency trading to ensure compliance (see
+proposal C2.6 in Table 3). Does this pose
+operational issues for existing DAP
+operators? Please give reasons.
+C2Q6 For existing DAP operators, how will these
+proposed obligations affect your business?
+Please provide an estimate of the time and
+costs you will incur to implement the proposed
+rules.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 73
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+C3
+
+C3Q1 Do you agree with the proposal to prohibit
+principal trading except in the exception
+described in proposal C3.4 in Table 4? Are
+these exceptions appropriate and sufficient? If
+not, give reasons about what you think should
+be changed and your views about how the
+same objective can be achieved.
+
+We propose to make transactional and
+settlement standards on asset admission and
+conflicts management as set out in Table 4.
+
+C3Q2 Do the proposed asset admission and
+conflicts obligations sufficiently address the
+structural conflict of interest risks that are
+commonly present in platforms? Please give
+reasons.
+C3Q3 Is the proposed restriction on operators
+trading as principal in proposal C3.3 in
+Table 4 appropriate to manage the risks of
+conflicts of interest, or is it overly restrictive?
+Please give reasons.
+C3Q4 Are there any circumstances where it would
+be appropriate for an operator to trade as
+principal through their platform and so would
+require an exemption? Please give reasons.
+C3Q5 For existing DAP operators, how will these
+proposed obligations affect your business?
+Please provide an estimate of the time and
+costs you will incur to implement the proposed
+rules.
+C4
+
+We propose to make transactional and
+settlement standards on disclosure and
+transparency as set out in Table 5.
+
+C4Q1 Do you agree with our proposal? If not, please
+give reasons.
+C4Q2 Do the proposed disclosure requirements
+adequately address information asymmetry
+and allow clients to make informed decisions?
+If not, what is missing or what should change?
+C4Q3 Are the proposed minimum content
+requirements for pre-trade disclosures
+sufficient? Please give reasons.
+C4Q4 Are the proposed minimum content
+requirements for post-trade disclosures
+sufficient? Please give reasons.
+C4Q5 For existing DAP operators, how will these
+proposed obligations affect your business?
+Please provide an estimate of the time and
+costs you will incur to implement the proposed
+rules.
+
+© Australian Securities and Investments Commission October 2026
+
+Page 74
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+C5
+
+C5Q1 Do you agree with our proposal? If not, please
+give reasons.
+
+We propose to include standards requiring
+operators to mitigate trading misconduct (see
+Table 6).
+
+C5Q2 Will a requirement to notify ASIC where a
+DAP suspends or terminates a client’s access
+to the platform due to suspected misconduct
+have unintended consequences? If so, please
+give reasons and suggestions on how it could
+be improved. For example, would the
+requirement to notify ASIC of clients removed
+by the operator from the platform discourage
+DAPs from suspending or terminating clients
+engaged in misconduct on their platforms?
+C5Q3 For existing DAP operators, how will these
+proposed standards affect your business?
+Please provide an estimate of the time and
+costs you will incur to implement the proposed
+standards.
+
+C6
+
+D1
+
+We propose that the transactional and
+settlement standards do not apply to
+transactions involving:
+(a)
+
+tokenised tangible property, or
+
+(b)
+
+tokenised derivatives that are not financial
+products (see s761D(3)(a)).
+
+For all licensees that are authorised to provide
+financial services in relation to DAPs and TCPs
+(including operators, advisers and licensees that
+are authorised to deal under s766C(1)(ca)), we
+propose to apply the following financial
+requirements:
+(a)
+
+solvency and positive net assets
+requirements (see RG 166.32–
+RG 166.34);
+
+(b)
+
+if the licensee holds client money in
+excess of $100,000—a requirement to
+hold $50,000 in SLF; and
+
+(c)
+
+if the licensee transacts with clients as
+principal—an adjusted SLF in the sum of
+$50,000, 5% of adjusted liabilities between
+$1 million and $100 million, and 0.5% of
+adjusted liabilities exceeding $100 million.
+
+C6Q1 Do you agree with our proposal? If not, please
+give reasons.
+C6Q2 Are there any other products that should also
+be exempt from the transactional and
+settlement standards? For example, tokenised
+spot foreign exchange transactions (see
+carve-out in s765A(1)(m)).
+D1Q1 Do you agree with this proposal? If not,
+please give reasons.
+D1Q2 Does our proposal adequately support the
+objectives of the financial requirements? If
+not, what should change?
+D1Q3 For existing DAP and TCP operators, how will
+these proposed obligations affect your
+business? Please provide an estimate of the
+time and costs you will incur to implement the
+proposed rules.
+
+These requirements will be imposed through
+licence conditions (see PF 209).
+
+© Australian Securities and Investments Commission October 2026
+
+Page 75
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+D2
+
+D2Q1 Do you agree with this proposal? If not,
+please give reasons.
+
+For licensees that operate (i.e. issue) a DAP or
+TCP, we propose to apply the following financial
+requirements in addition to those proposed
+above in proposal D1:
+(a)
+
+(b)
+
+tailored cash needs requirements—
+operators must:
+(i)
+
+prepare quarterly projections of their
+cashflows over at least the next
+12 months, based on reasonable
+expectations of what is likely to
+occur, and
+
+(ii)
+
+document certain assumptions and
+conclusions (see RG 166.35–
+RG 166.37).
+
+D2Q2 Does this proposal adequately support the
+objectives of the financial requirements? If
+not, what should change? Please give
+reasons.
+D2Q3 For existing DAP and TCP operators, how will
+these proposed obligations affect your
+business? Please provide an estimate of the
+time and costs you will incur to implement the
+proposed rules.
+
+tailored audit requirements—the audit
+reports the licensees file under s989B(3) of
+the Corporations Act must attest to
+compliance (on both a positive and
+negative assurance basis) with the tailored
+cash needs requirement and the proposed
+NTA requirement (see proposal D3).
+
+These requirements will be imposed by
+legislative instrument—see the draft financial
+requirements instrument at Attachment 4. All
+other licensees will be subject to the standard
+cash needs and audit requirements set out in
+licence conditions (see PF 209), unless other
+requirements apply to them because of other
+licence authorisations they hold.
+Note: The draft financial requirements
+instrument will change following
+consultation feedback and our finalisation
+process for the instrument. We attach a
+draft to give stakeholders an earlier
+indication of the likely form of the financial
+requirements (including the three alternate
+options we are consulting on below).
+
+© Australian Securities and Investments Commission October 2026
+
+Page 76
+
+CONSULTATION PAPER 392: Digital asset law reform implementation: Proposed standards and guidance
+
+Proposal
+
+Your feedback
+
+D3
+
+D3Q1 Do you agree with our proposed approach to
+the NTA requirement? If not, what alternative
+approach would better achieve the
+objectives?
+
+For licensees that operate a DAP or TCP, we
+propose to apply an NTA requirement in the
+form of one of the models set out in Table 7. We
+also propose to apply annual indexation (by
+reference to the consumer price index (CPI)) to
+thresholds in the proposed NTA models to
+ensure they remain current. This NTA
+requirement will apply in addition to the
+requirements in proposals D1 and D2.
+This requirement will be imposed by the draft
+financial requirements instrument—see
+Attachment 4.
+
+D3Q2 Which proposed NTA model best supports the
+objectives of the NTA requirement? Please
+give reasons.
+D3Q3 What effect would each model have on
+competition? Would any model create
+practical difficulties? Please give examples.
+D3Q4 Are the proposed amounts and thresholds
+appropriate?
+D3Q5 Should the NTA requirements differentiate
+between the methods of asset holding
+discussed in proposal D3 to reflect the
+different risks and costs of these methods?
+D3Q6 Should any particular assets or liabilities be
+included in, or excluded from, the proposed
+definitions?
+D3Q7 For existing DAP and TCP operators, how will
+these proposed obligations affect your
+business? Please provide an estimate of the
+time and costs you will incur to implement the
+proposed rules.
+
+E1
+
+We propose to update INFO 225 with the
+additional guidance summarised in Table 9. The
+guidance relates to:
+(a)
+
+PDTI and certain related digital assets
+(see anticipated regulations, subject to
+Government processes);
+
+(b)
+
+certain wrapped tokens; and
+
+(c)
+
+custodial staking arrangements.
+
+E1Q1 Do you agree with our proposal? If not, please
+give reasons.
+E1Q2 Does the proposed guidance provide enough
+detail to identify when the PDTI exemption
+applies? If not, what additional details are
+needed?
+
+© Australian Securities and Investments Commission October 2026
+
+Page 77
+
+

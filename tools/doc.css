@@ -1,0 +1,64 @@
+/* Print layout for the PDF. Same brand as the site, set for A4 paper. */
+@page { size: A4; margin: 20mm 18mm 20mm 18mm; }
+@page :first { margin: 0; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; font: 400 10.4pt/1.55 "Be Vietnam Pro", system-ui, sans-serif; color: #0F1A22; }
+a { color: #B3272A; text-decoration: none; word-break: break-word; }
+b, strong { font-weight: 600; }
+p { margin: 0 0 7pt; orphans: 3; widows: 3; }
+
+.cover { height: 297mm; background: linear-gradient(180deg, #0c1317 0%, #1d3140 100%); color: #f1f5f8; padding: 30mm 22mm 0; page-break-after: always; position: relative; }
+.cover::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 4mm; background: #EF5350; }
+.cover .logo { width: 46mm; margin-bottom: 30mm; }
+.cover .eyebrow { font: 700 8.5pt/1.4 "Be Vietnam Pro", sans-serif; letter-spacing: .1em; text-transform: uppercase; color: #8fa1ad; margin: 0 0 8mm; }
+.cover h1 { font-size: 34pt; line-height: 1.1; letter-spacing: -.02em; margin: 0 0 8mm; font-weight: 700; max-width: 150mm; }
+.cover .sub { font-size: 14pt; line-height: 1.45; color: #c9d4db; max-width: 150mm; margin: 0 0 14mm; }
+.cover .checked { font: 400 9pt/1.4 "JetBrains Mono", monospace; color: #8fa1ad; position: absolute; bottom: 22mm; left: 22mm; }
+
+.notice { border: 1px solid #CBD6DE; border-left: 3pt solid #EF5350; border-radius: 6px; padding: 10pt 12pt 4pt; margin: 0 0 10pt; }
+.label { font: 700 7.5pt/1.2 "Be Vietnam Pro", sans-serif; letter-spacing: .1em; text-transform: uppercase; color: #5A6A75; margin: 0 0 6pt; }
+.notice .label { color: #B3272A; }
+.keys { display: flex; gap: 8pt; margin: 0 0 10pt; }
+.keys p { flex: 1; background: #EDF1F4; border-radius: 6px; padding: 8pt 10pt; margin: 0; font-size: 9pt; }
+.keys b { display: block; font-size: 12pt; }
+.howto { font-size: 9pt; color: #33434F; }
+.q { margin: 0 0 6pt; }
+
+h2.chap { font-size: 17pt; line-height: 1.2; letter-spacing: -.01em; font-weight: 600; margin: 18pt 0 6pt; page-break-after: avoid; break-after: avoid; }
+h2.chap .n { font: 500 10pt "JetBrains Mono", monospace; color: #B3272A; vertical-align: 3pt; margin-right: 4pt; }
+h2.appendix { page-break-before: always; break-before: page; margin-top: 0; }
+.lede { font-size: 11.5pt; color: #33434F; }
+.panel { border: 1px solid #CBD6DE; border-radius: 6px; padding: 9pt 11pt 3pt; margin: 0 0 8pt; }
+.panel.co { background: #F4F7F9; }
+.panel.mean { border-left: 3pt solid #B3272A; }
+.panel.mean .label { color: #B3272A; }
+.panel.open { background: #FFF6DC; border-color: #E8D49A; }
+.panel.open .label { color: #8A5A00; }
+.panel.callout .label { color: #0F1A22; font-size: 9pt; letter-spacing: 0; text-transform: none; }
+.panel ol, .panel ul { margin: 0 0 7pt; padding-left: 15pt; }
+.panel li { margin: 0 0 4pt; }
+sup.c { font: 500 6.5pt "JetBrains Mono", monospace; color: #B3272A; vertical-align: 3pt; margin-left: 1pt; }
+.small { font-size: 8.5pt; color: #5A6A75; }
+
+table { width: 100%; border-collapse: collapse; font-size: 8.8pt; margin: 2pt 0 8pt; page-break-inside: auto; }
+tr { page-break-inside: avoid; break-inside: avoid; }
+caption { text-align: left; font: 700 7.5pt/1.2 "Be Vietnam Pro", sans-serif; letter-spacing: .1em; text-transform: uppercase; color: #5A6A75; padding: 0 0 5pt; }
+th, td { text-align: left; vertical-align: top; padding: 5pt 6pt; border-top: 1px solid #CBD6DE; }
+th { background: #EDF1F4; font-weight: 600; font-size: 8pt; color: #33434F; }
+td:first-child { font-weight: 500; }
+table.tl td.d { font: 500 8pt "JetBrains Mono", monospace; white-space: nowrap; color: #33434F; }
+table.tl tr.past td { color: #5A6A75; }
+table.tl tr.next td { color: #B3272A; font-weight: 600; }
+
+.src { margin: 0 0 8pt; page-break-inside: avoid; break-inside: avoid; }
+.src .st { margin: 0 0 3pt; font-size: 9pt; }
+.src ul { margin: 0; padding-left: 14pt; font-size: 8.4pt; color: #33434F; }
+.src li { margin: 0 0 2pt; }
+.src .at { color: #5A6A75; }
+.end { margin-top: 14pt; font-size: 9pt; color: #5A6A75; }
+
+/* keep labels and headings with the text that follows them */
+.label, .lede, caption, h2.chap { break-after: avoid; page-break-after: avoid; }
+.panel > p:nth-of-type(2), .panel > table:first-of-type, .panel > ol:first-of-type { break-before: avoid; page-break-before: avoid; }
+.panel > p, .q { break-inside: avoid; page-break-inside: avoid; }
