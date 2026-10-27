@@ -18,7 +18,7 @@ Numbers in square brackets point to the source list at the end. Text under **Wha
 
 **What changes for issuers?** Less than many expect. When a fund keeps its primary register of unit holders on chain, ASIC’s draft guide would usually treat it as a managed investment scheme rather than a tokenised custody platform [5]. The new rules bite hardest on whoever holds investors’ tokens or assets.
 
-**Where does Redbelly fit?** Its identity and eligibility tools match the Act’s requirement for transparent, non-discriminatory eligibility rules [1][10]. Whether the network counts as public digital token infrastructure, which sits outside licensing, is not settled [1][4].
+**Where does Redbelly fit?** Its identity and eligibility tools can enforce the kind of eligibility rules the Act asks platforms to set out, though the platform operator still has to make those rules transparent and non-discriminatory [1][10]. Whether the network counts as public digital token infrastructure, which sits outside licensing, is not settled [1][4].
 
 ## 1. What the Act is, and why it exists
 

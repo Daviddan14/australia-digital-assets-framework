@@ -14,6 +14,7 @@ p { margin: 0 0 7pt; orphans: 3; widows: 3; }
 .cover .eyebrow { font: 700 8.5pt/1.4 "Be Vietnam Pro", sans-serif; letter-spacing: .1em; text-transform: uppercase; color: #8fa1ad; margin: 0 0 8mm; }
 .cover h1 { font-size: 34pt; line-height: 1.1; letter-spacing: -.02em; margin: 0 0 8mm; font-weight: 700; max-width: 150mm; }
 .cover .sub { font-size: 14pt; line-height: 1.45; color: #c9d4db; max-width: 150mm; margin: 0 0 14mm; }
+.cover .advice { display: inline-block; font: 700 10pt/1.4 "Be Vietnam Pro", sans-serif; color: #fff; border-left: 2mm solid #EF5350; padding: 2mm 0 2mm 4mm; margin: 0; }
 .cover .checked { font: 400 9pt/1.4 "JetBrains Mono", monospace; color: #8fa1ad; position: absolute; bottom: 22mm; left: 22mm; }
 
 .notice { border: 1px solid #CBD6DE; border-left: 3pt solid #EF5350; border-radius: 6px; padding: 10pt 12pt 4pt; margin: 0 0 10pt; }

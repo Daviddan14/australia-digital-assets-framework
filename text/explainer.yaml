@@ -9,7 +9,7 @@
 title: The Digital Assets Framework Act, in plain words
 subtitle: What Australia's new platform licensing law means for issuers, for holders, and for Tokeniser on Redbelly Network
 checked: 25 October 2026
-site_url: https://australia-digital-assets-framework-ten.vercel.app
+site_url: https://australia-digital-assets-framework.vercel.app
 
 key_dates:
   - date: 27 November 2026
@@ -54,8 +54,9 @@ short:
       on whoever holds investors' tokens or assets.
   - q: Where does Redbelly fit?
     a: >-
-      Its identity and eligibility tools match the Act's requirement for transparent,
-      non-discriminatory eligibility rules {{act-eligibility rb-receptor-verifier}}.
+      Its identity and eligibility tools can enforce the kind of eligibility rules the Act
+      asks platforms to set out, though the platform operator still has to make those
+      rules transparent and non-discriminatory {{act-eligibility rb-receptor-verifier}}.
       Whether the network counts as public digital token infrastructure, which sits
       outside licensing, is not settled {{act-pdti cp-pdti-select}}.
 

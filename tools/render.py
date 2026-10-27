@@ -422,9 +422,9 @@ def sources_page():
 
 
 def not_found_page():
-    body = """<section class="hero"><div class="hero-in"><p class="eyebrow"><b>&#9632;</b> 404</p>
+    body = """<main id="main" tabindex="-1"><section class="hero"><div class="hero-in"><p class="eyebrow"><b>&#9632;</b> 404</p>
 <h1>That page is not here</h1><p class="sub">The guide, the short version and the sources are all one click away.</p>
-<div class="actions"><a class="btn btn-fill" href="index.html">Go to the guide</a><a class="btn btn-line" href="source-list.html">Sources</a></div></div></section>"""
+<div class="actions"><a class="btn btn-fill" href="index.html">Go to the guide</a><a class="btn btn-line" href="source-list.html">Sources</a></div></div></section></main>"""
     return page("Page not found | " + D["explainer"]["title"], "Page not found.", "404.html", "", body)
 
 
@@ -447,6 +447,7 @@ def doc_html(for_word=False):
         out.append(f'<section class="cover"><img src="file://{logo}" alt="Redbelly DAO" class="logo">'
                    f'<p class="eyebrow">Plain-language explainer &middot; Redbelly DAO research</p>'
                    f"<h1>{esc(smart(ex['title']))}</h1><p class=\"sub\">{esc(smart(ex['subtitle']))}</p>"
+                   f'<p class="advice">General information, not legal advice.</p>'
                    f'<p class="checked">Sources checked {esc(ex["checked"])} &middot; {len(D["sources"])} sources &middot; {len(D["evidence"])} quoted passages</p></section>')
     else:
         out.append(f"<p><em>{esc(smart(ex['subtitle']))}</em></p>"

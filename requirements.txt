@@ -1,5 +1,5 @@
 PyYAML>=6.0
-# only for scripts/assets.py and scripts/reference_docx.py
+# only for tools/assets.py and tools/reference_docx.py
 fonttools>=4.55
 brotli>=1.1
 Pillow>=10.0

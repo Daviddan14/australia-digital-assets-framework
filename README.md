@@ -4,7 +4,7 @@ A plain-language explainer of Australia's Corporations Amendment (Digital Assets
 
 **General information, not legal advice.**
 
-Live site: https://australia-digital-assets-framework-ten.vercel.app
+Live site: https://australia-digital-assets-framework.vercel.app
 
 ## Deliverables (TASK-30)
 
@@ -43,9 +43,9 @@ text/
   summary.yaml       the community summary and the X thread
 source-copies/       saved copy of every source (pages/), with fingerprints.json
 tools/
-  save_sources.py        save fresh copies of the sources
+  save_sources.py    save fresh copies of the sources
   verify.py          run every check above
-  render.py           build the site and the PDF, Word and Markdown files
+  render.py          build the site and the PDF, Word and Markdown files
   assets.py          prepare fonts, logos, icons and the social card
 site/                the published site (Vercel serves this folder)
 font-licences/       licences for the two typefaces
